@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:28:20
+# UPDATED: 2022-08-31 02:29:33
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24847
+# DOMAIN-SUFFIX: 24848
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 44
-# TOTAL: 25079
+# TOTAL: 25080
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
@@ -6521,6 +6521,7 @@ youtubei.googleapis.com
 .discord.media
 .discordapp.com
 .discordapp.net
+.discordstatus.com
 .discreetmilf.com
 .discuss.com.hk
 .discuss4u.com
@@ -24895,14 +24896,14 @@ youtubei.googleapis.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:28:20
+# UPDATED: 2022-08-31 02:29:33
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24847
+# DOMAIN-SUFFIX: 24848
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 44
-# TOTAL: 25079
+# TOTAL: 25080
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -25102,23 +25103,32 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-17 02:32:23
+# UPDATED: 2022-08-31 02:29:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 20
+# DOMAIN: 29
 # DOMAIN-KEYWORD: 21
-# DOMAIN-SUFFIX: 1191
-# IP-CIDR: 912
-# IP-CIDR6: 5
+# DOMAIN-SUFFIX: 1221
+# IP-CIDR: 918
+# IP-CIDR6: 6
 # URL-REGEX: 1
-# USER-AGENT: 57
-# TOTAL: 2207
+# USER-AGENT: 56
+# TOTAL: 2252
 api.okzy.tv
 apm-misaka.biliapi.net
 apple.comscoreresearch.com
 bcbolt446c5271-a.akamaihd.net
+cs428.wpc.edgecastcdn.net
+daznfeeds.com.edgekey.net
+dca-lm-livedazn.secure.footprint.net
+e13252.dscg.akamaiedge.net
 edge.cwtv-vod-ext.top.comcast.net
 gspe1-ssl.ls.apple.com
+h-dazn.online-metrix.net
+h-netflix.online-metrix.net
 hamifans.emome.net
+hulu.com.c.footprint.net
+hulu.map.fastly.net
+images-daznservices-com.cdn.ampproject.org
 itvpnpmobile-a.akamaihd.net
 ktpx.amazon.com
 news-client.apple.com
@@ -25179,12 +25189,20 @@ www.amazon.com
 .att.tv
 .atttvnow.com
 .attwatchtv.com
+.atv-ext-eu.amazon.com
+.atv-ext-fe.amazon.com
+.atv-ext.amazon.com
+.atv-ps-eu.amazon.co.uk
+.atv-ps-eu.amazon.com
+.atv-ps-fe.amazon.co.jp
+.atv-ps-fe.amazon.com
 .atv-ps.amazon.com
 .avodmp4s3ww-a.akamaihd.net
 .babble.com
 .babyzone.com
 .bahamut.com.tw
 .bam.nr-data.net
+.bam.nr-date.net
 .bamgrid.com
 .bbc.co
 .bbc.co.uk
@@ -25280,6 +25298,9 @@ www.amazon.com
 .dazn-api.com
 .dazn.com
 .dazndn.com
+.daznedge.net
+.daznfeeds.com
+.daznservices.com
 .dc2-vodhls-perform.secure.footprint.net
 .dca-ll-livedazn-dznlivejp.s.llnwi.net
 .dca-ll-voddazn-dznvodjp.s.llnwi.net
@@ -25426,6 +25447,7 @@ www.amazon.com
 .findyourlimits.com
 .firebaseio.com
 .fls-na.amazon.com
+.flxvpn.net
 .formula1.com
 .forthethrone.com
 .fox-corporation.com
@@ -25626,6 +25648,7 @@ www.amazon.com
 .gooddaychicago.com
 .googlevideo.com
 .gorin.jp
+.gvt1.com
 .gvt2.com
 .happyon.jp
 .hath.network
@@ -25640,9 +25663,13 @@ www.amazon.com
 .hboasia4-i.akamaihd.net
 .hboasia5-i.akamaihd.net
 .hbogeo.cust.footprint.net
+.hbogo.co.th
 .hbogo.com
+.hbogo.eu
 .hbogoasia.com
 .hbogoasia.hk
+.hbogoasia.id
+.hbogoasia.ph
 .hbolb.onwardsmg.com
 .hbomax.com
 .hbomaxcdn.com
@@ -25694,6 +25721,7 @@ www.amazon.com
 .huluim.com
 .huluinstantmessenger.com
 .huluitaly.com
+.hulumail.com
 .hulunet.com
 .hulunetwork.com
 .huluplus.com
@@ -25843,6 +25871,7 @@ www.amazon.com
 .nebula.app
 .netflix.ca
 .netflix.com
+.netflix.com.au
 .netflix.com.edgesuite.net
 .netflix.net
 .netflixdnstest0.com
@@ -25857,6 +25886,7 @@ www.amazon.com
 .netflixdnstest8.com
 .netflixdnstest9.com
 .netflixinvestor.com
+.netflixstudios.com
 .netflixtechblog.com
 .nettyinternet.com
 .newsnowfox.com
@@ -25995,7 +26025,9 @@ www.amazon.com
 .soccermatchpass.com
 .socdm.com
 .sorcerersarena.com
+.soundcloud.app.goo.gl
 .soundcloud.com
+.soundcloudmail.com
 .spaindisney.com
 .speeddreamride.com
 .speedfantasybid.com
@@ -26011,6 +26043,8 @@ www.amazon.com
 .spotifycodes.com
 .spotifyforbrands.com
 .spotifyjobs.com
+.spotifynewsroom.jp
+.spotilocal.com
 .star-brasil.com
 .star-latam.com
 .starwars.com
@@ -26040,6 +26074,7 @@ www.amazon.com
 .tiktokcdn.com
 .tiktokv.com
 .timestalks.com
+.tospotify.com
 .ttvnw.net
 .tv.apple.com
 .tvb.com
@@ -26074,6 +26109,8 @@ www.amazon.com
 .viacom.com
 .viacomcbs.com
 .viacomcbspressexpress.com
+.video.a2z.com
+.video.google.com
 .videos-f.jwpsrv.com
 .vidol.tv
 .viki.com
@@ -26147,6 +26184,7 @@ www.amazon.com
 .youboranqs01.com
 .youtu.be
 .youtube-nocookie.com
+.youtube-ui.l.google.com
 .youtube.ae
 .youtube.al
 .youtube.am
@@ -26242,6 +26280,7 @@ www.amazon.com
 .youtube.fi
 .youtube.fr
 .youtube.ge
+.youtube.googleapis.com
 .youtube.gr
 .youtube.gt
 .youtube.hk
@@ -26299,6 +26338,7 @@ www.amazon.com
 .youtube.uy
 .youtube.vn
 .youtubeeducation.com
+.youtubeembeddedplayer.googleapis.com
 .youtubefanfest.com
 .youtubegaming.com
 .youtubego.co.id
@@ -26357,16 +26397,16 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-17 02:32:24
+# UPDATED: 2022-08-31 02:29:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 20
+# DOMAIN: 29
 # DOMAIN-KEYWORD: 21
-# DOMAIN-SUFFIX: 1191
-# IP-CIDR: 912
-# IP-CIDR6: 5
+# DOMAIN-SUFFIX: 1221
+# IP-CIDR: 918
+# IP-CIDR6: 6
 # URL-REGEX: 1
-# USER-AGENT: 57
-# TOTAL: 2207
+# USER-AGENT: 56
+# TOTAL: 2252
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -26388,7 +26428,6 @@ DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
 DOMAIN-KEYWORD,youtube
-USER-AGENT,*Spotify*
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtube*
@@ -26691,6 +26730,8 @@ IP-CIDR,184.150.15.99/32,no-resolve
 IP-CIDR,184.175.190.38/32,no-resolve
 IP-CIDR,184.51.102.0/24,no-resolve
 IP-CIDR,185.2.220.0/22,no-resolve
+IP-CIDR,185.42.236.0/24,no-resolve
+IP-CIDR,185.42.238.0/24,no-resolve
 IP-CIDR,185.43.181.232/32,no-resolve
 IP-CIDR,185.43.181.234/32,no-resolve
 IP-CIDR,185.43.181.236/32,no-resolve
@@ -26778,6 +26819,8 @@ IP-CIDR,198.32.232.82/32,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,198.7.237.134/32,no-resolve
+IP-CIDR,199.200.48.0/22,no-resolve
+IP-CIDR,199.60.116.0/24,no-resolve
 IP-CIDR,200.107.255.198/32,no-resolve
 IP-CIDR,200.107.255.202/32,no-resolve
 IP-CIDR,200.107.255.206/32,no-resolve
@@ -26887,6 +26930,7 @@ IP-CIDR,208.76.186.50/32,no-resolve
 IP-CIDR,208.76.186.58/32,no-resolve
 IP-CIDR,208.76.186.62/32,no-resolve
 IP-CIDR,208.76.186.7/32,no-resolve
+IP-CIDR,208.91.156.0/22,no-resolve
 IP-CIDR,209.166.100.18/32,no-resolve
 IP-CIDR,209.166.100.22/32,no-resolve
 IP-CIDR,210.201.32.11/32,no-resolve
@@ -27256,6 +27300,7 @@ IP-CIDR,78.146.119.39/32,no-resolve
 IP-CIDR,78.146.119.41/32,no-resolve
 IP-CIDR,78.146.119.47/32,no-resolve
 IP-CIDR,78.146.119.7/32,no-resolve
+IP-CIDR,8.28.124.0/23,no-resolve
 IP-CIDR,8.41.4.0/24,no-resolve
 IP-CIDR,80.64.176.144/32,no-resolve
 IP-CIDR,80.64.176.146/32,no-resolve
@@ -27359,6 +27404,7 @@ IP-CIDR,96.23.20.78/32,no-resolve
 IP-CIDR,96.4.63.99/32,no-resolve
 IP-CIDR,99.81.97.56/32,no-resolve
 IP-CIDR6,2607:fb10::/32,no-resolve
+IP-CIDR6,2620:100:3000::/40,no-resolve
 IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2620:120:e000::/40,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
