@@ -1,18 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-07 02:32:15
-# DOMAIN: 84
+# UPDATED: 2022-09-08 01:25:34
+# DOMAIN: 83
 # DOMAIN-KEYWORD: 14
 # DOMAIN-SUFFIX: 69211
-# IP-CIDR: 6300
+# IP-CIDR: 6261
 # IP-CIDR6: 4259
 # USER-AGENT: 65
-# TOTAL: 79933
+# TOTAL: 79893
 265.com
 adservice.google.com
 analytics.strava.com
-api.steampowered.com
 app-measurement.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
