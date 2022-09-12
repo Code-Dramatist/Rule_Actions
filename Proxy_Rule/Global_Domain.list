@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-31 02:29:33
+# UPDATED: 2022-09-13 02:32:53
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24848
+# DOMAIN-SUFFIX: 24850
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 44
-# TOTAL: 25080
+# TOTAL: 25082
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
@@ -4224,6 +4224,7 @@ youtubei.googleapis.com
 .blob.core.windows.net
 .blobstore.apple.com
 .blockbuster.com
+.blockcast.it
 .blockcn.com
 .blockedbyhk.com
 .blockedinchina.net
@@ -11605,6 +11606,7 @@ youtubei.googleapis.com
 .libo15.com
 .library.pressdisplay.com
 .libraryinformationtechnology.com
+.libredd.it
 .libreswan.org
 .librox.co.za
 .libsyn.com
