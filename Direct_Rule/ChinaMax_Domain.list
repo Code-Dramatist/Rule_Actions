@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-17 02:34:23
+# UPDATED: 2022-09-18 02:33:21
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69207
+# DOMAIN-SUFFIX: 69222
 # IP-ASN: 946
-# IP-CIDR: 6260
+# IP-CIDR: 6263
 # IP-CIDR6: 4258
 # USER-AGENT: 65
-# TOTAL: 80833
+# TOTAL: 80851
 265.com
 adservice.google.com
 analytics.strava.com
@@ -1276,6 +1276,7 @@ www4-static.gog-statics.com
 .12ym.com
 .12ystar.com
 .13.gs
+.130014.xyz
 .130158.com
 .131.com
 .13112.com
@@ -1715,7 +1716,6 @@ www4-static.gog-statics.com
 .17getfun.com
 .17gwx.com
 .17haibao.com
-.17heli.com
 .17house.com
 .17hpl.com
 .17huang.com
@@ -5064,6 +5064,8 @@ www4-static.gog-statics.com
 .58921.com
 .5898yun.com
 .58abb.com
+.58antenna.cn
+.58antenna.com
 .58baogao.com
 .58buy.com
 .58cdn.com.cn
@@ -5076,11 +5078,13 @@ www4-static.gog-statics.com
 .58dadi.com
 .58daojia.com
 .58display.com
+.58dns.org
 .58duihuan.com
 .58fangdai.com
 .58food.com
 .58game.com
 .58gameup.com
+.58ganji-corp.com
 .58ganji.com
 .58hzb.com
 .58img.com
@@ -5108,12 +5112,15 @@ www4-static.gog-statics.com
 .58trz.com
 .58tyh.com
 .58ubk.com
+.58uxd.com
 .58v5.cn
 .58wan.com
 .58wangwei.com
 .58wanwan.com
 .58woyou.com
 .58wzb.com
+.58xinghuo.cn
+.58xinghuo.com
 .58xinrui.com
 .58xs.com
 .58xs.la
@@ -5541,6 +5548,7 @@ www4-static.gog-statics.com
 .662p.com
 .6631.com
 .663395.net
+.66377311795.com
 .66378.com
 .66460.com
 .6655.com
@@ -7236,6 +7244,7 @@ www4-static.gog-statics.com
 .9823f7b9o6.com
 .984g.com
 .985.so
+.985dh.com
 .985sy.com
 .98654.com
 .987.com
@@ -7884,6 +7893,7 @@ www4-static.gog-statics.com
 .adtime.com
 .adtmm.com
 .adubest.com
+.adukwai.com
 .adunicorn.com
 .aduspot.com
 .adutou.com
@@ -8029,6 +8039,7 @@ www4-static.gog-statics.com
 .ahhtzx.com
 .ahhwdp.com
 .ahhxcm.com
+.ahitv.com
 .ahjdq.com
 .ahjem.com
 .ahjgxy.com
@@ -9414,7 +9425,6 @@ www4-static.gog-statics.com
 .appying.com
 .appykt.com
 .appzhonghua.com
-.appzhu.com
 .apqianzhuo.com
 .aps.org
 .apsgo.com
@@ -13403,7 +13413,6 @@ www4-static.gog-statics.com
 .ccchz.com
 .cccitu.com
 .cccity.cc
-.ccciw.com
 .cccmat.com
 .cccnec.com
 .cccollector.com
@@ -15516,6 +15525,7 @@ www4-static.gog-statics.com
 .chrice.net
 .chrieschina.com
 .chris-tina.com
+.christophero.xyz
 .chrmn.com
 .chromecj.com
 .chromedownloads.net
@@ -16480,7 +16490,6 @@ www4-static.gog-statics.com
 .cndhotels.com
 .cndids.com
 .cndingxi.com
-.cndkc.net
 .cndns.com
 .cndns5.com
 .cndoornet.com
@@ -20008,6 +20017,7 @@ www4-static.gog-statics.com
 .dns6868.com
 .dns800.com
 .dnsapi.cn
+.dnsbn.com
 .dnsce.com
 .dnscert.cn
 .dnscnc.com
@@ -25749,6 +25759,7 @@ www4-static.gog-statics.com
 .gppapp.com
 .gps8.com
 .gpslook.net
+.gpsonextra.net
 .gpsoo.net
 .gpsspg.com
 .gpsuu.com
@@ -25943,8 +25954,10 @@ www4-static.gog-statics.com
 .gtm-a4b9.com
 .gtm-a5b4.com
 .gtm-i1d1.com
+.gtm-i1d2.com
 .gtm-i1d6.com
 .gtm-i1d7.com
+.gtm-i1d8.com
 .gtm-i1d9.com
 .gtm-i2d8.com
 .gtm.pub
@@ -32234,6 +32247,7 @@ www4-static.gog-statics.com
 .isvjcloud.com
 .isvjd.com
 .iswifting.com
+.isxtv.com
 .isyour.love
 .it-api.com
 .it-bound.com
@@ -32676,6 +32690,7 @@ www4-static.gog-statics.com
 .iz55.com
 .izacholsm.com
 .izaodao.com
+.izatcloud.net
 .izazamall.com
 .izdatatech.com
 .izestchina.com
@@ -35078,6 +35093,7 @@ www4-static.gog-statics.com
 .jxjyzy.com
 .jxkjzb.com
 .jxkp.com
+.jxksw.net
 .jxlgjd.com
 .jxlhz.com
 .jxlwgame.com
@@ -35974,7 +35990,6 @@ www4-static.gog-statics.com
 .kj-pcb.com
 .kj1d.com
 .kj3.com
-.kj5544.com
 .kjb2c.com
 .kjcad.net
 .kjcdn.com
@@ -39172,7 +39187,6 @@ www4-static.gog-statics.com
 .lujun9972.win
 .lukachen.com
 .lukaplayer.com
-.lukeer.com
 .lukiya.com
 .lukou.com
 .lukuanart.com
@@ -46934,7 +46948,6 @@ www4-static.gog-statics.com
 .qiue21.com
 .qiufaqf.com
 .qiufengblog.com
-.qiugonglue.com
 .qiugouxinxi.net
 .qiujiaoyou.net
 .qiujieyl.com
@@ -48681,6 +48694,7 @@ www4-static.gog-statics.com
 .ruanwenclass.com
 .ruanwenkezhan.com
 .ruanwenlala.com
+.ruanyu8.xyz
 .ruanyuan.net
 .rubaoo.com
 .ruby-china.com
@@ -49148,6 +49162,7 @@ www4-static.gog-statics.com
 .sc666.com
 .sc823.com
 .sc946.com
+.sc96655.com
 .scacm.com
 .scaffi.com
 .scala.cool
@@ -49366,6 +49381,7 @@ www4-static.gog-statics.com
 .sdfmgg.com
 .sdg-china.com
 .sdg53.com
+.sdgdwljt.com
 .sdgdxt.com
 .sdgh.net
 .sdgho.com
@@ -54734,7 +54750,6 @@ www4-static.gog-statics.com
 .timchen314.com
 .time-weekly.com
 .time-year.com
-.time.izatcloud.net
 .time2011.com
 .timecoo.com
 .timedg.com
@@ -55660,6 +55675,7 @@ www4-static.gog-statics.com
 .ttsfgyrj.com
 .ttshengbei.com
 .ttsmmwb.com
+.ttsq.xyz
 .ttsq6.net
 .ttstream.com
 .ttsz8.com
@@ -56320,6 +56336,7 @@ www4-static.gog-statics.com
 .ucdok.com
 .ucdrs.net
 .ucdwhatif.com
+.ucfma.com
 .ucfpay.com
 .ucgslb.cn
 .ucgslb.com
@@ -60840,7 +60857,6 @@ www4-static.gog-statics.com
 .xbwbh.com
 .xbwebyun.com
 .xbxgame.com
-.xbxwx.org
 .xbxxb.com
 .xbxxz.com
 .xbzlapp.com
@@ -61237,7 +61253,6 @@ www4-static.gog-statics.com
 .xiangshi.cc
 .xiangshi123.com
 .xiangshu.net
-.xiangshuiping.com
 .xiangsidi.com
 .xiangsw.com
 .xiangtaole.com
@@ -61869,6 +61884,7 @@ www4-static.gog-statics.com
 .xincheng.com
 .xinchengzhongbang.com
 .xincheping.com
+.xinchong.com
 .xinchukj.com
 .xincmm.com
 .xindaifu.com
@@ -66908,7 +66924,6 @@ www4-static.gog-statics.com
 .zglscom.com
 .zglww.net
 .zglxw.com
-.zglzb.com
 .zglzh.com
 .zgmcxw.com
 .zgmdbw.com
