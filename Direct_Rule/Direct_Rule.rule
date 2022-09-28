@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-28 02:40:27
+# UPDATED: 2022-09-29 02:40:11
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69329
+# DOMAIN-SUFFIX: 69309
 # IP-ASN: 932
-# IP-CIDR: 6299
+# IP-CIDR: 6313
 # IP-CIDR6: 4293
 # USER-AGENT: 65
-# TOTAL: 81015
+# TOTAL: 81009
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -21,9 +21,9 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
 USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
@@ -33,7 +33,6 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*,DIRECT
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
 USER-AGENT,%E5%8D%B3%E5%88%BB*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
 USER-AGENT,*Vainglory*,DIRECT
@@ -61,34 +60,35 @@ USER-AGENT,eusoft_ting_en_iphone,DIRECT
 USER-AGENT,hearthstone*
 USER-AGENT,hide*,DIRECT
 USER-AGENT,ting_en,DIRECT
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,MiguVideo*
+USER-AGENT,MOO*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,Youku*
+USER-AGENT,QYPlayer*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,baiduyinyue
+USER-AGENT,iQiYi*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,Himalaya*
 USER-AGENT,MGTV*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
-USER-AGENT,baiduyinyue
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
+USER-AGENT,%E4%BC%98%E9%85%B7*
+USER-AGENT,Youku*
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve
 IP-ASN,10212,no-resolve
@@ -1102,13 +1102,7 @@ IP-CIDR,101.16.0.0/12,no-resolve
 IP-CIDR,101.192.0.0/14,no-resolve
 IP-CIDR,101.196.0.0/16,no-resolve
 IP-CIDR,101.198.0.0/22,no-resolve
-IP-CIDR,101.198.128.0/18,no-resolve
-IP-CIDR,101.198.193.0/24,no-resolve
-IP-CIDR,101.198.194.0/23,no-resolve
-IP-CIDR,101.198.196.0/22,no-resolve
-IP-CIDR,101.198.200.0/21,no-resolve
-IP-CIDR,101.198.208.0/20,no-resolve
-IP-CIDR,101.198.224.0/19,no-resolve
+IP-CIDR,101.198.128.0/17,no-resolve
 IP-CIDR,101.199.0.0/19,no-resolve
 IP-CIDR,101.199.128.0/17,no-resolve
 IP-CIDR,101.199.48.0/20,no-resolve
@@ -1772,8 +1766,7 @@ IP-CIDR,103.20.12.0/22,no-resolve
 IP-CIDR,103.20.128.0/22,no-resolve
 IP-CIDR,103.20.160.0/22,no-resolve
 IP-CIDR,103.20.248.0/22,no-resolve
-IP-CIDR,103.20.32.0/23,no-resolve
-IP-CIDR,103.20.34.0/24,no-resolve
+IP-CIDR,103.20.32.0/22,no-resolve
 IP-CIDR,103.20.68.0/22,no-resolve
 IP-CIDR,103.200.136.0/21,no-resolve
 IP-CIDR,103.200.144.0/20,no-resolve
@@ -3690,6 +3683,8 @@ IP-CIDR,120.138.32.224/29,no-resolve
 IP-CIDR,120.143.128.0/19,no-resolve
 IP-CIDR,120.192.0.0/10,no-resolve
 IP-CIDR,120.24.0.0/14,no-resolve
+IP-CIDR,120.29.252.0/23,no-resolve
+IP-CIDR,120.29.254.0/24,no-resolve
 IP-CIDR,120.30.0.0/15,no-resolve
 IP-CIDR,120.32.0.0/12,no-resolve
 IP-CIDR,120.48.0.0/15,no-resolve
@@ -4008,20 +4003,7 @@ IP-CIDR,139.176.0.0/16,no-resolve
 IP-CIDR,139.183.0.0/16,no-resolve
 IP-CIDR,139.186.0.0/16,no-resolve
 IP-CIDR,139.189.0.0/16,no-resolve
-IP-CIDR,139.196.0.0/15,no-resolve
-IP-CIDR,139.198.0.0/18,no-resolve
-IP-CIDR,139.198.113.0/24,no-resolve
-IP-CIDR,139.198.114.0/23,no-resolve
-IP-CIDR,139.198.116.0/22,no-resolve
-IP-CIDR,139.198.122.0/23,no-resolve
-IP-CIDR,139.198.124.0/22,no-resolve
-IP-CIDR,139.198.128.0/17,no-resolve
-IP-CIDR,139.198.66.0/23,no-resolve
-IP-CIDR,139.198.68.0/22,no-resolve
-IP-CIDR,139.198.72.0/21,no-resolve
-IP-CIDR,139.198.80.0/20,no-resolve
-IP-CIDR,139.198.96.0/20,no-resolve
-IP-CIDR,139.199.0.0/16,no-resolve
+IP-CIDR,139.196.0.0/14,no-resolve
 IP-CIDR,139.200.0.0/13,no-resolve
 IP-CIDR,139.208.0.0/13,no-resolve
 IP-CIDR,139.217.0.0/16,no-resolve
@@ -4182,7 +4164,21 @@ IP-CIDR,156.107.160.0/24,no-resolve
 IP-CIDR,156.107.170.0/24,no-resolve
 IP-CIDR,156.107.178.0/23,no-resolve
 IP-CIDR,156.107.180.0/23,no-resolve
+IP-CIDR,156.154.140.0/22,no-resolve
+IP-CIDR,156.154.144.0/23,no-resolve
+IP-CIDR,156.154.153.0/24,no-resolve
+IP-CIDR,156.154.154.0/24,no-resolve
+IP-CIDR,156.154.156.0/22,no-resolve
+IP-CIDR,156.154.169.0/24,no-resolve
+IP-CIDR,156.154.170.0/23,no-resolve
+IP-CIDR,156.154.172.0/23,no-resolve
+IP-CIDR,156.154.174.0/24,no-resolve
+IP-CIDR,156.154.191.0/24,no-resolve
+IP-CIDR,156.154.54.0/23,no-resolve
+IP-CIDR,156.154.58.0/24,no-resolve
 IP-CIDR,156.154.62.0/23,no-resolve
+IP-CIDR,156.154.64.0/21,no-resolve
+IP-CIDR,156.154.72.0/23,no-resolve
 IP-CIDR,157.0.0.0/16,no-resolve
 IP-CIDR,157.119.0.0/22,no-resolve
 IP-CIDR,157.119.132.0/22,no-resolve
@@ -4278,6 +4274,7 @@ IP-CIDR,165.154.104.0/21,no-resolve
 IP-CIDR,165.154.112.0/20,no-resolve
 IP-CIDR,165.154.128.0/18,no-resolve
 IP-CIDR,165.154.192.0/19,no-resolve
+IP-CIDR,165.156.16.0/21,no-resolve
 IP-CIDR,165.156.30.0/24,no-resolve
 IP-CIDR,165.254.82.27/32,no-resolve
 IP-CIDR,165.84.197.0/24,no-resolve
@@ -4459,6 +4456,7 @@ IP-CIDR,188.128.15.214/31,no-resolve
 IP-CIDR,188.131.128.0/17,no-resolve
 IP-CIDR,188.254.55.229/32,no-resolve
 IP-CIDR,188.43.11.45/32,no-resolve
+IP-CIDR,192.100.59.0/24,no-resolve
 IP-CIDR,192.102.204.0/22,no-resolve
 IP-CIDR,192.11.23.0/24,no-resolve
 IP-CIDR,192.11.236.0/24,no-resolve
@@ -4491,6 +4489,9 @@ IP-CIDR,194.138.202.0/23,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
 IP-CIDR,194.246.96.0/24,no-resolve
 IP-CIDR,195.142.215.0/24,no-resolve
+IP-CIDR,198.133.199.0/24,no-resolve
+IP-CIDR,198.153.192.0/24,no-resolve
+IP-CIDR,198.153.194.0/24,no-resolve
 IP-CIDR,198.175.100.0/22,no-resolve
 IP-CIDR,198.208.112.0/23,no-resolve
 IP-CIDR,198.208.17.0/24,no-resolve
@@ -4501,7 +4502,10 @@ IP-CIDR,198.208.63.0/24,no-resolve
 IP-CIDR,198.208.67.0/24,no-resolve
 IP-CIDR,199.244.144.0/24,no-resolve
 IP-CIDR,199.65.192.0/21,no-resolve
+IP-CIDR,199.7.66.0/23,no-resolve
+IP-CIDR,199.7.68.0/23,no-resolve
 IP-CIDR,199.7.72.0/24,no-resolve
+IP-CIDR,199.85.126.0/23,no-resolve
 IP-CIDR,20.134.160.0/20,no-resolve
 IP-CIDR,20.139.160.0/20,no-resolve
 IP-CIDR,20.249.255.0/24,no-resolve
@@ -6004,12 +6008,18 @@ IP-CIDR,203.99.8.0/21,no-resolve
 IP-CIDR,203.99.80.0/20,no-resolve
 IP-CIDR,204.114.176.0/23,no-resolve
 IP-CIDR,204.55.160.0/24,no-resolve
+IP-CIDR,204.69.234.0/24,no-resolve
+IP-CIDR,204.74.101.0/24,no-resolve
+IP-CIDR,204.74.108.0/22,no-resolve
+IP-CIDR,204.74.112.0/22,no-resolve
+IP-CIDR,204.74.66.0/23,no-resolve
 IP-CIDR,204.74.96.0/24,no-resolve
 IP-CIDR,206.219.44.0/23,no-resolve
 IP-CIDR,206.219.50.0/23,no-resolve
 IP-CIDR,206.219.52.0/23,no-resolve
 IP-CIDR,207.68.174.8/29,no-resolve
 IP-CIDR,207.89.20.0/24,no-resolve
+IP-CIDR,209.173.58.0/24,no-resolve
 IP-CIDR,210.12.0.0/15,no-resolve
 IP-CIDR,210.14.112.0/20,no-resolve
 IP-CIDR,210.14.128.0/17,no-resolve
@@ -6303,10 +6313,7 @@ IP-CIDR,222.126.174.144/28,no-resolve
 IP-CIDR,222.126.174.40/29,no-resolve
 IP-CIDR,222.126.174.76/30,no-resolve
 IP-CIDR,222.126.174.88/29,no-resolve
-IP-CIDR,222.126.176.0/29,no-resolve
-IP-CIDR,222.126.178.0/23,no-resolve
-IP-CIDR,222.126.180.0/22,no-resolve
-IP-CIDR,222.126.184.0/21,no-resolve
+IP-CIDR,222.126.176.0/20,no-resolve
 IP-CIDR,222.126.192.0/21,no-resolve
 IP-CIDR,222.126.200.100/30,no-resolve
 IP-CIDR,222.126.200.104/29,no-resolve
@@ -6448,6 +6455,10 @@ IP-CIDR,36.69.72.0/21,no-resolve
 IP-CIDR,36.69.80.0/20,no-resolve
 IP-CIDR,36.69.96.0/19,no-resolve
 IP-CIDR,36.96.0.0/11,no-resolve
+IP-CIDR,37.209.192.0/24,no-resolve
+IP-CIDR,37.209.194.0/24,no-resolve
+IP-CIDR,37.209.196.0/24,no-resolve
+IP-CIDR,37.209.198.0/24,no-resolve
 IP-CIDR,38.142.239.114/32,no-resolve
 IP-CIDR,39.0.0.0/24,no-resolve
 IP-CIDR,39.0.128.0/17,no-resolve
@@ -7256,11 +7267,13 @@ IP-CIDR,63.218.252.10/32,no-resolve
 IP-CIDR,64.188.38.0/23,no-resolve
 IP-CIDR,64.188.40.0/22,no-resolve
 IP-CIDR,64.188.44.0/23,no-resolve
+IP-CIDR,64.6.64.0/23,no-resolve
 IP-CIDR,64.71.138.0/25,no-resolve
 IP-CIDR,64.85.27.0/24,no-resolve
 IP-CIDR,66.102.240.0/21,no-resolve
 IP-CIDR,66.102.248.0/22,no-resolve
 IP-CIDR,66.102.255.0/24,no-resolve
+IP-CIDR,67.198.146.0/24,no-resolve
 IP-CIDR,67.198.148.0/24,no-resolve
 IP-CIDR,67.198.160.0/23,no-resolve
 IP-CIDR,67.198.168.0/22,no-resolve
@@ -7279,6 +7292,7 @@ IP-CIDR,67.198.208.0/24,no-resolve
 IP-CIDR,67.198.221.0/24,no-resolve
 IP-CIDR,67.198.235.0/24,no-resolve
 IP-CIDR,67.198.239.0/24,no-resolve
+IP-CIDR,67.198.244.0/24,no-resolve
 IP-CIDR,67.198.255.0/24,no-resolve
 IP-CIDR,68.79.0.0/18,no-resolve
 IP-CIDR,69.194.166.0/24,no-resolve
@@ -11616,15 +11630,15 @@ IP-CIDR6,2a13:1800::/29,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-28 02:40:27
+# UPDATED: 2022-09-29 02:40:11
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69329
+# DOMAIN-SUFFIX: 69309
 # IP-ASN: 932
-# IP-CIDR: 6299
+# IP-CIDR: 6313
 # IP-CIDR6: 4293
 # USER-AGENT: 65
-# TOTAL: 81015
+# TOTAL: 81009
 265.com
 adservice.google.com
 analytics.strava.com
@@ -13653,7 +13667,6 @@ www4-static.gog-statics.com
 .1mao.cc
 .1mayi.com
 .1mdoutian.com
-.1meiyiliao.com
 .1mfg.com
 .1miba.com
 .1mifudao.com
@@ -13822,6 +13835,7 @@ www4-static.gog-statics.com
 .218996.com
 .2197079.com
 .21bcr.com
+.21beats.com
 .21bm.com
 .21bowu.com
 .21cake.com
@@ -14913,7 +14927,6 @@ www4-static.gog-statics.com
 .373258.com
 .3733.com
 .3737.com
-.3737g.com
 .3737k.com
 .3737tyc.com
 .373best.com
@@ -18640,7 +18653,6 @@ www4-static.gog-statics.com
 .93jiang.com
 .93jx.net
 .93kk.com
-.93ku.com
 .93lh.com
 .93njf0.com
 .93pk.com
@@ -18807,7 +18819,6 @@ www4-static.gog-statics.com
 .96sdk.com
 .96shuba.cc
 .96sir.com
-.96ttt.com
 .96weixin.com
 .96youhuiquan.com
 .96yx.com
@@ -19918,6 +19929,7 @@ www4-static.gog-statics.com
 .aiqicha.cn
 .aiqicha.com
 .aiqin.com
+.aiqingyu1314.com
 .aiqisoft.com
 .aiqiy.com
 .aiqiye.cc
@@ -20036,6 +20048,7 @@ www4-static.gog-statics.com
 .aixiawa.com
 .aixiawx.com
 .aixiaxs.com
+.aixiaxsw.com
 .aixiegao.com
 .aixiezuo.com
 .aixifan.com
@@ -22716,7 +22729,6 @@ www4-static.gog-statics.com
 .bestwa.com
 .bestwehotel.com
 .bestweshop.com
-.bestxtools.com
 .bestzone.org
 .bet007.com
 .bet08365.com
@@ -23011,7 +23023,6 @@ www4-static.gog-statics.com
 .biliintl.com
 .bilimoe.com
 .bilingling.com
-.bilinstar.com
 .biliplus.com
 .bilive.com
 .bilivideo.cn
@@ -26334,7 +26345,6 @@ www4-static.gog-statics.com
 .china-cloud.com
 .china-co.com
 .china-coc.org
-.china-cold.com
 .china-consulate.org
 .china-csdz.com
 .china-csm.org
@@ -27342,7 +27352,6 @@ www4-static.gog-statics.com
 .chushu123.com
 .chutianlaser.com
 .chutianzhinu.com
-.chuxiangyi.com
 .chuxindata.com
 .chuxingyouhui.com
 .chuxinhd.com
@@ -29046,7 +29055,6 @@ www4-static.gog-statics.com
 .cps800.com
 .cps88.cc
 .cpsbeijing.org
-.cpsct.com
 .cpsenglish.com
 .cptae.com
 .cpu114.com
@@ -31524,10 +31532,8 @@ www4-static.gog-statics.com
 .dkskcloud.com
 .dky.cc
 .dkybpc.com
-.dl-origin.ubnt.com
 .dl-rc.com
 .dl.djicdn.com
-.dl.ubnt.com
 .dl0728.com
 .dl158.net
 .dl2link.com
@@ -33157,7 +33163,6 @@ www4-static.gog-statics.com
 .eda1024.com
 .eda365.com
 .eda365.net
-.eda8.com
 .edabbs.com
 .edaboss.com
 .edacn.net
@@ -34512,7 +34517,6 @@ www4-static.gog-statics.com
 .fanqiewin10.com
 .fanquanba.com
 .fanquanwang.com
-.fanrenshucheng.com
 .fanruan.com
 .fans.fans
 .fans1.com
@@ -43537,6 +43541,7 @@ www4-static.gog-statics.com
 .inrugao.com
 .insarticle.com
 .inshiqi.com
+.insidelinuxdev.net
 .insnail.com
 .inspur.com
 .inspuronline.com
@@ -43608,6 +43613,7 @@ www4-static.gog-statics.com
 .ioeyjsb.com
 .ioffershow.com
 .ioffice100.com
+.ioi.wang
 .ioikypzw.com
 .ioio.pw
 .ioiox.com
@@ -43836,7 +43842,6 @@ www4-static.gog-statics.com
 .irukou.com
 .irunyan.com
 .is-programmer.com
-.is26.com
 .is36.com
 .isamanhua.com
 .isaonian.com
@@ -48556,7 +48561,6 @@ www4-static.gog-statics.com
 .kxtui.com
 .kxtwz.com
 .kxvuv.com
-.kxwan.com
 .kxxsc.com
 .kxxxl.com
 .kxzmw.com
@@ -50816,6 +50820,7 @@ www4-static.gog-statics.com
 .lt3c.com
 .ltaaa.com
 .ltaaa.net
+.ltao.com
 .ltd.com
 .ltesting.net
 .ltfwzs.com
@@ -51239,6 +51244,7 @@ www4-static.gog-statics.com
 .lytning.xyz
 .lytoufang.com
 .lytpw.com
+.lytuchuang2.com
 .lyun.me
 .lyunweb.com
 .lyvnee.com
@@ -51488,7 +51494,6 @@ www4-static.gog-statics.com
 .maimiaotech.com
 .maimn.com
 .maimowang.com
-.maimuban.com
 .mainaer.com
 .maine1688.com
 .mainlandip.com
@@ -54099,7 +54104,6 @@ www4-static.gog-statics.com
 .myyx915.com
 .myyzd.com
 .myzaker.com
-.myzebravip.com
 .myzhiniu.com
 .myzhongjin.com
 .myzte.com
@@ -56730,7 +56734,6 @@ www4-static.gog-statics.com
 .peoplenews.eu
 .peoplerail.com
 .peopleyuqing.com
-.pepcn.com
 .pepresource.com
 .percent.cn
 .perfect-input.com
@@ -59497,6 +59500,7 @@ www4-static.gog-statics.com
 .qyled.xyz
 .qymgc.com
 .qyous.com
+.qypiayer.xyz
 .qyrb.com
 .qyren168.com
 .qysd.net
@@ -62295,7 +62299,6 @@ www4-static.gog-statics.com
 .shopyy.com
 .shortof.com
 .shoubaodan.com
-.shoubiaobaojia.com
 .shouce.ren
 .shouce365.com
 .shouchaobao.vip
@@ -62943,7 +62946,6 @@ www4-static.gog-statics.com
 .sinomapping.com
 .sinomaps.com
 .sinomatin.com
-.sinomod.com
 .sinonet.org
 .sinooilgas.com
 .sinopayment.com.cn
@@ -63028,8 +63030,6 @@ www4-static.gog-statics.com
 .sivan.in
 .sivps.com
 .siwaman.com
-.siwazyw.tv
-.siwazyw.xyz
 .siwazywcdn2.com
 .siwazywimg.com
 .siwei.me
@@ -63055,7 +63055,6 @@ www4-static.gog-statics.com
 .siyuanedu.com
 .siyuanren.com
 .siyuefeng.com
-.siyunxi.com
 .siyuweb.com
 .sizeofvoid.net
 .sizuo.com
@@ -63276,6 +63275,7 @@ www4-static.gog-statics.com
 .sm688839.com
 .sm96596.com
 .smabaike.com
+.smalljun.com
 .smallk.net
 .smallpdfer.com
 .smallxu.me
@@ -63741,6 +63741,7 @@ www4-static.gog-statics.com
 .sosoyunpan.com
 .sosoyy.com
 .sosuo.name
+.sotake.com
 .sotemall.com
 .sothink.com
 .sotwm.com
@@ -64052,6 +64053,7 @@ www4-static.gog-statics.com
 .ssine.cc
 .ssine.ink
 .ssipex.com
+.ssish.com
 .ssixvo9gaybkp5.com
 .ssjjss.com
 .ssjjtt.com
@@ -66782,6 +66784,7 @@ www4-static.gog-statics.com
 .todokit.xyz
 .todonow.com
 .todosomeone.com
+.todreamer.com
 .toec-gdgs.com
 .toec-iot.com
 .toec.com
@@ -67431,7 +67434,6 @@ www4-static.gog-statics.com
 .ttzw.tv
 .ttzx.tv
 .ttzyw.com
-.tu11.com
 .tu520.cc
 .tu54o7863tbf6.com
 .tu8.cc
@@ -69585,7 +69587,6 @@ www4-static.gog-statics.com
 .waitingfy.com
 .waitsun.com
 .wajueji.com
-.wajuejin.com
 .wakaligong.com
 .wakatool.com
 .wakedata.com
@@ -71418,7 +71419,6 @@ www4-static.gog-statics.com
 .wmssedu.com
 .wmsub.com
 .wmtp.net
-.wmtxt.com
 .wmupd.com
 .wmupd.com.cn
 .wmvideo.com
@@ -73005,7 +73005,6 @@ www4-static.gog-statics.com
 .xianlaihy.com
 .xianlife.com
 .xianms.com
-.xiannanyou.com
 .xianniuzu.com
 .xiannvtu.com
 .xianousiqi.com
@@ -73326,7 +73325,6 @@ www4-static.gog-statics.com
 .xiaoshuoshu.org
 .xiaoshuotxt.com
 .xiaoshuozu.com
-.xiaoshuwu.vip
 .xiaoshuxiong.com
 .xiaositv.com
 .xiaoso.net
@@ -74533,7 +74531,6 @@ www4-static.gog-statics.com
 .xstt5.com
 .xstx.info
 .xstxt.com
-.xsvps.com
 .xswdcasting.com
 .xsycps.com
 .xsyk021.com
@@ -76565,6 +76562,7 @@ www4-static.gog-statics.com
 .ymyun.com
 .ymyxzz.com
 .ymzer.com
+.ymzsl.dev
 .yn-tobacco.com
 .yn12396.com
 .yn58.com
@@ -76807,7 +76805,6 @@ www4-static.gog-statics.com
 .youganghangmoguan.com
 .yougaoji.com
 .yougaoyx.com
-.yougequn.com
 .yougou.com
 .yougu.tv
 .youguo.com
@@ -77376,6 +77373,7 @@ www4-static.gog-statics.com
 .yucheng0769.net
 .yuchengwang.com
 .yuchenw.com
+.yuchiweb.icu
 .yuchu3d.com
 .yuchuantech.com
 .yucl.com
@@ -77927,6 +77925,7 @@ www4-static.gog-statics.com
 .ywtd.xyz
 .ywtlfishing.com
 .ywtrzm.com
+.ywtuchuang1.com
 .ywtx.cc
 .ywurl.cn
 .ywurl.com
@@ -78057,7 +78056,6 @@ www4-static.gog-statics.com
 .yyfangchan.com
 .yyfax.com
 .yyfdcw.com
-.yyfq.com
 .yyfsb.com
 .yyg.com
 .yygamedev.com
@@ -78785,7 +78783,6 @@ www4-static.gog-statics.com
 .zhanghaijun.com
 .zhanghongliang.com
 .zhanghuanglong.com
-.zhangjh.me
 .zhangjiaoshou.net
 .zhangjiexiong.com
 .zhangjinkun.com
@@ -79833,7 +79830,6 @@ www4-static.gog-statics.com
 .zing-api.com
 .zingke.com
 .ziniao.com
-.ziningmeng.com
 .ziniusoft.com
 .zintao.com
 .zintow.com
@@ -79909,7 +79905,6 @@ www4-static.gog-statics.com
 .ziyuantun.com
 .ziyuewentao.com
 .ziyun.com
-.ziyuyx.com
 .zizaike.com
 .zizhengfang.com
 .zizhuauto.com
@@ -80463,7 +80458,6 @@ www4-static.gog-statics.com
 .zsdlw.com
 .zsemall.com
 .zseoo.com
-.zsevent.com
 .zsezt.com
 .zsf.cool
 .zsfund.com
