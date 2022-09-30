@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-30 02:37:44
+# UPDATED: 2022-10-01 02:36:40
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69299
+# DOMAIN-SUFFIX: 69303
 # IP-ASN: 932
-# IP-CIDR: 6313
-# IP-CIDR6: 4293
+# IP-CIDR: 6314
+# IP-CIDR6: 4295
 # USER-AGENT: 65
-# TOTAL: 80999
+# TOTAL: 81006
 265.com
 adservice.google.com
 analytics.strava.com
@@ -4068,6 +4068,7 @@ www4-static.gog-statics.com
 .51cir.com
 .51cjyy.com
 .51ckjr.com
+.51cocoa.com
 .51code.com
 .51cok.com
 .51comp.com
@@ -53078,6 +53079,7 @@ www4-static.gog-statics.com
 .swiftstar.net
 .swijoy.com
 .switchvip.com
+.switchxiazai.com
 .swjoy.com
 .swkong.com
 .swliuxue.com
@@ -57242,6 +57244,7 @@ www4-static.gog-statics.com
 .vcloudstc.net
 .vcloudvod.com
 .vclusters.com
+.vcnews.com
 .vcode.cc
 .vcomic.com
 .vcomputes.com
@@ -58652,6 +58655,7 @@ www4-static.gog-statics.com
 .weijiu.org
 .weijiuxin.com
 .weijj.com
+.weijq.com
 .weiju.net
 .weijuju.com
 .weikan.cn
