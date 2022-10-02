@@ -1,12 +1,12 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-02 02:33:52
+# UPDATED: 2022-10-03 02:34:23
 # DOMAIN: 81
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69347
+# DOMAIN-SUFFIX: 69346
 # IP-ASN: 932
-# IP-CIDR: 6313
+# IP-CIDR: 6314
 # IP-CIDR6: 4295
 # USER-AGENT: 65
 # TOTAL: 81047
@@ -21,10 +21,9 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -33,8 +32,8 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*,DIRECT
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
 USER-AGENT,%E5%8D%B3%E5%88%BB*,DIRECT
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
 USER-AGENT,*Vainglory*,DIRECT
 USER-AGENT,AdBlock*,DIRECT
 USER-AGENT,Best%20Trace*,DIRECT
@@ -44,7 +43,6 @@ USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*,DIRECT
-USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,QQ*,DIRECT
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*,DIRECT
@@ -62,33 +60,35 @@ USER-AGENT,hide*,DIRECT
 USER-AGENT,ting_en,DIRECT
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
+USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,MOO*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
+USER-AGENT,QYPlayer*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,iQiYi*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
+USER-AGENT,walkman*
+USER-AGENT,xiami*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,MiguVideo*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
 USER-AGENT,baiduyinyue
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,walkman*
-USER-AGENT,xiami*
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,Youku*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve
 IP-ASN,10212,no-resolve
@@ -4488,6 +4488,7 @@ IP-CIDR,193.200.222.160/28,no-resolve
 IP-CIDR,194.138.136.0/24,no-resolve
 IP-CIDR,194.138.202.0/23,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
+IP-CIDR,194.246.96.0/24,no-resolve
 IP-CIDR,195.142.215.0/24,no-resolve
 IP-CIDR,198.133.199.0/24,no-resolve
 IP-CIDR,198.153.192.0/24,no-resolve
@@ -11632,12 +11633,12 @@ IP-CIDR6,2a13:1800::/29,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-02 02:33:52
+# UPDATED: 2022-10-03 02:34:23
 # DOMAIN: 81
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69347
+# DOMAIN-SUFFIX: 69346
 # IP-ASN: 932
-# IP-CIDR: 6313
+# IP-CIDR: 6314
 # IP-CIDR6: 4295
 # USER-AGENT: 65
 # TOTAL: 81047
@@ -11754,6 +11755,7 @@ www4-static.gog-statics.com
 .00544.com
 .0061.com.au
 .00615.net
+.007.pub
 .00791.com
 .007hd.com
 .007manhua.com
@@ -13053,7 +13055,6 @@ www4-static.gog-statics.com
 .160.com
 .160.me
 .1601sy4ge0.com
-.160edu.net
 .160yx.com
 .161580.com
 .1616.net
@@ -16222,6 +16223,7 @@ www4-static.gog-statics.com
 .521szlx.com
 .521tieba.com
 .521up.com
+.521wmy.com
 .52237377.com
 .522g.com
 .523333.com
@@ -17403,6 +17405,7 @@ www4-static.gog-statics.com
 .6twrte12ft.com
 .6u9muvn94m.com
 .6v.com
+.6v6.work
 .6vps.net
 .6wan.com
 .6webimg.cn
@@ -24046,7 +24049,6 @@ www4-static.gog-statics.com
 .brand4x4.com
 .brandcn.com
 .brandvista.com
-.brandzg.com
 .brbtyt.com
 .breadtrip.com
 .breakingnewsireland.com
@@ -24622,7 +24624,6 @@ www4-static.gog-statics.com
 .cafagame.com
 .cafamuseum.org
 .cafebeta.com
-.cafecole-maison.com
 .caffci.org
 .caffeenglish.com
 .cagetest.com
@@ -25853,6 +25854,7 @@ www4-static.gog-statics.com
 .chabeichong.com
 .chachaba.com
 .chachaqu.com
+.chacheliang.com
 .chachongba.cc
 .chacuo.net
 .chadan.wang
@@ -25891,6 +25893,7 @@ www4-static.gog-statics.com
 .chaishiguan.com
 .chaitin.com
 .chajiandaquan.com
+.chajiaotong.com
 .chajie.com
 .chajn.org
 .chakahao.com
@@ -33636,7 +33639,6 @@ www4-static.gog-statics.com
 .enbrands.com
 .enec.net
 .enelcn.com
-.enen6.com
 .enet.com.cn
 .enet16.cn
 .enet16.com
@@ -34162,7 +34164,6 @@ www4-static.gog-statics.com
 .extfans.com
 .exthin.net
 .extmail.org
-.extremep2p.com
 .extron-tech.com
 .extstars.com
 .exuanfang.cc
@@ -38761,7 +38762,6 @@ www4-static.gog-statics.com
 .haodns999.cc
 .haodongdong.com
 .haodou.com
-.haoduofangs.com
 .haoduojiaju.com
 .haoduorou.net
 .haoest.com
@@ -41926,6 +41926,7 @@ www4-static.gog-statics.com
 .hyrainbow.com
 .hysec.com
 .hysemi-ic.com
+.hyshi.net
 .hysteeltube.com
 .hyt368.com
 .hytcshare.com
@@ -43594,7 +43595,6 @@ www4-static.gog-statics.com
 .intsig.net
 .intsweet.com
 .intwho.com
-.intwk.com
 .inuobi.com
 .inuu6.com
 .inverter.so
@@ -44761,7 +44761,6 @@ www4-static.gog-statics.com
 .jdxs5200.net
 .jdxzz.com
 .jdy.com
-.jdy8848.com
 .jdycdn.com
 .jdyou.com
 .jdypf.com
@@ -45954,7 +45953,6 @@ www4-static.gog-statics.com
 .jmhd8.com
 .jmj1995.com
 .jmjc.tech
-.jmjiuchang.com
 .jmjxc.com
 .jmkjmob2.xyz
 .jmkjmob5.xyz
@@ -46957,6 +46955,7 @@ www4-static.gog-statics.com
 .jzrb.com
 .jzrc.net
 .jzrsrc.com
+.jzsadlkfadf.com
 .jzsc.net
 .jzsc8.com
 .jzsec.com
@@ -47235,7 +47234,6 @@ www4-static.gog-statics.com
 .kaocat.com
 .kaochong.com
 .kaoder.com
-.kaodianer.com
 .kaogua.com
 .kaojionline.com
 .kaola.com
@@ -47323,6 +47321,7 @@ www4-static.gog-statics.com
 .kbtv.me
 .kbw2018.com
 .kbyun.com
+.kcdn0.com
 .kcdns.net
 .kcdnvip.com
 .kchance.com
@@ -51081,7 +51080,6 @@ www4-static.gog-statics.com
 .lvshi567.com
 .lvshiminglu.com
 .lvshou.com
-.lvshouwe.com
 .lvshunfang.com
 .lvshunmuseum.org
 .lvsongguo.com
@@ -51941,7 +51939,6 @@ www4-static.gog-statics.com
 .mchat.com
 .mchifi.com
 .mcidc.net
-.mcjcjx.com
 .mcjd.net
 .mcmssc.com
 .mcooks.com
@@ -53104,7 +53101,6 @@ www4-static.gog-statics.com
 .mng0303.com
 .mnihyc.com
 .mnjj.group
-.mnlscz.com
 .mnoswqa.com
 .mnpz8.com
 .mnwww.com
@@ -55786,6 +55782,7 @@ www4-static.gog-statics.com
 .ooppoo.com
 .oortgslb.com
 .oortos.tech
+.ootu.cc
 .oouee.com
 .oouyan.com
 .ooxx.me
@@ -58392,6 +58389,7 @@ www4-static.gog-statics.com
 .qijee.com
 .qiji.tech
 .qijiadianzi.com
+.qijian99.com
 .qijianzs.com
 .qijiapay.com
 .qijiarui-test.com
@@ -58746,6 +58744,7 @@ www4-static.gog-statics.com
 .qiyexinyong.org
 .qiyexun.com
 .qiyexxw.com
+.qiyeyougou.com
 .qiyeyouxiang.net
 .qiyi.cn
 .qiyi.com
@@ -59002,6 +59001,7 @@ www4-static.gog-statics.com
 .qqpao.com
 .qqpifu.com
 .qqppt.com
+.qqpss.cc
 .qqq.tv
 .qqqiyemail.com
 .qqqnm.com
@@ -62086,7 +62086,6 @@ www4-static.gog-statics.com
 .shiciyun.com
 .shida66.com
 .shidaedu.vip
-.shidaiyuhu.com
 .shidapx.com
 .shidastudy.com
 .shidi.org
@@ -63408,6 +63407,7 @@ www4-static.gog-statics.com
 .smtdc.com
 .smth.org
 .smthome.net
+.smtlzb.com
 .smtsvs.com
 .smttouch.com
 .smtvip.com
@@ -64709,7 +64709,6 @@ www4-static.gog-statics.com
 .swan366.com
 .swang8.com
 .swansea86.com
-.swansonchina.com
 .swap.wang
 .swaqds.com
 .swarma.net
@@ -65577,6 +65576,7 @@ www4-static.gog-statics.com
 .taokouling.com
 .taoku.com
 .taolusm.com
+.taoluzhibo56.com
 .taolx.com
 .taomanhua.com
 .taomee.com
@@ -66566,7 +66566,6 @@ www4-static.gog-statics.com
 .tiqakcrxmyca6i.com
 .tiqiaa.com
 .tiqianle.com
-.tired.im
 .tiruna-cn.com
 .tisgame.com
 .tisi.org
@@ -71825,6 +71824,7 @@ www4-static.gog-statics.com
 .write-bug.com
 .writebp.com
 .wrjzj.com
+.wrl163.com
 .wrltxt.com
 .wrmjk.com
 .wrsa.net
@@ -73644,7 +73644,6 @@ www4-static.gog-statics.com
 .xindie.net
 .xindingwealth.com
 .xindns.com
-.xindns.mobi
 .xindong.com
 .xinduihuan.com
 .xinduo.com
@@ -74065,6 +74064,7 @@ www4-static.gog-statics.com
 .xixisys.com
 .xixiwg.com
 .xiyacs.com
+.xiyamaoyi.com
 .xiyang1.icu
 .xiyijiang.com
 .xiyin.life
