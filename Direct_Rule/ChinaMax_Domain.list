@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-08 02:39:15
-# DOMAIN: 82
+# UPDATED: 2022-10-09 02:34:08
+# DOMAIN: 77
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69400
+# DOMAIN-SUFFIX: 69396
 # IP-ASN: 932
-# IP-CIDR: 6315
+# IP-CIDR: 6314
 # IP-CIDR6: 4317
 # USER-AGENT: 65
-# TOTAL: 81125
+# TOTAL: 81115
 265.com
 2mdn-cn.net
 admob-cn.com
@@ -25,7 +25,6 @@ c.admob.com
 cdn.ampproject.org
 checkin.gstatic.com
 client.amplifi.com
-clientservices.googleapis.com
 connectivitycheck.gstatic.com
 crl.pki.goog
 dartsearch-cn.net
@@ -35,7 +34,6 @@ doubleclick.net
 download.jetbrains.com
 emoi-cncdn.bing.com
 firebase-settings.crashlytics.com
-fonts.googleapis.com
 fonts.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
@@ -77,8 +75,6 @@ p.bstarstatic.com
 productcard.gog-statics.com
 recaptcha.net
 redirector.gvt1.com
-regioninfo-pa.googleapis.com
-safebrowsing.googleapis.com
 sms.imagetasks.com
 smtp.office365.com
 ss.bjmu.edu.cn
@@ -86,7 +82,6 @@ ssl.gstatic.com
 static-login.gog-statics.com
 steamcommunity-a.akamaihd.net
 tesla-cdn.thron.cn
-update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 weizhiyundong.list
 www.gstatic.com
@@ -2199,7 +2194,6 @@ www4-static.gog-statics.com
 .217play.com
 .218318.com
 .218996.com
-.2197079.com
 .21bcr.com
 .21beats.com
 .21bm.com
@@ -5411,7 +5405,6 @@ www4-static.gog-statics.com
 .6080j.com
 .6080k.com
 .6090b.com
-.609999.xyz
 .60dj.com
 .60eee.net
 .60kan.com
@@ -51672,7 +51665,6 @@ www4-static.gog-statics.com
 .sm-cq.com
 .sm-main.com
 .sm.cn
-.sm.ms
 .sm012.com
 .sm160.com
 .sm160.net
@@ -69033,7 +69025,6 @@ www4-static.gog-statics.com
 .zuankezu.com
 .zuanshi.com
 .zuanshitoupiao.com
-.zuanshivpn.com
 .zuantao.cc
 .zuber.im
 .zubunet.com
