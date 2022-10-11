@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-11 02:41:00
+# UPDATED: 2022-10-12 02:38:17
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69371
+# DOMAIN-SUFFIX: 69378
 # IP-ASN: 932
 # IP-CIDR: 6330
 # IP-CIDR6: 4317
 # USER-AGENT: 65
-# TOTAL: 81203
+# TOTAL: 81210
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -4090,7 +4090,6 @@ xn--flw351e.com
 .518h48fwg6.com
 .519.best
 .51969.com
-.51985.net
 .5199.cc
 .5199.com
 .519rv.com
@@ -6418,6 +6417,7 @@ xn--flw351e.com
 .81toutiao.com
 .81tt.net
 .81xy.com
+.81xz.com
 .81yy.cc
 .81zw.com
 .81zw.us
@@ -9083,6 +9083,7 @@ xn--flw351e.com
 .animalchina.com
 .animationcritics.com
 .animebytes.tv
+.animetamashi.com
 .animetaste.net
 .animetorrents.me
 .anitama.net
@@ -9938,7 +9939,6 @@ xn--flw351e.com
 .avrvi.com
 .avrw.com
 .avtechcn.com
-.avtt0033.com
 .avtt830.com
 .aw-ol.com
 .aw.cc
@@ -11446,8 +11446,10 @@ xn--flw351e.com
 .bilibili.cn
 .bilibili.co
 .bilibili.com
+.bilibili.net
 .bilibili.tv
 .bilibiligame.cn
+.bilibiligame.co
 .bilibiligame.net
 .bilibilihelper.com
 .bilibilijj.com
@@ -11460,6 +11462,7 @@ xn--flw351e.com
 .bilicdn4.com
 .bilicdn5.com
 .biligame.cn
+.biligame.co
 .biligame.com
 .biligame.net
 .biligo.com
@@ -11895,7 +11898,6 @@ xn--flw351e.com
 .bjrc.com
 .bjrcb.com
 .bjrdhx.com
-.bjrel.com
 .bjretech.com
 .bjreview.com
 .bjrhxp.com
@@ -14410,7 +14412,6 @@ xn--flw351e.com
 .channeleffect.com
 .channingsun.bid
 .chanpay.com
-.chanpin.biz
 .chanpin100.com
 .chanpinban.com
 .chanpindashi.com
@@ -15475,7 +15476,6 @@ xn--flw351e.com
 .chinazwds.com
 .chinazwds.org
 .chinazxt.com
-.chinazyjr.com
 .chinca.org
 .chindiaforum.com
 .chine-info.com
@@ -21049,6 +21049,7 @@ xn--flw351e.com
 .dxf5.com
 .dxf6.com
 .dxias.com
+.dxiazaicc.com
 .dxjs.com
 .dxlfile.com
 .dxlmdd.com
@@ -31634,7 +31635,6 @@ xn--flw351e.com
 .im5i.com
 .im87.net
 .im9.com
-.imac.hk
 .imaccn.com
 .imaegoo.com
 .imageaccelerate.com
@@ -33501,6 +33501,7 @@ xn--flw351e.com
 .jianjiaobuluo.com
 .jianjie8.com
 .jiankang.com
+.jiankang.org
 .jiankanghebei.com
 .jiankangju.com
 .jianke.cc
@@ -33769,6 +33770,7 @@ xn--flw351e.com
 .jiliguala.com
 .jiliguara.xyz
 .jilingwy.org
+.jilinoffcn.com
 .jilinpujiyiyuan.com
 .jilinwula.com
 .jiliyun.com
@@ -34950,6 +34952,7 @@ xn--flw351e.com
 .jucheng01.net
 .juchuangbio.com
 .judouapp.com
+.juduo.cc
 .juduoping.com
 .jue.so
 .jue1.com
@@ -45107,6 +45110,7 @@ xn--flw351e.com
 .pdim.gs
 .pdm.so
 .pdosgk.com
+.pdowncc.com
 .pdrcfw.com
 .pdreading.com
 .pdryx.com
@@ -50395,6 +50399,7 @@ xn--flw351e.com
 .shenghuozhe.net
 .shengjing360.com
 .shengjoy.com
+.shengjunshi.com
 .shengli.com
 .shengming.net
 .shengmingfa.com
@@ -58164,6 +58169,7 @@ xn--flw351e.com
 .wang1314.net
 .wanga.me
 .wangamela.com
+.wangan.com
 .wanganedu.com
 .wangbixi.com
 .wangcaio2o.com
@@ -59632,7 +59638,6 @@ xn--flw351e.com
 .win7china.com
 .win7en.com
 .win7qijian.com
-.win7qjb.com
 .win7sky.com
 .win7w.com
 .win7xzb.com
@@ -63386,6 +63391,7 @@ xn--flw351e.com
 .xwei.tv
 .xwhb.com
 .xwhodesign.com
+.xwie.com
 .xwjqr.com
 .xwjr.com
 .xwjy.org
@@ -65667,7 +65673,6 @@ xn--flw351e.com
 .yqmh.com
 .yqmoybz.com
 .yqphh.com
-.yqptzx.com
 .yqsbz.com
 .yqtc.com
 .yqtkgzbk.com
@@ -68280,6 +68285,7 @@ xn--flw351e.com
 .ziewje.com
 .zifandiaosu.com
 .zifeiwuya.com
+.zifumao.com
 .zige365.com
 .zigecha.com
 .zigeer.com
@@ -68660,6 +68666,7 @@ xn--flw351e.com
 .zkxblog.com
 .zkxlkj.net
 .zkxww.com
+.zkyai.com
 .zkydib.com
 .zkyouxi.com
 .zkyxls.com
