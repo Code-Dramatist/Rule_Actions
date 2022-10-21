@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-21 02:45:59
+# UPDATED: 2022-10-22 02:38:48
 # DOMAIN: 158
-# DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 36769
+# DOMAIN-KEYWORD: 39
+# DOMAIN-SUFFIX: 36774
 # IP-CIDR: 110
 # IP-CIDR6: 4
-# USER-AGENT: 44
-# TOTAL: 37123
+# USER-AGENT: 45
+# TOTAL: 37130
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,github
@@ -84,6 +85,7 @@ USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
+USER-AGENT,Duolingo*
 USER-AGENT,OneDrive*
 USER-AGENT,PayPal*
 USER-AGENT,Roam*
@@ -241,16 +243,16 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-18 21:03:52
+# UPDATED: 2022-10-22 02:39:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 29
+# DOMAIN: 28
 # DOMAIN-KEYWORD: 21
 # DOMAIN-SUFFIX: 1065
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2096
+# TOTAL: 2095
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -1256,16 +1258,16 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-18 21:03:52
+# UPDATED: 2022-10-22 02:39:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 29
+# DOMAIN: 28
 # DOMAIN-KEYWORD: 21
 # DOMAIN-SUFFIX: 1065
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2096
+# TOTAL: 2095
 api.okzy.tv
 apm-misaka.biliapi.net
 apple.comscoreresearch.com
@@ -1294,7 +1296,6 @@ rpg.pic-imges.com
 rthklive2-lh.akamaihd.net
 tv.applemusic.com
 uts-api.itunes.apple.com
-www.amazon.com
 .112263.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
@@ -2363,14 +2364,14 @@ www.amazon.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-21 02:45:59
+# UPDATED: 2022-10-22 02:38:48
 # DOMAIN: 158
-# DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 36769
+# DOMAIN-KEYWORD: 39
+# DOMAIN-SUFFIX: 36774
 # IP-CIDR: 110
 # IP-CIDR6: 4
-# USER-AGENT: 44
-# TOTAL: 37123
+# USER-AGENT: 45
+# TOTAL: 37130
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -3907,6 +3908,7 @@ www-cdn.icloud.com.akadns.net
 .4ertik.live
 .4ertik.one
 .4everland.io
+.4everoutside.com
 .4everproxy.com
 .4freemam.myfw.us
 .4freeproxy.com
@@ -15070,6 +15072,7 @@ www-cdn.icloud.com.akadns.net
 .freenuts.com
 .freeones.ca
 .freeones.com
+.freeopenoutside.com
 .freeopenproxy.com
 .freeopenvpn.com
 .freeopenvpn.org
@@ -15823,6 +15826,7 @@ www-cdn.icloud.com.akadns.net
 .getfedora.org
 .getfishvpn.com
 .getflix.com.au
+.getfoxyoutside.org
 .getfoxyproxy.org
 .getfreedur.com
 .getgom.com
@@ -28472,6 +28476,7 @@ www-cdn.icloud.com.akadns.net
 .smartbe.be
 .smartcommunitiescoalition.com
 .smartcommunitiescoalition.org
+.smartdnsoutside.com
 .smartdnsproxy.com
 .smartexpos.com
 .smarthide.com
@@ -31463,6 +31468,7 @@ www-cdn.icloud.com.akadns.net
 .uocn.groupsite.com
 .uocn.org
 .uoherald.com
+.uoutside.org
 .up.gcp.googlers.com
 .up.live
 .updatestar.com
