@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-22 02:38:48
+# UPDATED: 2022-10-24 02:34:14
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 36774
+# DOMAIN-SUFFIX: 36772
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37130
+# TOTAL: 37128
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -243,16 +243,16 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-22 02:39:15
+# UPDATED: 2022-10-24 02:34:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 21
-# DOMAIN-SUFFIX: 1065
+# DOMAIN-SUFFIX: 1066
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2095
+# TOTAL: 2096
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -1258,16 +1258,16 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-22 02:39:15
+# UPDATED: 2022-10-24 02:34:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 21
-# DOMAIN-SUFFIX: 1065
+# DOMAIN-SUFFIX: 1066
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2095
+# TOTAL: 2096
 api.okzy.tv
 apm-misaka.biliapi.net
 apple.comscoreresearch.com
@@ -1321,6 +1321,7 @@ uts-api.itunes.apple.com
 .amazonprimevideo.cn
 .amazonprimevideo.com.cn
 .amazonprimevideos.com
+.amazonuniversity.jobs
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.cc
@@ -2364,14 +2365,14 @@ uts-api.itunes.apple.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-22 02:38:48
+# UPDATED: 2022-10-24 02:34:14
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 36774
+# DOMAIN-SUFFIX: 36772
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37130
+# TOTAL: 37128
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -20721,7 +20722,6 @@ www-cdn.icloud.com.akadns.net
 .licdn.com
 .licensebuttons.net
 .liceosantaclara.cl
-.lidecheng.com
 .liecut.net
 .life-global.org
 .life.com.tw
@@ -25247,7 +25247,6 @@ www-cdn.icloud.com.akadns.net
 .pewsocialtrends.org
 .pezblanco.cl
 .pf.anonplus.org
-.pfd.org.hk
 .pfdc89.com
 .pgafan.net
 .pgyl88888.com
@@ -29423,7 +29422,6 @@ www-cdn.icloud.com.akadns.net
 .swcdn.g.aaplimg.com
 .swdevelop.de
 .swdist.apple.com.akadns.net
-.swebanalytics.acs.org
 .sweetadult-tube.com
 .sweetkiss.me
 .sweetmlif.net
@@ -36384,6 +36382,7 @@ www-cdn.icloud.com.akadns.net
 .www.petaasia.cn
 .www.petergarner.net
 .www.pf266.com
+.www.pfd.org.hk
 .www.ph278.com
 .www.philenews.com
 .www.philipmorrisusa.com
