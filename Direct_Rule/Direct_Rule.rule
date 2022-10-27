@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-27 02:32:51
+# UPDATED: 2022-10-28 02:36:11
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69171
+# DOMAIN-SUFFIX: 69177
 # IP-ASN: 932
 # IP-CIDR: 6313
 # IP-CIDR6: 4369
 # USER-AGENT: 65
-# TOTAL: 81038
+# TOTAL: 81044
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -5824,7 +5824,6 @@ xn--flw351e.com
 .6twrte12ft.com
 .6u9muvn94m.com
 .6v.com
-.6v6.work
 .6vps.net
 .6wan.com
 .6webimg.cn
@@ -6562,6 +6561,7 @@ xn--flw351e.com
 .880sy.com
 .880you.com
 .88106.com
+.88225233827.com
 .8825.com
 .8828dl.com
 .88303887.com
@@ -9835,7 +9835,6 @@ xn--flw351e.com
 .autochips.com
 .autodg.com
 .autodmp.com
-.autodry.net
 .autodwg.com
 .autoesd.com
 .autofull.net
@@ -19216,6 +19215,7 @@ xn--flw351e.com
 .demodashi.com
 .demogic.com
 .demohour.com
+.demon.tw
 .demonlee.tech
 .demoso.net
 .demososo.com
@@ -29294,6 +29294,7 @@ xn--flw351e.com
 .htmlplusplus.com
 .htmlsucai.com
 .htnice.com
+.htobl.com
 .htoo.vip
 .htpbc.com
 .htqyy.com
@@ -35500,6 +35501,7 @@ xn--flw351e.com
 .kangbaifoundation.com
 .kangbatv.com
 .kangbidz.com
+.kangcdn.com
 .kangchun.com
 .kangdajiuzhou.com
 .kangdaoai.com
@@ -41007,6 +41009,7 @@ xn--flw351e.com
 .mika123.com
 .mika18.com
 .mikannovel.com
+.mike-x.com
 .mikechen.cc
 .mikecrm.com
 .mikenn.com
@@ -43998,6 +44001,7 @@ xn--flw351e.com
 .omlzz.com
 .ommoo.com
 .omni-pharma.com
+.omnibeautylux.com
 .omooo.net
 .omos88.com
 .omowork.com
@@ -45660,6 +45664,7 @@ xn--flw351e.com
 .polywuye.com
 .pomears.com
 .pomoho.com
+.pomowx.com
 .ponley.com
 .ponycool.com
 .ponytest.com
@@ -46655,7 +46660,6 @@ xn--flw351e.com
 .qichetong.com
 .qichezhan.net
 .qichuang.com
-.qichuangidc.com
 .qicn.net
 .qicolor.com
 .qicp.net
@@ -49325,6 +49329,7 @@ xn--flw351e.com
 .scjzy.net
 .sclf.org
 .scmccboss.com
+.scmchem.com
 .scmeye.com
 .scmor.com
 .scmroad.com
@@ -61307,6 +61312,7 @@ xn--flw351e.com
 .xiangqu.com
 .xiangrikui.co
 .xiangrikui.com
+.xiangrikuijianzhan.com
 .xiangshang360.com
 .xiangshangban.com
 .xiangshanpark.com
@@ -69358,15 +69364,15 @@ xn--flw351e.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-27 02:32:51
+# UPDATED: 2022-10-28 02:36:11
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69171
+# DOMAIN-SUFFIX: 69177
 # IP-ASN: 932
 # IP-CIDR: 6313
 # IP-CIDR6: 4369
 # USER-AGENT: 65
-# TOTAL: 81038
+# TOTAL: 81044
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -69391,7 +69397,6 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -69401,7 +69406,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -69417,16 +69421,22 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
 USER-AGENT,iQiYi*
 USER-AGENT,live4iphone*
@@ -69434,17 +69444,13 @@ USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,Himalaya*
-USER-AGENT,AcFun*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,Youku*
 USER-AGENT,iQIYI*
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve
