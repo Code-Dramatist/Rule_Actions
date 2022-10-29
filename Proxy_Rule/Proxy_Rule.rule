@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-29 02:31:30
+# UPDATED: 2022-10-30 02:30:52
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37184
+# DOMAIN-SUFFIX: 37202
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37556
+# TOTAL: 37574
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -2365,14 +2365,14 @@ uts-api.itunes.apple.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-29 02:31:30
+# UPDATED: 2022-10-30 02:30:52
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37184
+# DOMAIN-SUFFIX: 37202
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37556
+# TOTAL: 37574
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -5408,6 +5408,7 @@ xz.pphimalayanrt.com
 .ac1125.com
 .academic.eb.com
 .academynetriders.com
+.acast.com
 .accbusiness.com
 .acces-vod.com
 .access.f3b.work
@@ -5443,6 +5444,11 @@ xz.pphimalayanrt.com
 .acgbox.org
 .acgbuster.moe
 .acgbuster.net
+.acgcf.com
+.acgdg.com
+.acgdv.com
+.acgfabu.com
+.acgfbw.com
 .acgft.net
 .acgft.us
 .acgheaven.org
@@ -5451,6 +5457,8 @@ xz.pphimalayanrt.com
 .acgnx.se
 .acgpy.com
 .acgpy.net
+.acgvipss.com
+.acgwr.com
 .acgww.cyou
 .achat-followers-instagram.com
 .acheter-followers-instagram.com
@@ -5819,6 +5827,7 @@ xz.pphimalayanrt.com
 .aisexbbs.com
 .aish.org
 .aishatv.tk
+.aishegw.com
 .aisqj.com
 .ait.org.tw
 .aiuuo.com
@@ -9007,6 +9016,7 @@ xz.pphimalayanrt.com
 .bnef.com
 .bnet.163.com
 .bnews.co
+.bnext.com.tw
 .bni.com
 .bnn.co
 .bnrmetal.com
@@ -13953,6 +13963,7 @@ xz.pphimalayanrt.com
 .fabhairypussy.com
 .fabric.io
 .fabsk.eu
+.fabuyemian.com
 .facbebook.com
 .facbeok.com
 .facboo.com
@@ -18563,8 +18574,10 @@ xz.pphimalayanrt.com
 .illusionn3.com
 .illusionn4.com
 .illusionn5.com
+.illusionxz.com
 .illusiony.com
 .illusionze.com
+.illusnoi.com
 .ilongman.com
 .ilove80.be
 .ilovejeep.com
@@ -19207,7 +19220,9 @@ xz.pphimalayanrt.com
 .isdyw.com
 .isebaro.com
 .isfocus.net
+.isgame365.cc
 .isgreat.org
+.isheppc.com
 .ishopindia.com
 .ishowsapp.com
 .ishr.ch
@@ -21162,6 +21177,7 @@ xz.pphimalayanrt.com
 .ll699.net
 .llbn.tv
 .lldns.net
+.lliusno.com
 .lll773.net
 .llnw-trials.com
 .llnw.com
@@ -24185,6 +24201,7 @@ xz.pphimalayanrt.com
 .nofile.io
 .nofilmschool.com
 .noicehalfsugar.tw
+.noisullifb.com
 .nokiantyres.cn
 .nokiantyres.com
 .nokogiri.org
@@ -33628,6 +33645,7 @@ xz.pphimalayanrt.com
 .wnacg.org
 .wnacg.wtf
 .wnbc.com
+.wnoaissulli1.com
 .wns1919.com
 .wnsr1980.com
 .wnsr1984.com
@@ -34784,7 +34802,6 @@ xz.pphimalayanrt.com
 .www.bmw01.cn
 .www.bmw90000.com
 .www.bne6430.org
-.www.bnext.com.tw
 .www.bnn.de
 .www.boao888.com
 .www.bobobra.com
@@ -39729,5 +39746,6 @@ xz.pphimalayanrt.com
 .zzy.dnsmail.xyz
 .zzy.healthsection.xyz
 .zzy.namedns.xyz
+.zzycdz.com
 .zzz.healthsection.xyz
 .zzz36.net
