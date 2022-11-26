@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-26 02:10:03
+# UPDATED: 2022-11-27 02:09:11
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69381
+# DOMAIN-SUFFIX: 69385
 # IP-ASN: 932
 # IP-CIDR: 6816
 # IP-CIDR6: 4713
 # USER-AGENT: 65
-# TOTAL: 82095
+# TOTAL: 82099
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -19004,7 +19004,11 @@ xn--flw351e.com
 .dbank.com
 .dbankcdn.cn
 .dbankcdn.com
+.dbankcloud.asia
+.dbankcloud.cn
 .dbankcloud.com
+.dbankcloud.eu
+.dbankcloud.ru
 .dbankedge.asia
 .dbankedge.cn
 .dbankedge.net

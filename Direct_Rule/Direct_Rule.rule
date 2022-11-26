@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-26 02:10:03
+# UPDATED: 2022-11-27 02:09:11
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69381
+# DOMAIN-SUFFIX: 69385
 # IP-ASN: 932
 # IP-CIDR: 6816
 # IP-CIDR6: 4713
 # USER-AGENT: 65
-# TOTAL: 82095
+# TOTAL: 82099
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -60,17 +60,19 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
+USER-AGENT,MGTV*
+USER-AGENT,MOO*
+USER-AGENT,MiguVideo*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,Youku*
+USER-AGENT,walkman*
+USER-AGENT,xiami*
 USER-AGENT,Himalaya*
-USER-AGENT,MGTV*
-USER-AGENT,AcFun*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
@@ -78,12 +80,10 @@ USER-AGENT,网易云音乐**
 USER-AGENT,baiduyinyue
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
-USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,walkman*
-USER-AGENT,xiami*
+USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
@@ -12553,15 +12553,15 @@ IP-CIDR6,2c0f:f7a8:9220::/48,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-26 02:10:03
+# UPDATED: 2022-11-27 02:09:11
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69381
+# DOMAIN-SUFFIX: 69385
 # IP-ASN: 932
 # IP-CIDR: 6816
 # IP-CIDR6: 4713
 # USER-AGENT: 65
-# TOTAL: 82095
+# TOTAL: 82099
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -31556,7 +31556,11 @@ xn--flw351e.com
 .dbank.com
 .dbankcdn.cn
 .dbankcdn.com
+.dbankcloud.asia
+.dbankcloud.cn
 .dbankcloud.com
+.dbankcloud.eu
+.dbankcloud.ru
 .dbankedge.asia
 .dbankedge.cn
 .dbankedge.net
