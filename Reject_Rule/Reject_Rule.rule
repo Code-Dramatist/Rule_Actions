@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-27 02:07:26
+# UPDATED: 2022-11-28 02:08:06
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14780
+# DOMAIN-SUFFIX: 14782
 # IP-CIDR: 7
-# TOTAL: 14801
+# TOTAL: 14803
 IP-CIDR,0.0.0.1/32,no-resolve
 IP-CIDR,185.165.169.108/32,no-resolve
 IP-CIDR,185.193.38.148/32,no-resolve
@@ -49991,11 +49991,11 @@ zzznews.ru
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-27 02:07:26
+# UPDATED: 2022-11-28 02:08:06
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14780
+# DOMAIN-SUFFIX: 14782
 # IP-CIDR: 7
-# TOTAL: 14801
+# TOTAL: 14803
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -52509,6 +52509,7 @@ zgsdk.zhugeio.com
 .analytics.yolacdn.net
 .analytics.yomedia.vn
 .analytics.yourbankcard.com
+.analytics.yugen.to
 .analytics.ziftsolutions.com
 .analytics00.meride.tv
 .analytics2-meride-tv.akamaized.net
@@ -58528,6 +58529,7 @@ zgsdk.zhugeio.com
 .pumpkin.abine.com
 .punyplant.com
 .purchasesuggestion.com
+.push-sdk.net
 .pushmaster-cdn.xyz
 .puzzlingproperty.com
 .pv.hd.sohu.com
