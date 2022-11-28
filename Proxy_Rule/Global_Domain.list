@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:08:31
-# DOMAIN: 175
+# UPDATED: 2022-11-28 22:28:32
+# DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37309
+# DOMAIN-SUFFIX: 37285
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37682
+# TOTAL: 37654
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -18,7 +18,6 @@ api.waqi.info
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
-apps5.oingo.com
 aqi.aqicn.org
 as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
@@ -62,7 +61,6 @@ elib.maruzen.co.jp
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 faronics.kayako.com
-firebase-settings.crashlytics.com
 firstsearch.oclc.org
 gamedownloads-rockstargames-com.akamaized.net
 gog.qtlglb.com
@@ -164,9 +162,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
-tesla-cdn.thron.cn
 tesla-cdn.thron.com
-update.crashlytics.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
 vod-abematv.akamaized.net
@@ -964,9 +960,6 @@ xz.pphimalayanrt.com
 .21pron.com
 .21sextury.com
 .21uscity.com
-.21vbc.com
-.21vbluecloud.com
-.21vbluecloud.net
 .22.cr.rs
 .22.ddos.im
 .22.eye.rs
@@ -3245,6 +3238,7 @@ xz.pphimalayanrt.com
 .adultartsites.com
 .adultbay.org
 .adultblogranking.com
+.adultblogtoplist.com
 .adultcamslover.com
 .adultdeepfakes.com
 .adultdvdmarketplace.com
@@ -3379,7 +3373,6 @@ xz.pphimalayanrt.com
 .agentwho.net
 .agfish.jd111.net
 .agfunder.com
-.aggresmart.com
 .agi.com
 .agkmg.com
 .agmbet.com
@@ -3929,7 +3922,6 @@ xz.pphimalayanrt.com
 .amxj8899.com
 .amyh8588.com
 .amytele.com
-.amz123.com
 .amzn.com
 .amznl.com
 .an.1x.net
@@ -6404,10 +6396,8 @@ xz.pphimalayanrt.com
 .bls.gov
 .blubrry.com
 .blue9.com.au
-.blueaggrestore.com
 .blueangellive.com
 .bluecloud.pw
-.bluecloudprod.com
 .bluecoat.me
 .bluedart.com
 .bluefire.gq
@@ -8611,7 +8601,6 @@ xz.pphimalayanrt.com
 .cnnphilippines.com
 .cnnpoint.com
 .cnnpolitics.com
-.cnpmjs.org
 .cnpoco.com
 .cnpolitics.org
 .cnproxy.com
@@ -9551,7 +9540,6 @@ xz.pphimalayanrt.com
 .dcdbjkjn.fzgyh.com
 .dchome.net
 .dcmilitary.com
-.dcocsp.cn
 .dcpress.net
 .dcs-live.apis.anvato.net
 .dctbeatsbydre.com
@@ -10960,7 +10948,6 @@ xz.pphimalayanrt.com
 .edenriegel.com
 .edenrules.com
 .edgecastcdn.net
-.edgedatg.com
 .edgefonts.net
 .edgekey.net
 .edgemeplease.com
@@ -11036,7 +11023,6 @@ xz.pphimalayanrt.com
 .eiga.com
 .eight-ball.org
 .eighteen8bet.com
-.eilieili.cc
 .einfachporno.com
 .einnews.com
 .einstein.com
@@ -11208,7 +11194,6 @@ xz.pphimalayanrt.com
 .eng.collectivehealth.com
 .engadget.com
 .engagedaily.org
-.engkoo.com
 .englandproxy.co.uk
 .english.astroawani.com
 .english.moc.gov.tw
@@ -12155,6 +12140,7 @@ xz.pphimalayanrt.com
 .fblitho.com
 .fbmarketing.com
 .fbmessenger.com
+.fbooktaiwan.com
 .fbredex.com
 .fbreg.com
 .fbrell.com
@@ -13854,7 +13840,6 @@ xz.pphimalayanrt.com
 .giga-web.jp
 .giga69.co
 .gigabyte.cn
-.gigabyte.com
 .gigacircle.com
 .gigadomo.com
 .giganews.com
@@ -14307,7 +14292,6 @@ xz.pphimalayanrt.com
 .gozetto.com.br
 .gpk333.com
 .gpoint.co.jp
-.gpsonextra.net
 .gpstheseries.com
 .gputechconf.cn
 .gputechconf.com
@@ -15447,7 +15431,6 @@ xz.pphimalayanrt.com
 .hongmaodan100.com
 .hongmeimei.com
 .hongzhi.li
-.honkaiimpact3.com
 .honkaistarrail.com
 .honto.jp
 .honven.xyz
@@ -15767,6 +15750,7 @@ xz.pphimalayanrt.com
 .huaile.me
 .huan.moe
 .huanghuagang.org
+.huangse.love
 .huangyiyu.com
 .huanyin.org
 .huanyuju.com
@@ -17078,7 +17062,6 @@ xz.pphimalayanrt.com
 .iyoutube.com
 .iysse.com
 .izaobao.us
-.izatcloud.net
 .izegemkoers.be
 .izihost.org
 .izles.net
@@ -17582,7 +17565,6 @@ xz.pphimalayanrt.com
 .joneame.net
 .jonimitchell.com
 .jonward.com
-.joox.com
 .jorn.net
 .jornaldacidadeonline.com.br
 .jorropo.net
@@ -18199,7 +18181,6 @@ xz.pphimalayanrt.com
 .kugo.cc
 .kui.name
 .kujsq.com
-.kuke.com
 .kuki.idv.tw
 .kukuku.cc
 .kukuku.uk
@@ -19704,7 +19685,6 @@ xz.pphimalayanrt.com
 .mcaf.ee
 .mcat58.com
 .mccentre.org.au
-.mcchcdn.com
 .mcclatchydc.com
 .mccormicklit.com
 .mcd.com
@@ -20230,7 +20210,6 @@ xz.pphimalayanrt.com
 .miniso.cn
 .miniso.co
 .miniso.co.id
-.miniso.com
 .miniso.com.py
 .miniso.pk
 .minisohome.cn
@@ -20631,7 +20610,6 @@ xz.pphimalayanrt.com
 .moviesneek.com
 .mowd.idv.tw
 .mowrygrimson.com
-.mox.moe
 .moxing.mobi
 .moxing.news
 .moystoys.com
@@ -20729,7 +20707,6 @@ xz.pphimalayanrt.com
 .msauthimages.cn
 .msb.strikewin.com
 .mschallenge2018.com
-.mschcdn.com
 .msdn.com
 .msedge.net
 .msft.info
@@ -22193,7 +22170,6 @@ xz.pphimalayanrt.com
 .nztdsm.com
 .nzz.ch
 .o33285.com
-.o365cn.com
 .o365files.cn
 .o365weve-dev.com
 .o365weve-ppe.com
@@ -22528,7 +22504,6 @@ xz.pphimalayanrt.com
 .openmaps.org
 .openmine.cl
 .openproxy.co.uk
-.openresty.org
 .opensea.io
 .opensource.guide
 .opensourceinsight.dev
@@ -23908,6 +23883,7 @@ xz.pphimalayanrt.com
 .pornoreino.com
 .pornorips.com
 .pornos.live
+.pornoscanner.com
 .pornosfilmes.com
 .pornoslon.me
 .pornosphere.com
@@ -23971,6 +23947,7 @@ xz.pphimalayanrt.com
 .porntvblog.com
 .pornub.com
 .pornultras.com
+.pornv.org
 .pornve.com
 .pornvibe.org
 .pornvideobb.com
@@ -24655,7 +24632,6 @@ xz.pphimalayanrt.com
 .quanben-xiaoshuo.com
 .quanben.io
 .quannengshen.org
-.quantil.com
 .quantumbooter.net
 .quantumidiot.com
 .quatrowireless.com
@@ -25708,7 +25684,6 @@ xz.pphimalayanrt.com
 .scholarsglobe.com
 .schonenaci.sk
 .schooltunnel.net
-.sci-hub.ee
 .sci-hub.mksa.top
 .sci.hubg.org
 .science.com
@@ -25815,7 +25790,6 @@ xz.pphimalayanrt.com
 .secretsline.biz
 .secretvpn.net
 .sectigo.com
-.sectigochina.com
 .secure-paypal.info
 .secure.footprint.net
 .secure.free-signal.com
@@ -26069,6 +26043,7 @@ xz.pphimalayanrt.com
 .sexxxy.biz
 .sexy-babe-pics.com
 .sexy-lingerie.ws
+.sexy-torrents.com
 .sexy-word.com
 .sexy.com
 .sexy3dtoon.com
@@ -26284,7 +26259,6 @@ xz.pphimalayanrt.com
 .shopee.io
 .shopee.tw
 .shopeemobile.com
-.shopeesz.com
 .shopfacebook.com
 .shophq.com
 .shopibay.net
@@ -28255,7 +28229,6 @@ xz.pphimalayanrt.com
 .thetrist.com
 .thetrotskymovie.com
 .thetvdb.com
-.thetype.cloud
 .thetype.com
 .theuab.net
 .theultimateclimb.com
@@ -30415,7 +30388,6 @@ xz.pphimalayanrt.com
 .voicettank.org
 .voipfone.net
 .vokevr.com
-.vol.moe
 .volafile.io
 .volafile.org
 .volaris.com
@@ -31479,7 +31451,6 @@ xz.pphimalayanrt.com
 .woutwoot.be
 .wow-life.net
 .wow.com
-.wowchina.com
 .wowfandom.com
 .wowgirls.com
 .wowgirls.xxx
@@ -37366,6 +37337,7 @@ xz.pphimalayanrt.com
 .zongse888.com
 .zononi.com
 .zoo-hardcore.com
+.zoo-porno.biz
 .zoo-tube8.com
 .zoo-xnxx.com
 .zoo-xvideo.com
