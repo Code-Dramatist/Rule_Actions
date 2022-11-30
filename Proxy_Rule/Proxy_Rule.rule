@@ -1,7 +1,7 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-18 02:08:24
+# UPDATED: 2022-11-30 21:11:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
@@ -1017,14 +1017,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 02:08:31
+# UPDATED: 2022-11-30 22:29:27
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37284
+# DOMAIN-SUFFIX: 37341
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37653
+# TOTAL: 37710
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -1119,7 +1119,6 @@ scholar.google.bg
 scholar.google.ca
 scholar.google.cat
 scholar.google.cl
-scholar.google.cn
 scholar.google.co.cr
 scholar.google.co.il
 scholar.google.co.in
@@ -1178,6 +1177,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
+tesla-cdn.thron.cn
 tesla-cdn.thron.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
@@ -3946,6 +3946,7 @@ xz.pphimalayanrt.com
 .a2646.com
 .a2776.com
 .a2z.com
+.a2z.org.cn
 .a2zapk.com
 .a3236.com
 .a3285.com
@@ -4782,7 +4783,9 @@ xz.pphimalayanrt.com
 .amazonalexavoxcon.com
 .amazonauthorinsights.com
 .amazonaws-china.com
+.amazonaws.cn
 .amazonaws.com
+.amazonaws.com.cn
 .amazonaws.tv
 .amazonbusiness.cn
 .amazonbusiness.com.cn
@@ -4817,7 +4820,10 @@ xz.pphimalayanrt.com
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
+.amazonwebservices.com.cn
+.amazonworkdocs.cn
 .amazonworkdocs.com
+.amazonworkdocs.com.cn
 .ambit.chat
 .ambitvpn.com
 .amcas.org
@@ -5581,6 +5587,7 @@ xz.pphimalayanrt.com
 .aseschool.org
 .asesoria.cl
 .asezwao.org
+.asfiovnxocqpcry.com.cn
 .asg.to
 .asha.org
 .ashemaletube.com
@@ -5937,9 +5944,13 @@ xz.pphimalayanrt.com
 .awflapp.top
 .awk.so
 .awn1.icu
+.aws-border.cn
+.aws-icp-domain-manager.cn
 .aws-iot-hackathon.com
 .aws.adana123.site
 .aws.e8play.cc
+.awsapps.cn
+.awsapps.com.cn
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -5952,6 +5963,7 @@ xz.pphimalayanrt.com
 .awsloft-johannesburg.com
 .awsloft-stockholm.com
 .awssecworkshops.com
+.awsstatic.cn
 .awsstatic.com
 .awsthinkbox.com
 .awstrack.me
@@ -6010,6 +6022,7 @@ xz.pphimalayanrt.com
 .azure-mobile.net
 .azure-sphere.com
 .azure-test.net
+.azure.cn
 .azure.com
 .azure.net
 .azurecomcdn.net
@@ -7097,6 +7110,8 @@ xz.pphimalayanrt.com
 .biowarestore.com
 .bipic.net
 .bird.so
+.bisheng.cn
+.bishengcompiler.cn
 .bisq.io
 .bisq.network
 .bit-z.com
@@ -7881,6 +7896,7 @@ xz.pphimalayanrt.com
 .bravotube.com
 .bravotube.net
 .bravotube.tv
+.brawlstars.cn
 .brazilpartneruniversity.com
 .brazzer.com
 .brazzers-porno.online
@@ -9471,6 +9487,8 @@ xz.pphimalayanrt.com
 .cloudflaretest.com
 .cloudflarewarp.com
 .cloudfoundry.com
+.cloudfront-test.cn
+.cloudfront.cn
 .cloudfront.glb.cellopoint.com
 .cloudfront.net
 .cloudfunctions.net
@@ -10555,6 +10573,7 @@ xz.pphimalayanrt.com
 .dcdbjkjn.fzgyh.com
 .dchome.net
 .dcmilitary.com
+.dcocsp.cn
 .dcpress.net
 .dcs-live.apis.anvato.net
 .dctbeatsbydre.com
@@ -15003,6 +15022,7 @@ xz.pphimalayanrt.com
 .gnbccarson.com
 .gnc.com
 .gnci.org.hk
+.gneec.com.cn
 .gnews.org
 .gnom-cham.com
 .gnu.org
@@ -15147,6 +15167,7 @@ xz.pphimalayanrt.com
 .google.cf
 .google.ch
 .google.ci
+.google.cn
 .google.co.ck
 .google.co.id
 .google.com
@@ -15287,6 +15308,7 @@ xz.pphimalayanrt.com
 .gotgayporn.com
 .gotgeeks.com
 .gothdporn.com
+.goto-game.net.cn
 .gotporn.com
 .gotquestions.com
 .gotraffic.net
@@ -15748,6 +15770,7 @@ xz.pphimalayanrt.com
 .hayabusa.media
 .hayatnuri.app
 .hayatnuri.com
+.haydaypop.cn
 .hayvip.com
 .hb0e.dsn1151a.com
 .hb287.com
@@ -16098,6 +16121,7 @@ xz.pphimalayanrt.com
 .hi27.ml
 .hi5.tv
 .hiapphere.com
+.hiascend.cn
 .hibdontire.com
 .hiccears.com
 .hidalgo.cl
@@ -16149,6 +16173,8 @@ xz.pphimalayanrt.com
 .hiitch.com
 .hijabilicious.com
 .hikinggfw.org
+.hikunpeng.cn
+.hikunpeng.com.cn
 .hilive.tv
 .hiload.com
 .hilostripper.com
@@ -16168,6 +16194,7 @@ xz.pphimalayanrt.com
 .hippyhillscomix.com
 .hipzoom.net
 .hireatradesman.com
+.hisilicon.com.cn
 .hispavista.com
 .historyofdota.com
 .historyofdota.net
@@ -17194,6 +17221,7 @@ xz.pphimalayanrt.com
 .igvita.com
 .ihakka.net
 .ihao.org
+.ihappystudio.cn
 .ihavesmalltits.com
 .iheart.com
 .ihearttibet.org
@@ -19254,6 +19282,7 @@ xz.pphimalayanrt.com
 .labiennale.org
 .labour.org.hk
 .labyc.com.ar
+.labycore.cn
 .lachirigringa.org
 .lacnic.net
 .lacomics.org
@@ -19855,6 +19884,7 @@ xz.pphimalayanrt.com
 .livingstream.com
 .livingyourambition.com
 .liwangyang.com
+.liyuans.com
 .liyuwiki.com
 .lizakii.000webhostapp.com
 .lizhizhuangbi.com
@@ -20087,6 +20117,7 @@ xz.pphimalayanrt.com
 .luckyissue.com
 .luckyyou.vip
 .lucyintheskywithdi.com
+.ludosuperstar.cn
 .ludwigvonkoopa.com
 .lufi.ethibox.fr
 .luguan.com
@@ -20369,6 +20400,7 @@ xz.pphimalayanrt.com
 .mahabodhi.org
 .mahajantech.com
 .mahimakapoor.co.in
+.mahjongcup.cn
 .maicloud.io
 .maicloud.me
 .maicloud.vip
@@ -20936,6 +20968,7 @@ xz.pphimalayanrt.com
 .mhradio.org
 .mhshosting.com
 .mhub.dafapoker.com
+.mhyurl.cn
 .mhzj.xyz
 .mi.minecraftnoob.com
 .mi513.com
@@ -21107,6 +21140,7 @@ xz.pphimalayanrt.com
 .mindmeld.com
 .mindnode.com
 .mindrolling.org
+.mindspore.cn
 .minecraft.net
 .minecraftr.us
 .minecraftshop.com
@@ -21759,6 +21793,7 @@ xz.pphimalayanrt.com
 .msudalosti.com
 .msunlimitedcloudsummit.com
 .mswe1.org
+.mszdld.cn
 .mt-ssul1.com
 .mtanos.com
 .mtao.fun
@@ -23136,6 +23171,10 @@ xz.pphimalayanrt.com
 .nvsr.com.au
 .nvtongzhisheng.org
 .nwanime.tv
+.nwcdcloud.cn
+.nwcdcloud.com.cn
+.nwcddns.cn
+.nwcdinfosec.cn
 .nwipvideo.com
 .nwsource.com
 .nwtca.org
@@ -25387,6 +25426,7 @@ xz.pphimalayanrt.com
 .pu9900.com
 .pu9955.com
 .puba.com
+.pubgno1.cn
 .publiabril.abril.com.br
 .public-sex-porn.com
 .public-trust.com
@@ -26251,7 +26291,9 @@ xz.pphimalayanrt.com
 .robfuscate.com
 .robinlintec.com
 .robinlintech.com
+.roblox.cn
 .roblox.qq.com
+.robloxdev.cn
 .roboforex.com
 .roboforex.tw
 .roboforexchina.com
@@ -26308,6 +26350,7 @@ xz.pphimalayanrt.com
 .rou.video
 .roughman.net
 .roupacaipira.com
+.route53.cn
 .routledgehandbooks.com
 .royalcams.com
 .royalluxurywatch.com
@@ -26494,6 +26537,7 @@ xz.pphimalayanrt.com
 .safetunnel.tk
 .safevpn.net
 .saffrontech.com
+.sagemaker.com.cn
 .sagernet.org
 .sagitario.com.ar
 .sahabatsetiasmartone.com
@@ -26681,11 +26725,14 @@ xz.pphimalayanrt.com
 .scatsite.com
 .scatvids.club
 .scatville.com
+.sccreator.cn
+.sccreators.cn
 .sccycles.cl
 .scdn.co
 .scene7.com
 .scenesource.me
 .sceper.ws
+.scescdn.cn
 .schalk.com.br
 .scharferporno.com
 .schema.org
@@ -26701,6 +26748,7 @@ xz.pphimalayanrt.com
 .schooltunnel.net
 .sci-hub.mksa.top
 .sci.hubg.org
+.scid.cn
 .science.com
 .science.org
 .sciencedaily.com
@@ -26749,6 +26797,7 @@ xz.pphimalayanrt.com
 .scribd.com
 .scribserver.ga
 .scriptspot.com
+.scsentry.cn
 .sd-bbs.net
 .sd.domain888.pw
 .sd.freepac.pw
@@ -27494,6 +27543,7 @@ xz.pphimalayanrt.com
 .skyassets.com
 .skyav.me
 .skybet.com
+.skydweller.cn
 .skyking.com.tw
 .skyking.net-tv.tw
 .skykiwi.com
@@ -28443,6 +28493,8 @@ xz.pphimalayanrt.com
 .superair.tw
 .superbookcity.com
 .superbrownbear.com
+.supercellcommunity.cn
+.supercellsupport.cn
 .superchina.xyz
 .superearsenjoy.com
 .superfastdatanet.com
@@ -28995,6 +29047,7 @@ xz.pphimalayanrt.com
 .texasartsacademics.org
 .texasboyschoir.org
 .texasdanceconservatory.org
+.texasholdemcup.cn
 .texstudio.org
 .textcashnetwork.com
 .textnow.com
@@ -32017,6 +32070,7 @@ xz.pphimalayanrt.com
 .weetok.com
 .wefightcensorship.org
 .wefong.com
+.wegame.com.cn
 .weiboleak.com
 .weibosuite.com
 .weide8.com
@@ -32054,6 +32108,7 @@ xz.pphimalayanrt.com
 .wenyunchao.com
 .wenzhao.ca
 .were.moe
+.werepository.com.cn
 .wesi301.xyz
 .westca.com
 .westenvik.no
@@ -37228,6 +37283,7 @@ xz.pphimalayanrt.com
 .xn--noss43i.com
 .xn--ohq11k7pl25iyo8a.cn
 .xn--oiq.cc
+.xn--owtw8cc49ajfl.cn
 .xn--p8j9a0d9c9a.xn--q9jyb4c
 .xn--pearsonenespaol-brb.com
 .xn--q41am8x.com
@@ -38095,6 +38151,7 @@ xz.pphimalayanrt.com
 .yx3305.com
 .yx51.net
 .yx8811.com
+.yximg.cn
 .yy011.com
 .yy0110.com
 .yy55.tv
@@ -38483,14 +38540,14 @@ xz.pphimalayanrt.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 02:08:31
+# UPDATED: 2022-11-30 22:29:27
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37284
+# DOMAIN-SUFFIX: 37341
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37653
+# TOTAL: 37710
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -38692,7 +38749,7 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: WeChat
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:11:17
+# UPDATED: 2022-11-30 21:12:30
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 12
 # IP-CIDR: 9
@@ -38725,7 +38782,7 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-18 02:08:24
+# UPDATED: 2022-11-30 21:11:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
