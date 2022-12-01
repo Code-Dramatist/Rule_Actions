@@ -1017,14 +1017,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 22:29:27
+# UPDATED: 2022-12-02 02:08:30
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37341
+# DOMAIN-SUFFIX: 37343
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37710
+# TOTAL: 37712
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -18308,6 +18308,7 @@ xz.pphimalayanrt.com
 .javplatform.com
 .javporn.tech
 .javporn.ws
+.javpost.net
 .javprice.com
 .javprime.net
 .javpub.me
@@ -22392,6 +22393,7 @@ xz.pphimalayanrt.com
 .netfapx.com
 .netfirms.com
 .netflav.com
+.netflav1.com
 .netflix.com
 .netflix.net
 .netflixdnstest0.com
@@ -38540,14 +38542,14 @@ xz.pphimalayanrt.com
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 22:29:27
+# UPDATED: 2022-12-02 02:08:30
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37341
+# DOMAIN-SUFFIX: 37343
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37710
+# TOTAL: 37712
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
