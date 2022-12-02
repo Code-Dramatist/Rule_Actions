@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:08:30
+# UPDATED: 2022-12-03 02:08:25
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37343
+# DOMAIN-SUFFIX: 37346
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37712
+# TOTAL: 37715
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -3273,6 +3273,7 @@ xz.pphimalayanrt.com
 .advanhost.con.hk
 .advanscene.com
 .adventist.org
+.adventofcode.com
 .adventuresbydisney.com
 .advertfan.com
 .advertisercommunity.com
@@ -22676,6 +22677,7 @@ xz.pphimalayanrt.com
 .oss-me-east-1.aliyuncs.com
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
+.osxapps.itunes.g.aaplimg.com
 .osxdaily.com
 .otaku13.howbbs.com
 .otakuss.com
@@ -27557,6 +27559,7 @@ xz.pphimalayanrt.com
 .swag.live
 .swagbucks.com
 .swaghub.cc
+.swallow-apple-com.v.aaplimg.com
 .swapsmut.com
 .swarajyamag.com
 .sway-cdn.com
