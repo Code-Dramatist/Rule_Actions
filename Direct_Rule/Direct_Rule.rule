@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-03 02:09:34
+# UPDATED: 2022-12-04 02:09:56
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67571
+# DOMAIN-SUFFIX: 67608
 # IP-ASN: 932
-# IP-CIDR: 6808
+# IP-CIDR: 6811
 # IP-CIDR6: 4714
 # USER-AGENT: 65
-# TOTAL: 80275
+# TOTAL: 80315
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -34,7 +34,6 @@ USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -44,7 +43,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -60,10 +58,9 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
-USER-AGENT,MiguVideo*
+USER-AGENT,MOO*
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,Youku*
@@ -73,8 +70,12 @@ USER-AGENT,xiami*
 USER-AGENT,Himalaya*
 USER-AGENT,MGTV*
 USER-AGENT,AcFun*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
@@ -83,7 +84,6 @@ USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,TencentMidasConnect*
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
-USER-AGENT,MOO*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
@@ -1771,6 +1771,7 @@ IP-CIDR,103.19.72.0/22,no-resolve
 IP-CIDR,103.190.118.0/24,no-resolve
 IP-CIDR,103.190.122.0/23,no-resolve
 IP-CIDR,103.190.178.0/24,no-resolve
+IP-CIDR,103.191.242.0/23,no-resolve
 IP-CIDR,103.192.0.0/19,no-resolve
 IP-CIDR,103.192.112.0/22,no-resolve
 IP-CIDR,103.192.128.0/20,no-resolve
@@ -7754,6 +7755,7 @@ IP-CIDR,66.102.240.0/21,no-resolve
 IP-CIDR,66.102.248.0/22,no-resolve
 IP-CIDR,66.102.252.0/24,no-resolve
 IP-CIDR,66.102.254.0/23,no-resolve
+IP-CIDR,67.198.146.0/24,no-resolve
 IP-CIDR,67.198.148.0/24,no-resolve
 IP-CIDR,67.198.160.0/23,no-resolve
 IP-CIDR,67.198.168.0/22,no-resolve
@@ -7769,6 +7771,7 @@ IP-CIDR,67.198.199.0/24,no-resolve
 IP-CIDR,67.198.201.0/24,no-resolve
 IP-CIDR,67.198.207.0/24,no-resolve
 IP-CIDR,67.198.208.0/24,no-resolve
+IP-CIDR,67.198.221.0/24,no-resolve
 IP-CIDR,67.198.235.0/24,no-resolve
 IP-CIDR,67.198.239.0/24,no-resolve
 IP-CIDR,67.198.244.0/24,no-resolve
@@ -12546,15 +12549,15 @@ IP-CIDR6,2c0f:f7a8:9220::/48,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-03 02:09:34
+# UPDATED: 2022-12-04 02:09:56
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67571
+# DOMAIN-SUFFIX: 67608
 # IP-ASN: 932
-# IP-CIDR: 6808
+# IP-CIDR: 6811
 # IP-CIDR6: 4714
 # USER-AGENT: 65
-# TOTAL: 80275
+# TOTAL: 80315
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -13771,6 +13774,7 @@ xn--flw351e.com
 .1234.cx
 .1234001.com
 .123456.la
+.123456img.com
 .12345good.com
 .12345good.net
 .12345szzx.com
@@ -13942,6 +13946,7 @@ xn--flw351e.com
 .139down.com
 .139life.com
 .139shop.com
+.139site.com
 .139talk.com
 .139w.com
 .139wanke.com
@@ -14219,6 +14224,7 @@ xn--flw351e.com
 .175game.com
 .175ha.com
 .175kh.com
+.175pt.com
 .175pt.net
 .175wan.com
 .176616.com
@@ -14768,6 +14774,7 @@ xn--flw351e.com
 .2155.com
 .217.net
 .217play.com
+.217wo.com
 .218318.com
 .218996.com
 .21bcr.com
@@ -19638,6 +19645,7 @@ xn--flw351e.com
 .96zxue.com
 .97-7.com
 .970655.com
+.9718.com
 .9718game.com
 .9724.com
 .973.com
@@ -21600,6 +21608,7 @@ xn--flw351e.com
 .aofenglu.com
 .aograph.com
 .aohuasports.com
+.aoidf3.com
 .aojauto.com
 .aojiamarly.com
 .aojian.net
@@ -28424,6 +28433,7 @@ xn--flw351e.com
 .clyric.com
 .clz.me
 .clzqlhj.com
+.cm-analysis.com
 .cm-iov.com
 .cm-worklink.com
 .cm.fancyapi.com
@@ -31690,6 +31700,7 @@ xn--flw351e.com
 .dieniao.com
 .dierkezhan.com
 .diershoubing.com
+.dietfd.com
 .diezhan.me
 .diezhan6.com
 .difanapp.com
@@ -38533,6 +38544,7 @@ xn--flw351e.com
 .h3yun.com
 .h4.cc
 .h4399.com
+.h4kdxs.com
 .h5-share.com
 .h5-x.com
 .h5-yes.com
@@ -39088,6 +39100,7 @@ xn--flw351e.com
 .haoseals.com
 .haosenchina.com
 .haoservice.com
+.haosf.com
 .haosf5.com
 .haoshanpu.com
 .haoshanxi.com
@@ -39617,6 +39630,7 @@ xn--flw351e.com
 .hebeigwy.org
 .hebeijd.com
 .hebeinongzi.com
+.hebeiyichen.com
 .hebeizhouji.com
 .hebgtjt.com
 .hebiw.com
@@ -39784,6 +39798,7 @@ xn--flw351e.com
 .hemayun.com
 .hemayx.com
 .hempelgroup.com
+.hen360.com
 .henan100.com
 .henanart.com
 .henanfucai.com
@@ -44860,6 +44875,7 @@ xn--flw351e.com
 .jeffreyitstudio.com
 .jeffstudio.net
 .jegotrip.com
+.jehudf.com
 .jelleybrown.com
 .jellow.club
 .jellow.site
@@ -47244,6 +47260,7 @@ xn--flw351e.com
 .kanshu5.la
 .kanshu5.net
 .kanshu8.net
+.kanshuapp.com
 .kanshuge.com
 .kanshuhai.com
 .kanshula.com
@@ -47766,6 +47783,7 @@ xn--flw351e.com
 .kkidc.com
 .kkikan.com
 .kkj2.com
+.kkjiaofei.com
 .kkjk.com
 .kkk5.com
 .kkkd.com
@@ -50271,6 +50289,8 @@ xn--flw351e.com
 .llzg.com
 .llzw888.com
 .lm284.com
+.lm335.com
+.lm685.com
 .lm9999.com
 .lmacc.com
 .lmanmo.com
@@ -55239,6 +55259,7 @@ xn--flw351e.com
 .ocar.tv
 .ocd120.com
 .oceanbase.com
+.oceanbot-steam.com
 .oceanengine.com
 .oceanlau.com
 .oceanol.com
@@ -57785,6 +57806,7 @@ xn--flw351e.com
 .qfedu.com
 .qfeiche.com
 .qfgolang.com
+.qfihdr.com
 .qfpay.com
 .qfq.me
 .qfrxyl.com
@@ -58511,6 +58533,7 @@ xn--flw351e.com
 .qkeke.com
 .qkhtml.com
 .qking.ink
+.qkkjd.com
 .qkl123.com
 .qknown.com
 .qksw.com
@@ -59183,6 +59206,7 @@ xn--flw351e.com
 .qyg12.com
 .qyg9.com
 .qyglzz.com
+.qygzbxpt.com
 .qyham.com
 .qyi.io
 .qyiliao.com
@@ -59333,6 +59357,7 @@ xn--flw351e.com
 .ranzhi.net
 .ranzhi.org
 .raoke.net
+.raonie.com
 .raorao.com
 .rap8.com
 .rapidppt.com
@@ -61417,6 +61442,7 @@ xn--flw351e.com
 .shantoumama.com
 .shanweinews.net
 .shanweiyule.com
+.shanxicloud.net
 .shanxidiy.com
 .shanximuseum.com
 .shanxiol.com
@@ -62525,6 +62551,7 @@ xn--flw351e.com
 .sinasws.com
 .sinauda.com
 .sinawallent.com
+.sinawap.com
 .sinawf.com
 .sincetimes.com
 .sinddsun.cyou
@@ -66132,6 +66159,7 @@ xn--flw351e.com
 .tj-kingdee.com
 .tj-model.com
 .tj-un.com
+.tj-yijiajing.com
 .tj-zt.com
 .tj0573.com
 .tj1-miui-bn-stage01.kscn
@@ -69327,6 +69355,7 @@ xn--flw351e.com
 .wannar.com
 .wannengxiaoge.com
 .wannengzj.com
+.wannianli.mobi
 .wannianli.net
 .wannianli8.com
 .wannuoda.com
@@ -70078,6 +70107,7 @@ xn--flw351e.com
 .wenxuedu.com
 .wenxuem.com
 .wenxuemi.com
+.wenxuemi6.com
 .wenxuemm.com
 .wenxuetiandi.com
 .wenyijcc.com
@@ -70535,6 +70565,7 @@ xn--flw351e.com
 .wificstia.com
 .wifidigyy.com
 .wifidog.pro
+.wifidown.com
 .wifigx.com
 .wifilu.com
 .wifimsl.com
@@ -70773,6 +70804,7 @@ xn--flw351e.com
 .wjunjie.com
 .wjx.com
 .wjx.top
+.wjxcdn.com
 .wjyanghu.com
 .wjyh.com
 .wjyt-china.org
@@ -70960,6 +70992,7 @@ xn--flw351e.com
 .wofang.net
 .wofangwang.com
 .wofficebox.com
+.wofjhs.com
 .wogame.net
 .wogoo.com
 .wohenizaiyiqi.com
@@ -71235,6 +71268,7 @@ xn--flw351e.com
 .write-bug.com
 .writebp.com
 .wrjzj.com
+.wrkdih.com
 .wrl163.com
 .wrlsw.com
 .wrltxt.com
@@ -71505,6 +71539,7 @@ xn--flw351e.com
 .wuse.com
 .wusen.net
 .wuseng.com
+.wuseng.net
 .wuseyun.com
 .wushang.com
 .wushangplaza.com
@@ -73030,6 +73065,7 @@ xn--flw351e.com
 .xingbangip.com
 .xingbo.tv
 .xingchen.com
+.xingchenjia.com
 .xingcheshixian.com
 .xingdatrip.com
 .xingdi.me
@@ -73907,6 +73943,7 @@ xn--flw351e.com
 .xszp.cc
 .xszrcw.com
 .xszww.com
+.xszysc.com
 .xt-kp.com
 .xt-tattoo.com
 .xt12333.com
@@ -73988,6 +74025,7 @@ xn--flw351e.com
 .xuanzhoubian.com
 .xuanzhuanmumatuwen.com
 .xubei.com
+.xuchuang.com
 .xudan123.com
 .xudankeji.com
 .xudongfood.com
@@ -75118,6 +75156,7 @@ xn--flw351e.com
 .yhdm07.com
 .yhdm5.com
 .yhdns.net
+.yhdtns.com
 .yhees.com
 .yhetent.com
 .yhfx.info
@@ -76662,6 +76701,7 @@ xn--flw351e.com
 .yuanqi46.com
 .yuanqiao.net
 .yuanqingsh.com
+.yuanqitu.com
 .yuanrenbang.com
 .yuanrengu.com
 .yuanrenxue.com
