@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-06 02:09:46
+# UPDATED: 2022-12-07 02:09:35
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67545
+# DOMAIN-SUFFIX: 67537
 # IP-ASN: 932
 # IP-CIDR: 6811
 # IP-CIDR6: 4714
 # USER-AGENT: 65
-# TOTAL: 80252
+# TOTAL: 80244
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
@@ -32,9 +32,7 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -44,7 +42,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
@@ -60,29 +57,32 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
-USER-AGENT,AcFun*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,MOO*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,TencentMidasConnect*
+USER-AGENT,baiduyinyue
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
 USER-AGENT,Himalaya*
+USER-AGENT,AcFun*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
-USER-AGENT,baiduyinyue
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,Youku*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
@@ -12549,15 +12549,15 @@ IP-CIDR6,2c0f:f7a8:9220::/48,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-06 02:09:46
+# UPDATED: 2022-12-07 02:09:35
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67545
+# DOMAIN-SUFFIX: 67537
 # IP-ASN: 932
 # IP-CIDR: 6811
 # IP-CIDR6: 4714
 # USER-AGENT: 65
-# TOTAL: 80252
+# TOTAL: 80244
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -15383,6 +15383,7 @@ xn--flw351e.com
 .3237.com
 .323700.net
 .3259.com
+.326pay.com
 .32800.com
 .328f.com
 .328vip.com
@@ -16363,7 +16364,6 @@ xn--flw351e.com
 .4sjob.com
 .4sscrm.com
 .4thetooth.com
-.4turewei.com
 .4u1mx79nlw.com
 .4u4v.net
 .4w2b.cc
@@ -21699,6 +21699,7 @@ xn--flw351e.com
 .apk3.com
 .apk8.com
 .apkevery.com
+.apkpackagesys.com
 .apkplug.com
 .apkrj.com
 .apkyx.com
@@ -21791,6 +21792,7 @@ xn--flw351e.com
 .appso.com
 .appsolution.cc
 .apptao.com
+.apptuxing.com
 .appubang.com
 .appublisher.com
 .appurl.cc
@@ -24805,7 +24807,6 @@ xn--flw351e.com
 .btc38.com
 .btc5.net
 .btc789.com
-.btcb.com
 .btcbbs.com
 .btcbl.com
 .btcfans.com
@@ -29176,7 +29177,6 @@ xn--flw351e.com
 .cocosbcx.net
 .cocostudio.org
 .cocss.com
-.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -29676,7 +29676,6 @@ xn--flw351e.com
 .cqrc.net
 .cqrcb.com
 .cqscmy.net
-.cqshangceng.com
 .cqshenou.com
 .cqskl.com
 .cqslib.org
@@ -31117,6 +31116,7 @@ xn--flw351e.com
 .ddsy.com
 .ddtugame.com
 .ddtv135.com
+.ddtv137.com
 .ddtxgame.com
 .ddtz5.com
 .ddun.com
@@ -31182,7 +31182,6 @@ xn--flw351e.com
 .dedeyun.com
 .dedezhuji.com
 .deehai.com
-.deelplumbing.com
 .deemob.com
 .deemos.com
 .deepano.com
@@ -39475,7 +39474,6 @@ xn--flw351e.com
 .hch518.com
 .hchbblg.com
 .hchezhu.com
-.hchfr.com
 .hchlidc.com
 .hchliot.com
 .hcicloud.com
@@ -46430,7 +46428,6 @@ xn--flw351e.com
 .jsrxjt.com
 .jssalt.com
 .jssfx.com
-.jssgw.com
 .jsshow.net
 .jssnrcb.com
 .jsswordshop.com
@@ -51907,7 +51904,6 @@ xn--flw351e.com
 .medme.net
 .medmeeting.org
 .medproad.com
-.medsci-tech.com
 .medstarcorp.com
 .medtion.com
 .meechao.com
@@ -58156,7 +58152,6 @@ xn--flw351e.com
 .qingbh.com
 .qingcache.com
 .qingcdn.com
-.qingchifan.com
 .qingchu.com
 .qingchunbank.com
 .qingcigame.com
@@ -58881,7 +58876,6 @@ xn--flw351e.com
 .quanzhanketang.com
 .quanzhi.com
 .quanzhifu.net
-.quanzhoudaqin.com
 .quanziapp.com
 .quaolai.com
 .quarkbook.com
@@ -66480,7 +66474,6 @@ xn--flw351e.com
 .toplinks.cc
 .toploong.com
 .topmba.mobi
-.topnews9.com
 .topomel.com
 .toppdu.com
 .topperuse.com
@@ -75386,7 +75379,6 @@ xn--flw351e.com
 .yingk.com
 .yingkelawyer.com
 .yingle.com
-.yinglou6.com
 .yinglunka.com
 .yingmei.me
 .yingmi.com
@@ -75591,6 +75583,7 @@ xn--flw351e.com
 .yitopapp.com
 .yitutech.com
 .yituyu.com
+.yiuios.com
 .yiupin.com
 .yiuxiu.com
 .yivian.com
@@ -75792,6 +75785,7 @@ xn--flw351e.com
 .ylike.net
 .ylimg.com
 .yliyun.com
+.ylizu.com
 .yljc888.com
 .yljr.com
 .ylkc.net
@@ -75814,7 +75808,6 @@ xn--flw351e.com
 .ylwl.cc
 .ylws.net
 .ylwyw.com
-.ylxbxgtg.com
 .ylxdtww.com
 .ylxk.net
 .ylxw.net
@@ -77688,7 +77681,6 @@ xn--flw351e.com
 .zcry007.com
 .zcs.cc
 .zcsbbs.com
-.zcsblog.com
 .zcskj.com
 .zctl.net
 .zctx.com
