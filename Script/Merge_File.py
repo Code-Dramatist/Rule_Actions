@@ -19,6 +19,7 @@ for Path in File_Path:
         os.system(r"touch {}".format(Path))
         print("创建目录{}成功".format(Path))
     try:
+        os.remove("./"+Path+"/"+Path+"_pre.rule")
         os.remove("./"+Path+"/"+Path+".rule")
         print("旧规则移除成功")
     except FileNotFoundError:
