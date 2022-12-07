@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:08:49
+# UPDATED: 2022-12-07 22:38:45
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24707
+# DOMAIN-SUFFIX: 24708
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24848
+# TOTAL: 24849
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -2671,6 +2671,7 @@ voice.telephony.goog
 .adsense.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-sex-games.com

@@ -1017,14 +1017,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:31
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37719
+# TOTAL: 37725
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -1226,14 +1226,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:31
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37719
+# TOTAL: 37725
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -4449,6 +4449,7 @@ xz.pphimalayanrt.com
 .adsenseformobileapps.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-list.com
@@ -19429,6 +19430,8 @@ xz.pphimalayanrt.com
 .kuaisantui.cf
 .kuaixian.me
 .kuanyu.host56.com
+.kubakuba.global
+.kubakuba1996.com
 .kubeacademy.com
 .kubeapps.com
 .kubernetes.io
@@ -29726,6 +29729,9 @@ xz.pphimalayanrt.com
 .tigerpvp.ga
 .tigervpn.com
 .tik-tokapi.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com
@@ -38758,14 +38764,14 @@ xz.pphimalayanrt.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:08:49
+# UPDATED: 2022-12-07 22:38:45
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24707
+# DOMAIN-SUFFIX: 24708
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24848
+# TOTAL: 24849
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -40011,14 +40017,14 @@ uts-api.itunes.apple.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:08:49
+# UPDATED: 2022-12-07 22:38:45
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24707
+# DOMAIN-SUFFIX: 24708
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24848
+# TOTAL: 24849
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -42681,6 +42687,7 @@ voice.telephony.goog
 .adsense.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-sex-games.com
