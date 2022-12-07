@@ -35,9 +35,9 @@ def load_file(Dictionary,file_way):
         time.sleep(1)
 
 def remove():
-    shutil.rmtree("reject_dict")
-    shutil.rmtree("proxy_dict")
-    shutil.rmtree("direct_dict")
+    shutil.rmtree("Reject_Rule")
+    shutil.rmtree("Proxy_Rule")
+    shutil.rmtree("Direct_Rule")
 
 if __name__ == '__main__':
     remove()
