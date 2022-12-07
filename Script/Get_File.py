@@ -38,6 +38,7 @@ def remove():
     shutil.rmtree("Reject_Rule")
     shutil.rmtree("Proxy_Rule")
     shutil.rmtree("Direct_Rule")
+    print("文件均移除")
 
 if __name__ == '__main__':
     remove()

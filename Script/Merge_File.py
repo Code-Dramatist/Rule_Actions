@@ -19,7 +19,7 @@ for Path in File_Path:
         os.system(r"touch {}".format(Path))
         print("创建目录{}成功".format(Path))
     try:
-        os.remove("./"+Path+"/"+Path+"_pre.rule")
+        os.remove("./"+Path+"/"+Path+".rule")
         os.remove("./"+Path+"/"+Path+".rule")
         print("旧规则移除成功")
     except FileNotFoundError:
@@ -29,7 +29,7 @@ for Path in File_Path:
         f = open("./"+Path+"/"+file).read()
         f_merge = open("./"+Path+"/"+Path+"_pre.rule","a+")
         f_merge.write(f)
-        file_remove_same("./"+Path+"/"+Path+"_pre.rule","./"+Path+"/"+Path+".rule")
-    f_merge.close()    
+    f_merge.close()
+    file_remove_same("./"+Path+"/"+Path+"_pre.rule","./"+Path+"/"+Path+".rule")    
 
 
