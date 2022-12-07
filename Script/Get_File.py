@@ -14,7 +14,9 @@ proxy_dict = {
     "GlobalMedia_Domain": loon_rule_url+"GlobalMedia/GlobalMedia_Domain.list",
     "Global": loon_rule_url+"Global/Global.list",
     "Global_Domain": loon_rule_url+"Global/Global_Domain.list",
-    "WeChat": loon_rule_url+"WeChat/WeChat.list"
+    //"WeChat": loon_rule_url+"WeChat/WeChat.list",
+    "Proxy":loon_rule_url+"Proxy/Proxy.list",
+    "Proxy_Domain":loon_rule_url+"Proxy/Proxy_Domain.list"
 }
 direct_dict = {
     "ChinaMax": loon_rule_url+"ChinaMax/ChinaMax.list",
