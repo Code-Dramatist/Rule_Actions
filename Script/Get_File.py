@@ -2,6 +2,7 @@ from urllib.request import proxy_bypass
 import requests
 import os
 import time
+import shutil
 loon_rule_url = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
 reject_dict = {
     "anti-ad-surge2": "https://raw.githubusercontents.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt",
@@ -33,7 +34,13 @@ def load_file(Dictionary,file_way):
         f.close()
         time.sleep(1)
 
+def remove():
+    shutil.rmtree(reject_dict)
+    shutil.rmtree(proxy_dict)
+    shutil.rmtree(direct_dict)
+
 if __name__ == '__main__':
+    remove()
     load_file(reject_dict,"Reject_Rule")
     load_file(proxy_dict,"Proxy_Rule")
     load_file(direct_dict,"Direct_Rule")
