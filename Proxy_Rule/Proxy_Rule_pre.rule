@@ -1017,14 +1017,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:26
+# UPDATED: 2022-12-09 02:09:19
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37356
+# DOMAIN-SUFFIX: 37360
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37725
+# TOTAL: 37729
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -1226,14 +1226,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:26
+# UPDATED: 2022-12-09 02:09:19
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37356
+# DOMAIN-SUFFIX: 37360
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37725
+# TOTAL: 37729
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -11947,6 +11947,7 @@ xz.pphimalayanrt.com
 .easportsfootballclub.com
 .easportsmma.com
 .easportsworld.com
+.east-plus.net
 .east.moe
 .eastasiaforum.org
 .eastern-ark.com
@@ -28198,6 +28199,7 @@ xz.pphimalayanrt.com
 .spreadporn.org
 .spreadprivacy.com
 .spreadshirt.es
+.spring-plus.net
 .spring.io
 .spring.net
 .spring4u.info
@@ -32086,6 +32088,7 @@ xz.pphimalayanrt.com
 .wap.xinbao6.top
 .wapedia.mobi
 .waplog.com
+.wapm.io
 .wapsports.tlc178.com
 .waranlov.com
 .warddogs.com
@@ -32104,6 +32107,7 @@ xz.pphimalayanrt.com
 .washingtonpost.com
 .washingtontibet.org
 .waskucity.com
+.wasmer.io
 .wataru.moe
 .watch-ebay.org
 .watch-my-gf.com
@@ -38764,14 +38768,14 @@ xz.pphimalayanrt.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:45
+# UPDATED: 2022-12-09 02:09:45
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24708
+# DOMAIN-SUFFIX: 24710
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24849
+# TOTAL: 24851
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -40017,14 +40021,14 @@ uts-api.itunes.apple.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:45
+# UPDATED: 2022-12-09 02:09:45
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24708
+# DOMAIN-SUFFIX: 24710
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24849
+# TOTAL: 24851
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -46916,6 +46920,7 @@ voice.telephony.goog
 .earthcam.net
 .earthvpn.com
 .easibook.my
+.east-plus.net
 .east.moe
 .eastasiaforum.org
 .eastern-ark.com
@@ -56259,6 +56264,7 @@ voice.telephony.goog
 .sppoc.com
 .spravca.net
 .spreadshirt.es
+.spring-plus.net
 .spring.io
 .spring.net
 .spring4u.info
