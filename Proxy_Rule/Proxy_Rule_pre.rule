@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-17 02:08:45
+# UPDATED: 2022-12-20 00:02:34
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
 # DOMAIN-SUFFIX: 24711
-# IP-CIDR: 92
+# IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24852
+# TOTAL: 24848
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -24730,7 +24730,7 @@ voice.telephony.goog
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:29
+# UPDATED: 2022-12-20 00:02:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
@@ -25838,14 +25838,14 @@ uts-api.itunes.apple.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-17 02:08:45
+# UPDATED: 2022-12-20 00:02:34
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
 # DOMAIN-SUFFIX: 24711
-# IP-CIDR: 92
+# IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24852
+# TOTAL: 24848
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -25892,7 +25892,6 @@ IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
 IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,108.168.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,110.76.140.0/22,no-resolve
 IP-CIDR,113.61.104.0/22,no-resolve
@@ -25912,8 +25911,6 @@ IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
 IP-CIDR,129.134.0.0/17,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
-IP-CIDR,13.251.24.0/24,no-resolve
-IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
@@ -25922,7 +25919,6 @@ IP-CIDR,157.240.0.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,158.85.5.192/27,no-resolve
-IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,173.192.222.160/27,no-resolve
 IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -25970,7 +25966,7 @@ IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.171.0.0/16,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
@@ -25983,7 +25979,7 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:29
+# UPDATED: 2022-12-20 00:02:37
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
@@ -26454,7 +26450,8 @@ IP-CIDR,203.198.0.0/20,no-resolve
 IP-CIDR,203.198.80.0/21,no-resolve
 IP-CIDR,203.211.4.169/32,no-resolve
 IP-CIDR,203.211.4.193/32,no-resolve
-IP-CIDR,203.74.95.128/28,no-resolve
+IP-CIDR,203.74.95.131/32,no-resolve
+IP-CIDR,203.74.95.139/32,no-resolve
 IP-CIDR,203.74.95.153/32,no-resolve
 IP-CIDR,203.75.84.0/24,no-resolve
 IP-CIDR,203.80.97.203/32,no-resolve
@@ -26643,7 +26640,6 @@ IP-CIDR,52.48.0.0/14,no-resolve
 IP-CIDR,52.5.0.0/16,no-resolve
 IP-CIDR,52.54.0.0/16,no-resolve
 IP-CIDR,52.7.0.0/16,no-resolve
-IP-CIDR,52.71.0.0/16,no-resolve
 IP-CIDR,52.72.0.0/16,no-resolve
 IP-CIDR,52.88.0.0/15,no-resolve
 IP-CIDR,54.0.0.0/16,no-resolve
@@ -26999,14 +26995,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-13 02:08:49
+# UPDATED: 2022-12-20 00:02:07
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37365
-# IP-CIDR: 110
+# IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37733
+# TOTAL: 37729
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -27098,7 +27094,6 @@ IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
 IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,108.168.0.0/16,no-resolve
 IP-CIDR,108.175.32.0/20,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,110.76.140.0/22,no-resolve
@@ -27119,8 +27114,6 @@ IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
 IP-CIDR,129.134.0.0/17,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
-IP-CIDR,13.251.24.0/24,no-resolve
-IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
@@ -27130,7 +27123,6 @@ IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,158.85.5.192/27,no-resolve
 IP-CIDR,169.45.248.118/32,no-resolve
-IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,173.192.222.160/27,no-resolve
 IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -27193,7 +27185,7 @@ IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.171.0.0/16,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
@@ -27208,14 +27200,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-13 02:08:49
+# UPDATED: 2022-12-20 00:02:07
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37365
-# IP-CIDR: 110
+# IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37733
+# TOTAL: 37729
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
