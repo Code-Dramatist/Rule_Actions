@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-27 02:11:10
-# DOMAIN: 171
+# UPDATED: 2022-12-29 02:11:01
+# DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67450
+# DOMAIN-SUFFIX: 67446
 # IP-ASN: 932
 # IP-CIDR: 5187
 # IP-CIDR6: 5436
 # USER-AGENT: 65
-# TOTAL: 79254
+# TOTAL: 79253
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -36,6 +36,7 @@ cache.pack.google.com
 cdn.ampproject.org
 checkin.gstatic.com
 clickserve.cc-dt.com
+clickserve.dartsearch.net
 clickserver.googleads.com
 client.amplifi.com
 cn.widevine.com
@@ -114,6 +115,7 @@ origin-a.akamaihd.ne
 origin-a.akamaihd.net
 outlook.office365.com
 p.bstarstatic.com
+pagead-googlehosted.l.google.com
 pki-goog.l.google.com
 play.1ucrs.com
 prod-controlbe.floonet.goog
@@ -173,6 +175,7 @@ update.crashlytics.com
 uplaypc-s-ubisoft.cdn.ubi.com
 weizhiyundong.list
 www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
 www.destinationurl.com
 www.googleadapis.com
 www.gstatic.com
@@ -1169,7 +1172,6 @@ xn--flw351e.com
 .11ziyun.com
 .120-job.com
 .120.net
-.12011.org
 .120185.com
 .120ask.com
 .120askimages.com
@@ -5030,7 +5032,6 @@ xn--flw351e.com
 .58wzb.com
 .58xinghuo.com
 .58xinrui.com
-.58xs.com
 .58xs.la
 .58xs.tw
 .58xueche.com
@@ -5187,7 +5188,6 @@ xn--flw351e.com
 .5imomo.com
 .5imx.com
 .5imxbbs.com
-.5iok.com
 .5iops.com
 .5ipatent.com
 .5ipkwan.com
@@ -5511,6 +5511,7 @@ xn--flw351e.com
 .66ruian.com
 .66shouyou.com
 .66sj.com
+.66ss.org
 .66sy.com
 .66team.com
 .66test.com
@@ -6295,6 +6296,7 @@ xn--flw351e.com
 .85229666.com
 .85384.com
 .853lab.com
+.85462.lc
 .8558.org
 .85679999.com
 .857yzf.com
@@ -7931,7 +7933,6 @@ xn--flw351e.com
 .ahwxcs.com
 .ahxwkj.com
 .ahydnet.com
-.ahydwy.com
 .ahyessoft.com
 .ahyouan.com
 .ahyouth.com
@@ -8123,7 +8124,6 @@ xn--flw351e.com
 .aimipay.net
 .aimiplay.com
 .aimo.moe
-.aimodou.net
 .aimoge.com
 .aimsen.com
 .ainapian.com
@@ -11470,7 +11470,6 @@ xn--flw351e.com
 .bjdiaoyu.com
 .bjdjc.com
 .bjdllti.com
-.bjdlzl.com
 .bjdongxin.com
 .bjdsppa.com
 .bjeasycom.com
@@ -11556,6 +11555,7 @@ xn--flw351e.com
 .bjnaxl.com
 .bjnsr.com
 .bjp321.com
+.bjpag.com
 .bjpowernode.com
 .bjqcjdcj.com
 .bjqh.org
@@ -11613,7 +11613,6 @@ xn--flw351e.com
 .bjtcf.com
 .bjtelecom.net
 .bjtitle.com
-.bjtjr.net
 .bjtjw.net
 .bjtjzx.com
 .bjtlky888.com
@@ -12285,6 +12284,7 @@ xn--flw351e.com
 .btwob.net
 .btwuji.com
 .btxl8.com
+.btydjxc.com
 .btzhcc.com
 .buaaer.com
 .bubalusplus.com
@@ -13836,7 +13836,6 @@ xn--flw351e.com
 .cgsfusion.com
 .cgsoft.net
 .cgtblog.com
-.cgtime.net
 .cgtn.com
 .cgtsj.com
 .cgtsj.org
@@ -15093,7 +15092,6 @@ xn--flw351e.com
 .chjso.com
 .chkj365.com
 .chklingw.com
-.chlahb.com
 .chloe99.com
 .chmecc.org
 .chmed.net
@@ -15544,6 +15542,7 @@ xn--flw351e.com
 .cjhxfund.com
 .cjienc.com
 .cjiit.com
+.cjjd04.com
 .cjjd08.com
 .cjjhb.com
 .cjjjs.com
@@ -15713,6 +15712,7 @@ xn--flw351e.com
 .clouddns.vip
 .clouddongying.com
 .clouddream.net
+.cloudflare-cn.com
 .cloudflare520.com
 .cloudfoshan.com
 .cloudfront-cn.net
@@ -17881,6 +17881,7 @@ xn--flw351e.com
 .da.anythinktech.com
 .da88.net
 .daanbar.com
+.daanche.com
 .daba.com
 .dabaicai.org
 .dabao123.com
@@ -18744,6 +18745,7 @@ xn--flw351e.com
 .dexindat.com
 .dexingrv.com
 .dexinsg.com
+.dextercai.com
 .dexuee.com
 .dexunyun.com
 .deyang5.com
@@ -20146,7 +20148,6 @@ xn--flw351e.com
 .duhao.net
 .dui.ai
 .dui1dui.com
-.dui88.com
 .dui9999.com
 .duia.com
 .duiai.com
@@ -22359,7 +22360,6 @@ xn--flw351e.com
 .fayiyi.com
 .fayurumen.com
 .fazhijx.com
-.fazj.org
 .fb.mu
 .fbabi.com
 .fbaichuan.com
@@ -26956,7 +26956,6 @@ xn--flw351e.com
 .hdhome.org
 .hdhospital.com
 .hdhui.com
-.hdingsheng.com
 .hdj.me
 .hdjay.com
 .hdjwww.com
@@ -29288,7 +29287,6 @@ xn--flw351e.com
 .huxiu.com
 .huxiu.link
 .huxiucdn.com
-.huya.cm
 .huya.com
 .huya040.xyz
 .huyahaha.com
@@ -30836,7 +30834,6 @@ xn--flw351e.com
 .imomoe.jp
 .imooc.com
 .imoocc.com
-.imoodou.com
 .imoonfm.com
 .imooo.com
 .imopan.com
@@ -42435,6 +42432,7 @@ xn--flw351e.com
 .ntwzy.com
 .ntyswlkj.com
 .ntyy888.com
+.ntzcb2b.com
 .nu1l.com
 .nuan.io
 .nuandao.com
@@ -43319,6 +43317,7 @@ xn--flw351e.com
 .ouyada.com
 .ouyaoxiazai.com
 .ouyeel.com
+.ouyi.date
 .ouyi.zone
 .ouyingyimin.com
 .ouzhougoufang.com
@@ -46318,6 +46317,8 @@ xn--flw351e.com
 .queniucf.com
 .queniuck.com
 .queniufm.com
+.queniuhy.com
+.queniukr.com
 .queniuso.com
 .queniusy.com
 .queniuuf.com
@@ -47737,6 +47738,7 @@ xn--flw351e.com
 .saiyangame.com
 .saiyouedu.net
 .saiyunyx.com
+.sakesi.club
 .sakway.com
 .saladvideo.com
 .salasolo.com
@@ -48692,7 +48694,6 @@ xn--flw351e.com
 .shanghai-intex.com
 .shanghai-map.net
 .shanghaiairport.com
-.shanghaiboxu.com
 .shanghaicaiyi.com
 .shanghaichannel.net
 .shanghaiconcerthall.org
@@ -49253,6 +49254,7 @@ xn--flw351e.com
 .shiyiyx.com
 .shiyongjun.biz
 .shiyou.me
+.shiyouhome.com
 .shiyousan.com
 .shiyu.pro
 .shiyue.com
@@ -51954,6 +51956,7 @@ xn--flw351e.com
 .szaiten.com
 .szande.com
 .szaudio.com
+.szbaoly.com
 .szbbs.org
 .szbcase.com
 .szbdyd.com
@@ -52503,7 +52506,6 @@ xn--flw351e.com
 .taokezhushou.com
 .taokouling.com
 .taoku.com
-.taolusm.com
 .taoluzhibo56.com
 .taolvtong.com
 .taolx.com
@@ -53571,6 +53573,7 @@ xn--flw351e.com
 .tjzfcg.com
 .tjzhongyiyao.com
 .tjzyec.com
+.tjzyfw.com
 .tk-life.com
 .tk-rays.com
 .tk-xiong.com
@@ -54895,7 +54898,6 @@ xn--flw351e.com
 .uayangtze-volga.org
 .ub-os.com
 .ub.cc
-.ub666.cc
 .uban.com
 .ubangmang.com
 .ubersz.com
@@ -56298,6 +56300,7 @@ xn--flw351e.com
 .vvipcdn.com
 .vvjob.com
 .vvkaoyan.com
+.vvl.cc
 .vvmeiju.com
 .vvo2o.com
 .vvpgwg.xyz
@@ -57521,6 +57524,7 @@ xn--flw351e.com
 .wf.pub
 .wf163.com
 .wf66.com
+.wfaozhuo.com
 .wfbaiyou.com
 .wfbbs.com
 .wfbrood.com
@@ -57811,7 +57815,6 @@ xn--flw351e.com
 .whuhzzs.com
 .whuspark.com
 .whuss.com
-.whusu.org
 .whut-px.com
 .whutech.com
 .whwanshun.com
@@ -60724,7 +60727,6 @@ xn--flw351e.com
 .xiuno.com
 .xiupin.com
 .xiuren.com
-.xiurenb.com
 .xiushao.com
 .xiusheji.com
 .xiusheji.net
@@ -61020,10 +61022,7 @@ xn--flw351e.com
 .xmsoushu.com
 .xmspace.net
 .xmtbang.com
-.xmttz02.pw
 .xmtyy.net
-.xmtyy02.pw
-.xmtyy04.pw
 .xmuchong.com
 .xmuli.tech
 .xmwan.com
@@ -62784,6 +62783,7 @@ xn--flw351e.com
 .yingyongmiao.com
 .yingyongso.com
 .yingyu.com
+.yingyuchat.com
 .yingyurumen.com
 .yingyushijie.com
 .yingyuweb.com
@@ -64594,7 +64594,6 @@ xn--flw351e.com
 .yx0599.com
 .yx090.com
 .yx10011.com
-.yx129.net
 .yx192.com
 .yx231.com
 .yx643.com
@@ -64689,7 +64688,6 @@ xn--flw351e.com
 .yy845.com
 .yyasp.net
 .yybox.cc
-.yyccia.com
 .yycec.com
 .yyclouds.com
 .yyclub.org
@@ -65128,6 +65126,7 @@ xn--flw351e.com
 .zechunbengye.com
 .zeda1.com
 .zedukm.com
+.zeekrlife.com
 .zeelis.com
 .zeesin.com
 .zego.im
@@ -67634,15 +67633,15 @@ xn--flw351e.com
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-28 02:12:07
-# DOMAIN: 171
+# UPDATED: 2022-12-29 02:11:01
+# DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67450
+# DOMAIN-SUFFIX: 67446
 # IP-ASN: 932
 # IP-CIDR: 5187
 # IP-CIDR6: 5436
 # USER-AGENT: 65
-# TOTAL: 79254
+# TOTAL: 79253
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -67653,9 +67652,10 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,weibo
-DOMAIN-KEYWORD,qiyi
+USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -67664,9 +67664,7 @@ USER-AGENT,TikTok*
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%8D%B3%E5%88%BB*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
@@ -67676,14 +67674,12 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
-USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
 USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
-USER-AGENT,YYeTs*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
 USER-AGENT,cmb*
@@ -67692,35 +67688,38 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
+USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
-USER-AGENT,MGTV*
-USER-AGENT,MOO*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MiguVideo*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
+USER-AGENT,QYPlayer*
+USER-AGENT,YYeTs*
 USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
+USER-AGENT,iQiYi*
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,Himalaya*
-USER-AGENT,AcFun*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,MGTV*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+USER-AGENT,MOO*
 USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
 USER-AGENT,iQIYI*
-USER-AGENT,iQiYi*
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve
 IP-ASN,10212,no-resolve
