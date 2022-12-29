@@ -26995,14 +26995,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-29 02:09:23
+# UPDATED: 2022-12-30 02:09:28
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37379
+# DOMAIN-SUFFIX: 37381
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37743
+# TOTAL: 37745
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -27200,14 +27200,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-29 02:09:23
+# UPDATED: 2022-12-30 02:09:28
 # DOMAIN: 170
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37379
+# DOMAIN-SUFFIX: 37381
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37743
+# TOTAL: 37745
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -39347,6 +39347,7 @@ www-cdn.icloud.com.akadns.net
 .fb.careers
 .fb.co
 .fb.com
+.fb.gg
 .fb.me
 .fb.watch
 .fbacebook.com
@@ -39384,6 +39385,7 @@ www-cdn.icloud.com.akadns.net
 .fbthirdpartypixel.org
 .fbu.sharepoint.com
 .fburl.com
+.fbwat.ch
 .fbworkmail.com
 .fc.iwant-in.net
 .fc00.io
