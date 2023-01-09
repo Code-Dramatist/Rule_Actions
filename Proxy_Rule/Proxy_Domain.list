@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:10:04
+# UPDATED: 2023-01-10 02:10:43
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24712
+# DOMAIN-SUFFIX: 24714
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24849
+# TOTAL: 24851
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -3698,6 +3698,7 @@ voice.telephony.goog
 .baixing.me
 .baixn.xyz
 .baiyun.net
+.baizhi.org
 .bakaproxy.moe
 .bakerpr.com.au
 .bakerssecret.com
@@ -8293,6 +8294,7 @@ voice.telephony.goog
 .gandhidham.com
 .ganetstudio.com
 .ganges.com
+.ganjing.com
 .ganjingworld.com
 .gaoloumi.cc
 .gaoming.net
