@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-09 02:08:03
+# UPDATED: 2023-01-16 02:08:42
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14855
+# DOMAIN-SUFFIX: 14873
 # IP-CIDR: 7
-# TOTAL: 14876
+# TOTAL: 14894
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -1557,6 +1557,7 @@ zgsdk.zhugeio.com
 .actie.milieudefensie.nl
 .action.advisorycloud.com
 .action.logixfiber.com
+.actioniq.mr-in.com
 .activation.depop.com
 .active-redirect-sslchefbeanstalkchef-marketing.net.zooplus.it
 .active-redirect-sslpaymentreco.nshw.hwcdnvision.testbedsystem.net.zooplus.it
@@ -2314,6 +2315,7 @@ zgsdk.zhugeio.com
 .analytics.kaltura.com
 .analytics.kapost.com
 .analytics.kerns.co
+.analytics.kkb.com.tr
 .analytics.kraken.com
 .analytics.krieselreihe.com
 .analytics.kukla.club
@@ -2550,6 +2552,7 @@ zgsdk.zhugeio.com
 .annoyingacoustics.com
 .annwwu.guitarcenter.com
 .anon-stats.eff.org
+.anonstat.pw
 .ans.avast.com
 .ans.milb.com
 .ans.mlb.com
@@ -3135,6 +3138,7 @@ zgsdk.zhugeio.com
 .bzcuta.titleboxing.com
 .bzqxze.remixshop.com
 .c.amazinglybrilliant.com.au
+.c.bazo.io
 .c.bigmir.net
 .c.gazetevatan.com
 .c.holmesmind.com
@@ -3521,6 +3525,7 @@ zgsdk.zhugeio.com
 .collect.elvia.ch
 .collect.helsana-preprod.ch
 .collect.helsana.ch
+.collect.hollisterco.com
 .collect.iteam-dress.com
 .collect.meilleurtaux.com
 .collect.rewardstyle.com
@@ -3561,6 +3566,7 @@ zgsdk.zhugeio.com
 .combclover.com
 .comfortablecheese.com
 .comm.toro.com
+.commerce.bing.com
 .commercial.davey.com
 .commonalmanac.com
 .commonswing.com
@@ -4442,6 +4448,7 @@ zgsdk.zhugeio.com
 .downloads.coface.com
 .downpayment.fernsby.com
 .downtowndirection.com
+.dp.coinbase.com
 .dp.shoprunner.com
 .dpckzt.mesrecettesfaciles.fr
 .dpdety.jingus.com
@@ -5295,10 +5302,12 @@ zgsdk.zhugeio.com
 .fpb8.esce.fr
 .fpcdn.io
 .fphfdx.partswarehouse.com
+.fpnpmcdn.net
 .fpptmv.mrmarvis.co.uk
 .fprfvt.recambioscoches.es
 .fpt.microsoft.com
 .fptls.com
+.fptls2.com
 .fpxau.net
 .fpxewa.ilmeteo.it
 .fq9vy0muyqi3.www.madrigalmaps.com
@@ -8135,6 +8144,7 @@ zgsdk.zhugeio.com
 .p.pmu.fr
 .p.ryanhalliday.com
 .p.tencentmind.com
+.p.typekit.net
 .p.versacommerce.de
 .p.victoria.dev
 .p.wren.co
@@ -8291,6 +8301,7 @@ zgsdk.zhugeio.com
 .pixel-tracker.com
 .pixel.ampry.com
 .pixel.anyclip.com
+.pixel.archipro.co.nz
 .pixel.archive.is
 .pixel.archive.ph
 .pixel.archive.vn
@@ -8531,6 +8542,7 @@ zgsdk.zhugeio.com
 .privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de
 .processor.asccommunications.com
 .procroanalytics.com
+.prod-events.nykaa.com
 .prod.ew.srp.navigacloud.com
 .proditor.sparda.de
 .productivepear.com
@@ -8600,6 +8612,7 @@ zgsdk.zhugeio.com
 .pxsg.pandora.com
 .pylon.micstatic.com
 .pzapi-ij.com
+.pzapi-kg.com
 .pzd.rakuten.co.jp
 .pzimff.com
 .pzscub.prestiter.it
@@ -11127,6 +11140,7 @@ zgsdk.zhugeio.com
 .sp.thetimesherald.com
 .sp.thetowntalk.com
 .sp.timesrecordnews.com
+.sp.tinymce.com
 .sp.usatoday.com
 .sp.vcstar.com
 .sp.visaliatimesdelta.com
@@ -12288,6 +12302,7 @@ zgsdk.zhugeio.com
 .t.wayfair.de
 .t.wiz.meilleurtaux.com
 .t.y8.com
+.t.zulily.com
 .t0y.toyota.ca
 .t1.benefits.tops.co.th
 .t1.discover.flashnews.com.au
@@ -12314,6 +12329,7 @@ zgsdk.zhugeio.com
 .tag.flagship.io
 .tag.goldenbees.fr
 .tag.leadplace.fr
+.tag.lexer.io
 .tag.mtrcs.samba.tv
 .tag.myplay.com
 .tag.rightmessage.com
@@ -13491,6 +13507,7 @@ zgsdk.zhugeio.com
 .tracker.nitropay.com
 .tracker.providence.org
 .tracker.publico.pt
+.tracker.ranker.com
 .tracker.roitesting.com
 .tracker.services.vaix.ai
 .tracker.shopclues.com
@@ -13512,6 +13529,7 @@ zgsdk.zhugeio.com
 .tracker.wpserveur.net
 .tracker.xgen.dev
 .trackerapi.truste.com
+.tracking-api-4lasu2nlcq-ew.a.run.app
 .tracking-driver.staging.goshare.co
 .tracking-explore.agilent.com
 .tracking-secure.csob.cz
@@ -13709,6 +13727,7 @@ zgsdk.zhugeio.com
 .travel.caradonna.com
 .travel.onlinevacationcenter.com
 .travelmarketreport.actonservice.com
+.trc.gpcdn.pl
 .trc.pushnami.com
 .trck.aeon.co.jp
 .trck.bdi-services.de
@@ -13753,7 +13772,6 @@ zgsdk.zhugeio.com
 .tru.webelapp.com
 .truckstomatoes.com
 .truffle.bid
-.trust-provider.com
 .trust.mitutoyo.com
 .trust.titanhq.com
 .trusted-web-seal.cybertrust.ne.jp
