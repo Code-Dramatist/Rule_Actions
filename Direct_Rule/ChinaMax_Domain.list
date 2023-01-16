@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-16 02:12:38
+# UPDATED: 2023-01-17 02:11:17
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67405
+# DOMAIN-SUFFIX: 67414
 # IP-ASN: 932
 # IP-CIDR: 5265
 # IP-CIDR6: 5321
 # USER-AGENT: 65
-# TOTAL: 79175
+# TOTAL: 79184
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -13742,6 +13742,8 @@ xn--flw351e.com
 .cf-china.info
 .cf-ns.com
 .cf-ns.net
+.cf-ns.site
+.cf-ns.tech
 .cf.com
 .cf69.com
 .cf865.com
@@ -13782,6 +13784,8 @@ xn--flw351e.com
 .cfsino.com
 .cfsl2017.com
 .cftea.com
+.cftest7.com
+.cftest8.com
 .cftong.com
 .cftsupport.com
 .cfucn.com
@@ -15723,6 +15727,11 @@ xn--flw351e.com
 .clouddream.net
 .cloudflare-cn.com
 .cloudflare520.com
+.cloudflarecn.net
+.cloudflareinsights-cn.com
+.cloudflareprod.com
+.cloudflarestaging.com
+.cloudflarestoragegw.com
 .cloudfoshan.com
 .cloudfront-cn.net
 .cloudfuqing.com
