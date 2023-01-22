@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-11 02:10:02
+# UPDATED: 2023-01-22 15:46:31
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24722
+# DOMAIN-SUFFIX: 24700
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24859
+# TOTAL: 24837
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -3810,7 +3810,6 @@ voice.telephony.goog
 .bbs.imoutolove.me
 .bbs.jygnet.org
 .bbs.lxty8.com
-.bbs.mf8.com.cn
 .bbs.sex169.xyz
 .bbs.sina.com
 .bbs.sopboy.com
@@ -7252,7 +7251,6 @@ voice.telephony.goog
 .ethsat.com
 .etizer.org
 .etokki.com
-.etoro.com.cn
 .etowns.net
 .etowns.org
 .ets.cc
@@ -7787,7 +7785,6 @@ voice.telephony.goog
 .fogcity.com
 .followcn.com
 .fonts.proxy.ustclug.org
-.foodking.com.cn
 .foodking.com.tw
 .fookpan.com
 .foolsmountain.com
@@ -8156,7 +8153,6 @@ voice.telephony.goog
 .fun7803.com
 .fun8011.com
 .fun88.com
-.fun88.com.cn
 .fun8802.com
 .fun8809.com
 .fun881211.com
@@ -8265,7 +8261,6 @@ voice.telephony.goog
 .galstars.net
 .gambe.jp
 .game-899.net
-.game.com.cn
 .game.fafafa3388.com
 .game.fun88721.com
 .game.kwm.com
@@ -9234,7 +9229,6 @@ voice.telephony.goog
 .hg1259.com
 .hg141.com
 .hg1661.com
-.hg188.com.cn
 .hg9300b.com
 .hg9566.com
 .hga017.com
@@ -11014,7 +11008,6 @@ voice.telephony.goog
 .kiwi.kz
 .kj.1680210.com
 .kk-whys.co.jp
-.kk168.com.cn
 .kk2582.com
 .kk426.com
 .kk63.net
@@ -11351,7 +11344,6 @@ voice.telephony.goog
 .ledongzhibo9999.com
 .leduo.one
 .lee.easymall.com.tw
-.leeao.com.cn
 .leechenyang.com
 .leecheukyan.org
 .leeshailemish.com
@@ -12113,7 +12105,6 @@ voice.telephony.goog
 .mariodesigns.uk
 .mariusl.com
 .mark.tw
-.markets.com.cn
 .marketwatch.com
 .markhourihan.com
 .markquart.com
@@ -14769,9 +14760,7 @@ voice.telephony.goog
 .qiye163mx01.mxmail.netease.com
 .qiyejizhang.com
 .qizhenyu.com
-.qjvpn.com.cn
 .qjxu.r5.cr.rs
-.qjz.com.cn
 .qk3p.com
 .qkav9.cf
 .qknisog514.ryq85m.com
@@ -15110,7 +15099,6 @@ voice.telephony.goog
 .reuters.co.jp
 .reuters.co.uk
 .reuters.com
-.reuters.com.cn
 .reuters.de
 .reuters.fr
 .reuters.it
@@ -15313,7 +15301,6 @@ voice.telephony.goog
 .rv55.com
 .rwaitkus.com
 .rwdxtv.com
-.rwsentosa.com.cn
 .rx40.com
 .rx8800.com
 .rxcp1010.com
@@ -15816,7 +15803,6 @@ voice.telephony.goog
 .shiksha.com
 .shile.xyz
 .shiming.t28.net
-.shinjiru.com.cn
 .shinning-way.weebly.com
 .shinnoca.byethost7.com
 .shinobi.jp
@@ -16202,7 +16188,6 @@ voice.telephony.goog
 .speed.wyqn.net
 .speedify.com
 .speedmm.com
-.speedqueen.com.cn
 .speedsmart.net
 .speedtest.hkg02.softlayer.com
 .spem.at
@@ -19409,7 +19394,6 @@ voice.telephony.goog
 .wsdc9988.com
 .wsdc999.com
 .wsj.com
-.wsj.com.cn
 .wsj.net
 .wsjhk.com
 .wsjradio.com
@@ -20496,10 +20480,8 @@ voice.telephony.goog
 .www.cat.com
 .www.cathayglory.com
 .www.cathayglory.org
-.www.cathaypacific.com.cn
 .www.cathaypacificcargo.com
 .www.cathaysite.com
-.www.cathaysite.com.cn
 .www.cavip111.com
 .www.cazila.com
 .www.cba.ca
@@ -21268,7 +21250,6 @@ voice.telephony.goog
 .www.girlscanner.com
 .www.gjsq.biz
 .www.gkfx.com
-.www.gkfxprime.com.cn
 .www.glideapps.com
 .www.globalgreens.org
 .www.globalinksabroad.org
@@ -21717,7 +21698,6 @@ voice.telephony.goog
 .www.jdlingyu.moe
 .www.jdpavds.com
 .www.jdw6.com
-.www.jdyvpn.com.cn
 .www.jeannedelalune.co.uk
 .www.jejer.net
 .www.jemmagura.com
@@ -22071,7 +22051,6 @@ voice.telephony.goog
 .www.metcn.com
 .www.meteo.fr
 .www.metropolismag.com
-.www.mf8.com.cn
 .www.mgm8091.com
 .www.mgscl123.com
 .www.mhakel.com
@@ -23572,7 +23551,6 @@ voice.telephony.goog
 .www.yacy.net
 .www.yah.idv.tw
 .www.yahoo.cn
-.www.yahoo.com.cn
 .www.yangca88.com
 .www.yaoihavenreborn.com
 .www.yayun.idv.tw

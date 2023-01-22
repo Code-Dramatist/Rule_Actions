@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-20 02:10:26
+# UPDATED: 2023-01-23 02:09:19
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37840
+# DOMAIN-SUFFIX: 37679
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38211
+# TOTAL: 38050
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -3081,7 +3081,6 @@ www-cdn.icloud.com.akadns.net
 .acel.com
 .acer-group.com
 .acer.com
-.acer.com.cn
 .aceros-de-hispania.com
 .acertainsound.com
 .acetop.com
@@ -3171,7 +3170,6 @@ www-cdn.icloud.com.akadns.net
 .adidas.be
 .adidas.ch
 .adidas.com
-.adidas.com.cn
 .adidas.it
 .adipascu.ro
 .adityabhushan.com
@@ -3312,7 +3310,6 @@ www-cdn.icloud.com.akadns.net
 .aeon-pool.com
 .aerisapi.com
 .aeroflot.ru
-.aerogard.com.cn
 .aerogardcn.com
 .aeromexico.com
 .aerotaxi.cl
@@ -3482,7 +3479,6 @@ www-cdn.icloud.com.akadns.net
 .airwick.be
 .airwick.ch
 .airwick.com
-.airwick.com.cn
 .airwick.hr
 .airwick.it
 .airwick.net
@@ -3611,7 +3607,6 @@ www-cdn.icloud.com.akadns.net
 .alesso.net
 .alexa.com
 .alexafund.cn
-.alexafund.com.cn
 .alexanderstreet.com
 .alexgallego.org
 .alexlur.org
@@ -3703,7 +3698,6 @@ www-cdn.icloud.com.akadns.net
 .alphabet.biz
 .alphabet.ch
 .alphabet.com
-.alphabet.com.cn
 .alphabet.com.lv
 .alphabet.com.pt
 .alphabet.info
@@ -3835,33 +3829,24 @@ www-cdn.icloud.com.akadns.net
 .amazonaws-china.com
 .amazonaws.cn
 .amazonaws.com
-.amazonaws.com.cn
 .amazonaws.tv
 .amazonbusiness.cn
-.amazonbusiness.com.cn
 .amazonbusiness.org
 .amazonbusinessblog.com
 .amazonchoice.cn
-.amazonchoice.com.cn
 .amazonchoices.cn
-.amazonchoices.com.cn
 .amazondevicesupport.com
 .amazonfctours.com
 .amazonianblog.com
 .amazonimages.com
 .amazoninspire.cn
-.amazoninspire.com.cn
 .amazonlaunchpad.cn
 .amazonlaunchpad.com
-.amazonlaunchpad.com.cn
-.amazonlending.com.cn
 .amazonliterarypartnership.com
 .amazonlumberyard.wang
 .amazonnow.cn
-.amazonnow.com.cn
 .amazonpay.com
 .amazonprimevideo.cn
-.amazonprimevideo.com.cn
 .amazonprimevideos.com
 .amazonsdi.com
 .amazonses.com
@@ -3870,10 +3855,8 @@ www-cdn.icloud.com.akadns.net
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
-.amazonwebservices.com.cn
 .amazonworkdocs.cn
 .amazonworkdocs.com
-.amazonworkdocs.com.cn
 .ambit.chat
 .ambitvpn.com
 .amcas.org
@@ -4057,7 +4040,6 @@ www-cdn.icloud.com.akadns.net
 .aneisa.com
 .anfutong.cn
 .anfutong.com
-.anfutong.com.cn
 .angela-merkel.de
 .angelblog.jp
 .angelfire.com
@@ -4338,7 +4320,6 @@ www-cdn.icloud.com.akadns.net
 .apple-darwin.org
 .apple-dns.cn
 .apple-dns.com
-.apple-dns.com.cn
 .apple-dns.net
 .apple-enews.com
 .apple-expo.com
@@ -4364,7 +4345,6 @@ www-cdn.icloud.com.akadns.net
 .apple.cn
 .apple.co
 .apple.com
-.apple.com.cn
 .apple.com.co
 .apple.com.do
 .apple.com.pr
@@ -4402,14 +4382,12 @@ www-cdn.icloud.com.akadns.net
 .applecentar.co.rs
 .applecentar.rs
 .applecenter.cn
-.applecenter.com.cn
 .applecentre.info
 .appleclassicipod.com
 .applecom.com
 .applecomputer-imac.com
 .applecomputer.cn
 .applecomputer.com
-.applecomputer.com.cn
 .applecomputerimac.com
 .applecomputerinc.info
 .applecoronavirus.com
@@ -4417,7 +4395,6 @@ www-cdn.icloud.com.akadns.net
 .appledarwin.com
 .appledarwin.net
 .appledns.cn
-.appledns.com.cn
 .appleenews.com
 .appleexpo.info
 .applefilmaker.com
@@ -4469,13 +4446,11 @@ www-cdn.icloud.com.akadns.net
 .applepay.rs
 .applepay.tv
 .applepaycash.cn
-.applepaycash.com.cn
 .applepaycash.net
 .applepaycash.tv
 .applepaymerchantsupplies.info
 .applepaysupplies.cn
 .applepaysupplies.com
-.applepaysupplies.com.cn
 .applepaysupplies.info
 .applepaysupplies.net
 .applepaysupplies.tv
@@ -4494,7 +4469,6 @@ www-cdn.icloud.com.akadns.net
 .applestore.ch
 .applestore.cn
 .applestore.com
-.applestore.com.cn
 .applestore.com.ee
 .applestore.com.hr
 .applestore.com.pt
@@ -4510,7 +4484,6 @@ www-cdn.icloud.com.akadns.net
 .appletv.com
 .appletv.wang
 .appletv4.cn
-.appletv4.com.cn
 .applewallet.com
 .applewallet.tv
 .applewatch.tv
@@ -4613,7 +4586,6 @@ www-cdn.icloud.com.akadns.net
 .army.mil
 .arph.org
 .arphic.com
-.arphic.com.cn
 .arrowsoftruth.org
 .art.sy
 .art1lib.com
@@ -4645,7 +4617,6 @@ www-cdn.icloud.com.akadns.net
 .asesoria.cl
 .asexdoll.com
 .asezwao.org
-.asfiovnxocqpcry.com.cn
 .asg.to
 .asha.org
 .ashemaletube.com
@@ -4742,7 +4713,6 @@ www-cdn.icloud.com.akadns.net
 .astrumpeople.com
 .asu.mx
 .asus.com
-.asus.com.cn
 .async.be
 .atandt.com
 .atc.org.au
@@ -5010,7 +4980,6 @@ www-cdn.icloud.com.akadns.net
 .aws.adana123.site
 .aws.e8play.cc
 .awsapps.cn
-.awsapps.com.cn
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -5379,7 +5348,6 @@ www-cdn.icloud.com.akadns.net
 .battlefront2.com
 .battlefrontii.com
 .battlelog.com
-.battlenet.com.cn
 .bawimydzieci.pl
 .baxsound.com
 .baxyy.com
@@ -5450,7 +5418,6 @@ www-cdn.icloud.com.akadns.net
 .bbs.imoutolove.me
 .bbs.jygnet.org
 .bbs.lxty8.com
-.bbs.mf8.com.cn
 .bbs.sex169.xyz
 .bbs.sina.com
 .bbs.sopboy.com
@@ -5579,10 +5546,8 @@ www-cdn.icloud.com.akadns.net
 .beats-soaho.com
 .beats1.cc
 .beats1.cn
-.beats1.com.cn
 .beats1.tv
 .beats123.com
-.beats2.com.cn
 .beats4.cn
 .beats4.net
 .beats4outlets.com
@@ -5839,7 +5804,6 @@ www-cdn.icloud.com.akadns.net
 .behindkink.com
 .beibao.cn
 .beibao.com
-.beibao.com.cn
 .beijing1989.com
 .beijing2022.art
 .beijingbiden.com
@@ -5893,7 +5857,6 @@ www-cdn.icloud.com.akadns.net
 .bestbuy-jobs.com
 .bestbuy.cn
 .bestbuy.com
-.bestbuy.com.cn
 .bestbuy.info
 .bestbuy24x7solutions.com
 .bestbuybusiness.com
@@ -6160,7 +6123,6 @@ www-cdn.icloud.com.akadns.net
 .bind2.com
 .bine.me
 .bing.com
-.bing.com.cn
 .bing.net
 .bingads.com
 .bingagencyawards.com
@@ -6662,7 +6624,6 @@ www-cdn.icloud.com.akadns.net
 .bmw.co.id
 .bmw.com
 .bmw.com.bd
-.bmw.com.cn
 .bmw.com.co
 .bmw.com.do
 .bmw.com.py
@@ -7015,7 +6976,6 @@ www-cdn.icloud.com.akadns.net
 .bridgestone.cn
 .bridgestone.co.id
 .bridgestone.com
-.bridgestone.com.cn
 .bridgestone.com.co
 .bridgestoneamericas.com
 .bridgestonearena.com
@@ -7649,7 +7609,6 @@ www-cdn.icloud.com.akadns.net
 .canon.ch
 .canon.cn
 .canon.com
-.canon.com.cn
 .canon.ee
 .canon.hr
 .canon.it
@@ -8006,6 +7965,8 @@ www-cdn.icloud.com.akadns.net
 .cfna.com
 .cfos.de
 .cfr.org
+.cftest5.cn
+.cftest6.cn
 .cftfc.com
 .cfwives.com
 .cfx1122.com
@@ -8392,7 +8353,6 @@ www-cdn.icloud.com.akadns.net
 .cisco-warrantyfinder.com
 .cisco.cn
 .cisco.com
-.cisco.com.cn
 .cisco.mobi
 .ciscoccservice.com
 .ciscoconnectcloud.com
@@ -8501,7 +8461,6 @@ www-cdn.icloud.com.akadns.net
 .cleansite.us
 .cleansolutions.mx
 .clearasil.cn
-.clearasil.com.cn
 .clearharmony.net
 .clearlinux.org
 .clearsurance.com
@@ -8894,7 +8853,6 @@ www-cdn.icloud.com.akadns.net
 .conn23.ddns.me
 .connect-in-canada.com
 .connectcommerce.cn
-.connectcommerce.com.cn
 .connectcommerce.info
 .connectcommerce.tv
 .connected-drive.com
@@ -9354,7 +9312,6 @@ www-cdn.icloud.com.akadns.net
 .cy398.fafafa3388.com
 .cybatron.net
 .cyber-bay.cn
-.cyber-bay.com.cn
 .cyber-bay.info
 .cyber-bay.org
 .cyber-insider.com
@@ -9871,7 +9828,6 @@ www-cdn.icloud.com.akadns.net
 .dettol.co.id
 .dettol.com
 .dettol.com.bd
-.dettol.com.cn
 .dettol.net
 .dettol.pk
 .dettol.pt
@@ -10105,7 +10061,6 @@ www-cdn.icloud.com.akadns.net
 .discuss4u.com
 .discussionsapple.com
 .dish.com
-.dishwashingexpert.com.cn
 .dishworld.com
 .disney-asia.com
 .disney-discount.com
@@ -10685,7 +10640,6 @@ www-cdn.icloud.com.akadns.net
 .dumpxxx.net
 .dungeonkeeper.cn
 .dungeonkeeper.com
-.dungeonkeeper.com.cn
 .dunyabulteni.net
 .duosuccess.com
 .duotai.org
@@ -10701,7 +10655,6 @@ www-cdn.icloud.com.akadns.net
 .durex.co.id
 .durex.com
 .durex.com.bd
-.durex.com.cn
 .durex.com.co
 .durex.com.hr
 .durex.com.pk
@@ -10712,7 +10665,6 @@ www-cdn.icloud.com.akadns.net
 .durexcam.com
 .durexcanada.com
 .durexchina.com
-.durexchina.com.cn
 .durexindia.com
 .durexloveclub.com
 .durexukraine.com
@@ -10759,7 +10711,6 @@ www-cdn.icloud.com.akadns.net
 .dyj168.b666888.com
 .dykycl.com
 .dynacw.com
-.dynacw.com.cn
 .dynafleetonline.com
 .dynalias.com
 .dynamic-dns.net
@@ -10921,7 +10872,6 @@ www-cdn.icloud.com.akadns.net
 .ebay.ch
 .ebay.cn
 .ebay.com
-.ebay.com.cn
 .ebay.it
 .ebay.net.cn
 .ebay.org
@@ -10939,7 +10889,6 @@ www-cdn.icloud.com.akadns.net
 .ebayanunsios.net
 .ebayauction.com
 .ebayaustralia.com
-.ebayauthenticate.com.cn
 .ebaybags.com
 .ebaybank.com
 .ebaybenefits.com
@@ -10953,7 +10902,6 @@ www-cdn.icloud.com.akadns.net
 .ebaychina.net
 .ebayclassifieds.cn
 .ebayclassifieds.com
-.ebayclassifieds.com.cn
 .ebayclassifieds.info
 .ebayclassifieds.org
 .ebayclassifieds.tv
@@ -10969,7 +10917,6 @@ www-cdn.icloud.com.akadns.net
 .ebayd.com
 .ebayde.com
 .ebaydesc.cn
-.ebaydesc.com.cn
 .ebaydlassifieds.com
 .ebaydns.cn
 .ebaydts.com
@@ -10977,7 +10924,6 @@ www-cdn.icloud.com.akadns.net
 .ebayeletro.com
 .ebayenterprise.cn
 .ebayenterprise.com
-.ebayenterprise.com.cn
 .ebayenterprise.info
 .ebayenterprise.net
 .ebayenterprise.tv
@@ -11012,7 +10958,6 @@ www-cdn.icloud.com.akadns.net
 .ebaymarketplace.net
 .ebaymotors.cn
 .ebaymotors.com
-.ebaymotors.com.cn
 .ebaymotors.org
 .ebaymotorsblog.com
 .ebaynow.com
@@ -11027,7 +10972,6 @@ www-cdn.icloud.com.akadns.net
 .ebaypark.com
 .ebayparts.com
 .ebaypedia.cn
-.ebaypedia.com.cn
 .ebayprivacycenter.com
 .ebayqq.com
 .ebayradio.com
@@ -11037,7 +10981,6 @@ www-cdn.icloud.com.akadns.net
 .ebayshop.com
 .ebayshop111.com
 .ebayshopping.cn
-.ebayshopping.com.cn
 .ebayshopping.org
 .ebaysocial.com
 .ebaysoho.com
@@ -11081,7 +11024,6 @@ www-cdn.icloud.com.akadns.net
 .ecaipe.com.ar
 .ecar.jlr-apps.com
 .ecfa.org.tw
-.ecgapp.com.cn
 .ecgapp.net
 .echainhost.com
 .echichimato.com
@@ -11363,7 +11305,6 @@ www-cdn.icloud.com.akadns.net
 .enfamil.com
 .enfamil.pt
 .enfasmart.com
-.enfinitas.com.cn
 .eng.collectivehealth.com
 .engadget.com
 .engagedaily.org
@@ -11607,10 +11548,7 @@ www-cdn.icloud.com.akadns.net
 .etherscan.io
 .ethsat.com
 .etizer.org
-.etnet.com.cn
-.etnetchina.com.cn
 .etokki.com
-.etoro.com.cn
 .etowns.net
 .etowns.org
 .ets.cc
@@ -12144,7 +12082,6 @@ www-cdn.icloud.com.akadns.net
 .family-simulator.io
 .family.acethon.com
 .familyfed.org
-.familymart.com.cn
 .familypies.net
 .familyporn.tv
 .familypornhd.com
@@ -12238,7 +12175,6 @@ www-cdn.icloud.com.akadns.net
 .farfetch-contents.com
 .farfetch.cn
 .farfetch.com
-.farfetch.com.cn
 .farfetch.net
 .farfetch.net.cn
 .farm.tanosecure.com.tw
@@ -12534,7 +12470,6 @@ www-cdn.icloud.com.akadns.net
 .financeleadsonline.com
 .financetwitter.com
 .financialadvisoriq.com
-.financialsoccer.com.cn
 .finchvpn.com
 .find-apple.com
 .findacard.com
@@ -12559,7 +12494,6 @@ www-cdn.icloud.com.akadns.net
 .finenike.com
 .fineproxy.org
 .fingerdaily.com
-.finish.com.cn
 .finish.com.hr
 .finish.lv
 .finish.pt
@@ -12742,7 +12676,6 @@ www-cdn.icloud.com.akadns.net
 .fonts.proxy.ustclug.org
 .fontshop.com
 .fontsinuse.com
-.foodking.com.cn
 .foodking.com.tw
 .foofle.com
 .fookpan.com
@@ -13420,7 +13353,6 @@ www-cdn.icloud.com.akadns.net
 .fun7803.com
 .fun8011.com
 .fun88.com
-.fun88.com.cn
 .fun8802.com
 .fun8809.com
 .fun881211.com
@@ -13576,7 +13508,6 @@ www-cdn.icloud.com.akadns.net
 .gamcore.com
 .game-899.net
 .game-platform.net
-.game.com.cn
 .game.fafafa3388.com
 .game.fun88721.com
 .game.kwm.com
@@ -14195,7 +14126,6 @@ www-cdn.icloud.com.akadns.net
 .gnbccarson.com
 .gnc.com
 .gnci.org.hk
-.gneec.com.cn
 .gnews.org
 .gnom-cham.com
 .gnu.org
@@ -14867,7 +14797,6 @@ www-cdn.icloud.com.akadns.net
 .haitenjp.com
 .hakkatv.org.tw
 .half.com
-.half.com.cn
 .half.tv
 .halfcanada.com
 .halfjapan.com
@@ -15285,7 +15214,6 @@ www-cdn.icloud.com.akadns.net
 .hg1259.com
 .hg141.com
 .hg1661.com
-.hg188.com.cn
 .hg9300b.com
 .hg9566.com
 .hga017.com
@@ -15371,7 +15299,6 @@ www-cdn.icloud.com.akadns.net
 .hijabilicious.com
 .hikinggfw.org
 .hikunpeng.cn
-.hikunpeng.com.cn
 .hilive.tv
 .hiload.com
 .hilostripper.com
@@ -15391,7 +15318,6 @@ www-cdn.icloud.com.akadns.net
 .hippyhillscomix.com
 .hipzoom.net
 .hireatradesman.com
-.hisilicon.com.cn
 .hispavista.com
 .historyofdota.com
 .historyofdota.net
@@ -15597,7 +15523,6 @@ www-cdn.icloud.com.akadns.net
 .hlw599.com
 .hlw66.com
 .hm.com
-.hm.com.cn
 .hmarkets.co.uk
 .hmarkets.com
 .hmd.site
@@ -16862,7 +16787,6 @@ www-cdn.icloud.com.akadns.net
 .intel.cn
 .intel.co.id
 .intel.com
-.intel.com.cn
 .intel.com.co
 .intel.com.pr
 .intel.com.py
@@ -17007,7 +16931,6 @@ www-cdn.icloud.com.akadns.net
 .ipge.com
 .iphider.org
 .iphine.com
-.iphone-8.com.cn
 .iphone-cd.com
 .iphone-cn.com
 .iphone-sh.com
@@ -17061,7 +16984,6 @@ www-cdn.icloud.com.akadns.net
 .ipod.ch
 .ipod.co
 .ipod.com
-.ipod.com.cn
 .ipod.is
 .ipod.net
 .ipod.pk
@@ -17277,7 +17199,6 @@ www-cdn.icloud.com.akadns.net
 .itunesparty.com
 .itunesradio.cn
 .itunesradio.com
-.itunesradio.com.cn
 .itunesradio.tv
 .itunesstore.co
 .itunesu.com
@@ -18211,7 +18132,6 @@ www-cdn.icloud.com.akadns.net
 .kidsnikeshoes.com
 .kielconsulting.org
 .kijijidns.cn
-.kijijidns.com.cn
 .kik.cl
 .kik.com
 .kikdirty.com
@@ -18236,7 +18156,6 @@ www-cdn.icloud.com.akadns.net
 .kindle4rss.com
 .kindleoasis.cn
 .kindleoasis.com
-.kindleoasis.com.cn
 .kindleoasis.info
 .kindleoasis.org
 .kindleoasisnews.com
@@ -18295,7 +18214,6 @@ www-cdn.icloud.com.akadns.net
 .kjj05.cn
 .kk-whys.co.jp
 .kk.stream
-.kk168.com.cn
 .kk2582.com
 .kk426.com
 .kk63.net
@@ -18734,7 +18652,6 @@ www-cdn.icloud.com.akadns.net
 .ledongzhibo9999.com
 .leduo.one
 .lee.easymall.com.tw
-.leeao.com.cn
 .leechenyang.com
 .leecheukyan.org
 .leecountytimes.com
@@ -18750,7 +18667,6 @@ www-cdn.icloud.com.akadns.net
 .legalporno.com
 .legaltracker.com
 .legendofzelda.cn
-.legendofzelda.com.cn
 .legendowl.com
 .legendvps.net
 .leggycash.com
@@ -19111,7 +19027,6 @@ www-cdn.icloud.com.akadns.net
 .livemodels.co
 .liveperson.com
 .livephotos.cn
-.livephotos.com.cn
 .livephotos.tv
 .liveporngirls.com
 .liveprivates.com
@@ -19292,7 +19207,6 @@ www-cdn.icloud.com.akadns.net
 .lowa-interlaken.ch
 .lowergiseries.com
 .lp99.pw
-.lpl.com.cn
 .lpsg.com
 .lpxtv.com
 .lqh0bon3.xyz
@@ -19428,7 +19342,6 @@ www-cdn.icloud.com.akadns.net
 .lysfms.com
 .lysol.cn
 .lysol.com
-.lysol.com.cn
 .lysol.net
 .lyzsxx.com
 .lzhwp.org
@@ -19573,7 +19486,6 @@ www-cdn.icloud.com.akadns.net
 .macbook.wang
 .macbookair.cn
 .macbookair.com
-.macbookair.com.cn
 .macbookair.net
 .macbookpro.co
 .macbookpro.com
@@ -19646,7 +19558,6 @@ www-cdn.icloud.com.akadns.net
 .magiccloud.i234.me
 .magicmovies.com
 .magictea.xyz
-.magnoliaav.com.cn
 .magzter.com
 .mahabodhi.org
 .mahajantech.com
@@ -19828,7 +19739,6 @@ www-cdn.icloud.com.akadns.net
 .mariobroswii.com
 .mariodesigns.uk
 .mariokart.cn
-.mariokart.com.cn
 .mariokart7.com
 .mariokart8.com
 .mariosupersluggers.com
@@ -19842,7 +19752,6 @@ www-cdn.icloud.com.akadns.net
 .marketo.tv
 .marketodesigner.com
 .marketolive.com
-.markets.com.cn
 .marketwatch.com
 .markhourihan.com
 .markquart.com
@@ -19899,7 +19808,6 @@ www-cdn.icloud.com.akadns.net
 .mastercard.cn
 .mastercard.co.id
 .mastercard.com
-.mastercard.com.cn
 .mastercard.com.co
 .mastercard.hr
 .mastercard.inc
@@ -20030,7 +19938,6 @@ www-cdn.icloud.com.akadns.net
 .me.me
 .me9944.com
 .meadjohnson.com
-.meadjohnson.com.cn
 .meadjohnson.net
 .meansys.com
 .mearki.com
@@ -20330,7 +20237,6 @@ www-cdn.icloud.com.akadns.net
 .microsoftpartnercommunity.com
 .microsoftpartnersolutions.com
 .microsoftreactor.cn
-.microsoftreactor.com.cn
 .microsoftreactor.info
 .microsoftreactor.net
 .microsoftreactor.org
@@ -20360,7 +20266,6 @@ www-cdn.icloud.com.akadns.net
 .mihua.org
 .miijqghk1.dtd999.com
 .miitomo.com
-.miitomo.com.cn
 .miiverse.com
 .mikandi.com
 .mikesoltys.com
@@ -20674,7 +20579,6 @@ www-cdn.icloud.com.akadns.net
 .mobile01.com
 .mobilefacebook.com
 .mobileinternational.com
-.mobileinternational.com.cn
 .mobilemarketo.com
 .mobileporngames.com
 .mobilepornmovies.com
@@ -21095,7 +20999,6 @@ www-cdn.icloud.com.akadns.net
 .muchosucko.com
 .mucinex.cn
 .mucinex.com
-.mucinex.com.cn
 .mucinex.net
 .mucinex.tv
 .mucinexprofessional.com
@@ -21103,7 +21006,6 @@ www-cdn.icloud.com.akadns.net
 .mudvod.tv
 .muftah.org
 .muji.com
-.muji.com.cn
 .muji.net
 .mujikorea.net
 .mulheresafoder.com
@@ -21993,7 +21895,6 @@ www-cdn.icloud.com.akadns.net
 .nikebetrue.com
 .nikebetterworld.cn
 .nikebetterworld.com
-.nikebetterworld.com.cn
 .nikebetterworld.info
 .nikebetterworld.net
 .nikebetterworld.org
@@ -22034,10 +21935,8 @@ www-cdn.icloud.com.akadns.net
 .nikehightops.com
 .nikehyperdunk.com
 .nikeid.cn
-.nikeid.com.cn
 .nikeidshoes.com
 .nikeinc.com
-.nikeinc.com.cn
 .nikeincchemistry.com
 .nikeinstock.com
 .nikeit.com
@@ -22046,15 +21945,12 @@ www-cdn.icloud.com.akadns.net
 .nikekd.com
 .nikekid.com
 .nikelab.cn
-.nikelab.com.cn
 .nikelink.com
 .nikeliuxiang.cn
 .nikeliuxiang.com
-.nikeliuxiang.com.cn
 .nikelives.com
 .nikelunarglide.com
 .nikemall.cn
-.nikemall.com.cn
 .nikemarketing.com
 .niken7.com
 .nikenews.com
@@ -22071,9 +21967,7 @@ www-cdn.icloud.com.akadns.net
 .nikeresponsibility.com
 .nikereuseashoe.com
 .nikerunclub.cn
-.nikerunclub.com.cn
 .nikerunner.com
-.nikerunning.com.cn
 .nikerunningshoes.com
 .nikesb.com
 .nikesbdunks.net
@@ -22151,7 +22045,6 @@ www-cdn.icloud.com.akadns.net
 .nintendostore.com
 .nintendoswitch.cn
 .nintendoswitch.com
-.nintendoswitch.com.cn
 .nintendoswitch.net
 .nintendoswitchtogether.com
 .nintendowii.com
@@ -22447,7 +22340,6 @@ www-cdn.icloud.com.akadns.net
 .nurgo-software.com
 .nurofen.cn
 .nurofen.com
-.nurofen.com.cn
 .nurofen.hr
 .nurofen.it
 .nurofen.net
@@ -22479,7 +22371,6 @@ www-cdn.icloud.com.akadns.net
 .nvtongzhisheng.org
 .nwanime.tv
 .nwcdcloud.cn
-.nwcdcloud.com.cn
 .nwcddns.cn
 .nwcdinfosec.cn
 .nwipvideo.com
@@ -22939,7 +22830,6 @@ www-cdn.icloud.com.akadns.net
 .order.webunion.com
 .oreilco.com
 .oreilly.com
-.oreilly.com.cn
 .oreilly.review
 .oreillystatic.com
 .oreno3d.com
@@ -23438,7 +23328,6 @@ www-cdn.icloud.com.akadns.net
 .paypal-survey.org
 .paypal-team.com
 .paypal-viewpoints.net
-.paypal.com.cn
 .paypal.info
 .paypal.net.cn
 .paypal.org.cn
@@ -23456,7 +23345,6 @@ www-cdn.icloud.com.akadns.net
 .paypalgivingfund.org
 .paypalhere.cn
 .paypalhere.com
-.paypalhere.com.cn
 .paypalhere.info
 .paypalhere.net
 .paypalhere.org
@@ -23540,7 +23428,6 @@ www-cdn.icloud.com.akadns.net
 .pearson-studium.ch
 .pearson.ch
 .pearson.com
-.pearson.com.cn
 .pearsonactivelearn.com
 .pearsonassessment.be
 .pearsonassessments.com
@@ -24460,7 +24347,6 @@ www-cdn.icloud.com.akadns.net
 .practicalbusinessskills.com
 .practicaldigitalprotection.com
 .practicalmoneyskills.cn
-.practicalmoneyskills.com.cn
 .praksis.com.my
 .pratikpatel.in
 .prayforchina.net
@@ -24496,14 +24382,12 @@ www-cdn.icloud.com.akadns.net
 .prfct.co
 .pri.org
 .priceless.com
-.priceless.com.cn
 .priceless.org
 .pricelessafrica.com
 .pricelessarabia.com
 .pricelessaruba.com
 .pricelessbeijing.cn
 .pricelessbeijing.com
-.pricelessbeijing.com.cn
 .pricelesshongkong.com
 .pricelesshonolulu.com
 .pricelessmarketingengine.com
@@ -24518,7 +24402,6 @@ www-cdn.icloud.com.akadns.net
 .prime-video.com
 .primecurves.com
 .primeday.cn
-.primeday.com.cn
 .primeday.info
 .primeindianporn.com
 .primematures.com
@@ -24608,7 +24491,6 @@ www-cdn.icloud.com.akadns.net
 .prostoporno.net
 .prostores.cn
 .prostores.com
-.prostores.com.cn
 .prostudiobeatscybersale.com
 .proteinalactea.com
 .protempproducts.com
@@ -24904,7 +24786,6 @@ www-cdn.icloud.com.akadns.net
 .qanote.com
 .qatarescortsvip.com
 .qbaby.tv
-.qceventscenter.com.cn
 .qckprn.com
 .qcman.net
 .qcphongvan.com
@@ -24943,9 +24824,7 @@ www-cdn.icloud.com.akadns.net
 .qiye163mx01.mxmail.netease.com
 .qiyejizhang.com
 .qizhenyu.com
-.qjvpn.com.cn
 .qjxu.r5.cr.rs
-.qjz.com.cn
 .qk3p.com
 .qkav9.cf
 .qkjuyet.com
@@ -25288,7 +25167,6 @@ www-cdn.icloud.com.akadns.net
 .react.com
 .reactjs.com
 .reactjs.org
-.reactorms.com.cn
 .reactos.org
 .read01.com
 .read100.com
@@ -25367,7 +25245,6 @@ www-cdn.icloud.com.akadns.net
 .reckitt.net
 .reckittbenckiser.cn
 .reckittbenckiser.com
-.reckittbenckiser.com.cn
 .reckittbenckiser.net
 .reckittbenckiser.tv
 .reckittprofessional.com
@@ -25498,7 +25375,6 @@ www-cdn.icloud.com.akadns.net
 .researchgate.net
 .researchintel.com
 .researchkit.cn
-.researchkit.com.cn
 .researchkit.net
 .researchkit.org
 .researchkit.tv
@@ -25527,7 +25403,6 @@ www-cdn.icloud.com.akadns.net
 .reuters.co.jp
 .reuters.co.uk
 .reuters.com
-.reuters.com.cn
 .reuters.de
 .reuters.fr
 .reuters.it
@@ -25813,7 +25688,6 @@ www-cdn.icloud.com.akadns.net
 .rv55.com
 .rwaitkus.com
 .rwdxtv.com
-.rwsentosa.com.cn
 .rx40.com
 .rx8800.com
 .rxcp1010.com
@@ -25896,7 +25770,6 @@ www-cdn.icloud.com.akadns.net
 .safetunnel.tk
 .safevpn.net
 .saffrontech.com
-.sagemaker.com.cn
 .sagernet.org
 .sagitario.com.ar
 .sahabatsetiasmartone.com
@@ -25942,7 +25815,6 @@ www-cdn.icloud.com.akadns.net
 .samsungapps.com
 .samsungcloud.com
 .samsungdm.com
-.samsungeshop.com.cn
 .samsunggalaxyfriends.com
 .samsungknox.com
 .samsungqbe.com
@@ -26671,7 +26543,6 @@ www-cdn.icloud.com.akadns.net
 .shile.xyz
 .shiming.t28.net
 .shinhangmc.com
-.shinjiru.com.cn
 .shinning-way.weebly.com
 .shinnoca.byethost7.com
 .shinobi.jp
@@ -27249,7 +27120,6 @@ www-cdn.icloud.com.akadns.net
 .sourceforge.net
 .sourcegraph.com
 .sourcewadio.com
-.sourcingforebay.com.cn
 .sourcingforebay.net
 .sourcingforebay.tv
 .sourtimes.org
@@ -27306,7 +27176,6 @@ www-cdn.icloud.com.akadns.net
 .speedhunters.com
 .speedify.com
 .speedmm.com
-.speedqueen.com.cn
 .speedracegear.com
 .speedrun.com
 .speedsmart.net
@@ -27548,7 +27417,6 @@ www-cdn.icloud.com.akadns.net
 .starbucks.ch
 .starbucks.co.id
 .starbucks.com
-.starbucks.com.cn
 .starbucks.com.co
 .starbucks.it
 .starbucks.pt
@@ -27738,7 +27606,6 @@ www-cdn.icloud.com.akadns.net
 .strelchenok.com
 .strepsils.ch
 .strepsils.cn
-.strepsils.com.cn
 .strepsils.com.co
 .strepsils.hr
 .strepsils.net
@@ -27916,7 +27783,6 @@ www-cdn.icloud.com.akadns.net
 .superman2012.hostzi.com
 .supermario.com
 .supermario3dworld.com
-.supermariobros.com.cn
 .supermariogalaxy.com
 .supermariorun.com
 .superokayama.com
@@ -27924,7 +27790,6 @@ www-cdn.icloud.com.akadns.net
 .superpapermario.com
 .supersexeamateur.com
 .supersmashbros.cn
-.supersmashbros.com.cn
 .supertop.co
 .supertweet.net
 .superuser.com
@@ -28013,7 +27878,6 @@ www-cdn.icloud.com.akadns.net
 .swiftfinancial.info
 .swiftfinancial.net
 .swiftui.cn
-.swiftui.com.cn
 .swimoutlet.com
 .swingbop.ch
 .swingercuckoldporn.com
@@ -28450,12 +28314,10 @@ www-cdn.icloud.com.akadns.net
 .tesco.com
 .tesla.cn
 .tesla.com
-.tesla.com.cn
 .tesla.services
 .teslaenergy.services
 .teslamotors.cn
 .teslamotors.com
-.teslamotors.com.cn
 .teslazta.net
 .test-idc-3.fjla37itnf5dpsen.com
 .test-wiki-01.site88.net
@@ -29288,7 +29150,6 @@ www-cdn.icloud.com.akadns.net
 .travelcontroller.com
 .travelex.be
 .travelex.com
-.travelex.com.cn
 .travelex.it
 .travelex.qa
 .travelexae.com
@@ -29606,7 +29467,6 @@ www-cdn.icloud.com.akadns.net
 .tvb.com
 .tvbaaa.com
 .tvbanywhere.com
-.tvbc.com.cn
 .tvbccc.com
 .tvbfff.com
 .tvbhhh.com
@@ -30407,7 +30267,6 @@ www-cdn.icloud.com.akadns.net
 .veet.co.id
 .veet.com
 .veet.com.bd
-.veet.com.cn
 .veet.com.co
 .veet.com.pk
 .veet.pt
@@ -30463,7 +30322,6 @@ www-cdn.icloud.com.akadns.net
 .verisign.biz
 .verisign.ch
 .verisign.com
-.verisign.com.cn
 .verisign.info
 .verisign.jobs
 .verisign.mobi
@@ -30502,7 +30360,6 @@ www-cdn.icloud.com.akadns.net
 .vfsco.be
 .vfsco.ch
 .vfsco.com
-.vfsco.com.cn
 .vfsco.ee
 .vfsco.it
 .vfsco.lv
@@ -30693,7 +30550,6 @@ www-cdn.icloud.com.akadns.net
 .visa.co.id
 .visa.com
 .visa.com.ai
-.visa.com.cn
 .visa.com.co
 .visa.com.dm
 .visa.com.do
@@ -30733,7 +30589,6 @@ www-cdn.icloud.com.akadns.net
 .visapay.cn
 .visapcsdirect.com
 .visaplatinum.cn
-.visaplatinum.com.cn
 .visaplus.com
 .visasignaturehotels.com
 .visasoutheasteurope.com
@@ -30914,7 +30769,6 @@ www-cdn.icloud.com.akadns.net
 .volunteerminister.org
 .volvo.cn
 .volvo.com
-.volvo.com.cn
 .volvobrandshop.com
 .volvobuses.be
 .volvobuses.ch
@@ -30928,7 +30782,6 @@ www-cdn.icloud.com.akadns.net
 .volvogroup.be
 .volvogroup.cn
 .volvogroup.com
-.volvogroup.com.cn
 .volvomerchandise.com
 .volvopenta.com
 .volvopenta.it
@@ -30939,7 +30792,6 @@ www-cdn.icloud.com.akadns.net
 .volvotrucks.be
 .volvotrucks.ch
 .volvotrucks.com
-.volvotrucks.com.cn
 .volvotrucks.com.co
 .volvotrucks.com.pt
 .volvotrucks.ee
@@ -31455,7 +31307,6 @@ www-cdn.icloud.com.akadns.net
 .webevader.org
 .webex.co.it
 .webex.com
-.webex.com.cn
 .webflow.com
 .webfortestuse.as00s.com
 .webfreer.com
@@ -31529,7 +31380,6 @@ www-cdn.icloud.com.akadns.net
 .weetok.com
 .wefightcensorship.org
 .wefong.com
-.wegame.com.cn
 .weiboleak.com
 .weibosuite.com
 .weide8.com
@@ -31568,7 +31418,6 @@ www-cdn.icloud.com.akadns.net
 .wenyunchao.com
 .wenzhao.ca
 .were.moe
-.werepository.com.cn
 .wesi301.xyz
 .westca.com
 .westenvik.no
@@ -31927,7 +31776,6 @@ www-cdn.icloud.com.akadns.net
 .woodmancastingx.com
 .woolite.cn
 .woolite.com
-.woolite.com.cn
 .woolitecarpet.com
 .woolyss.com
 .woopie.jp
@@ -32107,7 +31955,6 @@ www-cdn.icloud.com.akadns.net
 .wsdc9988.com
 .wsdc999.com
 .wsj.com
-.wsj.com.cn
 .wsj.jobs
 .wsj.net
 .wsjbarrons.com
@@ -33191,10 +33038,8 @@ www-cdn.icloud.com.akadns.net
 .www.cat.com
 .www.cathayglory.com
 .www.cathayglory.org
-.www.cathaypacific.com.cn
 .www.cathaypacificcargo.com
 .www.cathaysite.com
-.www.cathaysite.com.cn
 .www.cavip111.com
 .www.cazila.com
 .www.cba.ca
@@ -33937,7 +33782,6 @@ www-cdn.icloud.com.akadns.net
 .www.girlscanner.com
 .www.gjsq.biz
 .www.gkfx.com
-.www.gkfxprime.com.cn
 .www.glideapps.com
 .www.globalgreens.org
 .www.globalinksabroad.org
@@ -34385,7 +34229,6 @@ www-cdn.icloud.com.akadns.net
 .www.jdlingyu.moe
 .www.jdpavds.com
 .www.jdw6.com
-.www.jdyvpn.com.cn
 .www.jeannedelalune.co.uk
 .www.jejer.net
 .www.jemmagura.com
@@ -34729,7 +34572,6 @@ www-cdn.icloud.com.akadns.net
 .www.metcn.com
 .www.meteo.fr
 .www.metropolismag.com
-.www.mf8.com.cn
 .www.mgm8091.com
 .www.mgscl123.com
 .www.mhakel.com
@@ -36951,7 +36793,6 @@ www-cdn.icloud.com.akadns.net
 .xx-map.com
 .xx.domain888.pw
 .xx.freepac.pw
-.xx159.com.cn
 .xx188betxx.com
 .xx242.net
 .xx316.net
@@ -37164,7 +37005,6 @@ www-cdn.icloud.com.akadns.net
 .yahoo.com
 .yahoo.com.ai
 .yahoo.com.bd
-.yahoo.com.cn
 .yahoo.com.co
 .yahoo.com.do
 .yahoo.com.hk
@@ -37904,7 +37744,6 @@ www-cdn.icloud.com.akadns.net
 .zoogvpn.com
 .zoohun.com
 .zoom.com
-.zoom.com.cn
 .zoom.us
 .zoomingin.tv
 .zoomobileporn.com
@@ -38029,7 +37868,7 @@ www-cdn.icloud.com.akadns.net
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:51:15
+# UPDATED: 2023-01-22 15:46:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
@@ -39137,7 +38976,7 @@ uts-api.itunes.apple.com
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:51:15
+# UPDATED: 2023-01-22 15:46:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 22
@@ -40153,14 +39992,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-11 02:10:02
+# UPDATED: 2023-01-22 15:46:31
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24722
+# DOMAIN-SUFFIX: 24700
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24859
+# TOTAL: 24837
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -43962,7 +43801,6 @@ voice.telephony.goog
 .bbs.imoutolove.me
 .bbs.jygnet.org
 .bbs.lxty8.com
-.bbs.mf8.com.cn
 .bbs.sex169.xyz
 .bbs.sina.com
 .bbs.sopboy.com
@@ -47404,7 +47242,6 @@ voice.telephony.goog
 .ethsat.com
 .etizer.org
 .etokki.com
-.etoro.com.cn
 .etowns.net
 .etowns.org
 .ets.cc
@@ -47939,7 +47776,6 @@ voice.telephony.goog
 .fogcity.com
 .followcn.com
 .fonts.proxy.ustclug.org
-.foodking.com.cn
 .foodking.com.tw
 .fookpan.com
 .foolsmountain.com
@@ -48308,7 +48144,6 @@ voice.telephony.goog
 .fun7803.com
 .fun8011.com
 .fun88.com
-.fun88.com.cn
 .fun8802.com
 .fun8809.com
 .fun881211.com
@@ -48417,7 +48252,6 @@ voice.telephony.goog
 .galstars.net
 .gambe.jp
 .game-899.net
-.game.com.cn
 .game.fafafa3388.com
 .game.fun88721.com
 .game.kwm.com
@@ -49386,7 +49220,6 @@ voice.telephony.goog
 .hg1259.com
 .hg141.com
 .hg1661.com
-.hg188.com.cn
 .hg9300b.com
 .hg9566.com
 .hga017.com
@@ -51166,7 +50999,6 @@ voice.telephony.goog
 .kiwi.kz
 .kj.1680210.com
 .kk-whys.co.jp
-.kk168.com.cn
 .kk2582.com
 .kk426.com
 .kk63.net
@@ -51503,7 +51335,6 @@ voice.telephony.goog
 .ledongzhibo9999.com
 .leduo.one
 .lee.easymall.com.tw
-.leeao.com.cn
 .leechenyang.com
 .leecheukyan.org
 .leeshailemish.com
@@ -52265,7 +52096,6 @@ voice.telephony.goog
 .mariodesigns.uk
 .mariusl.com
 .mark.tw
-.markets.com.cn
 .marketwatch.com
 .markhourihan.com
 .markquart.com
@@ -54921,9 +54751,7 @@ voice.telephony.goog
 .qiye163mx01.mxmail.netease.com
 .qiyejizhang.com
 .qizhenyu.com
-.qjvpn.com.cn
 .qjxu.r5.cr.rs
-.qjz.com.cn
 .qk3p.com
 .qkav9.cf
 .qknisog514.ryq85m.com
@@ -55262,7 +55090,6 @@ voice.telephony.goog
 .reuters.co.jp
 .reuters.co.uk
 .reuters.com
-.reuters.com.cn
 .reuters.de
 .reuters.fr
 .reuters.it
@@ -55465,7 +55292,6 @@ voice.telephony.goog
 .rv55.com
 .rwaitkus.com
 .rwdxtv.com
-.rwsentosa.com.cn
 .rx40.com
 .rx8800.com
 .rxcp1010.com
@@ -55968,7 +55794,6 @@ voice.telephony.goog
 .shiksha.com
 .shile.xyz
 .shiming.t28.net
-.shinjiru.com.cn
 .shinning-way.weebly.com
 .shinnoca.byethost7.com
 .shinobi.jp
@@ -56354,7 +56179,6 @@ voice.telephony.goog
 .speed.wyqn.net
 .speedify.com
 .speedmm.com
-.speedqueen.com.cn
 .speedsmart.net
 .speedtest.hkg02.softlayer.com
 .spem.at
@@ -59561,7 +59385,6 @@ voice.telephony.goog
 .wsdc9988.com
 .wsdc999.com
 .wsj.com
-.wsj.com.cn
 .wsj.net
 .wsjhk.com
 .wsjradio.com
@@ -60648,10 +60471,8 @@ voice.telephony.goog
 .www.cat.com
 .www.cathayglory.com
 .www.cathayglory.org
-.www.cathaypacific.com.cn
 .www.cathaypacificcargo.com
 .www.cathaysite.com
-.www.cathaysite.com.cn
 .www.cavip111.com
 .www.cazila.com
 .www.cba.ca
@@ -61420,7 +61241,6 @@ voice.telephony.goog
 .www.girlscanner.com
 .www.gjsq.biz
 .www.gkfx.com
-.www.gkfxprime.com.cn
 .www.glideapps.com
 .www.globalgreens.org
 .www.globalinksabroad.org
@@ -61869,7 +61689,6 @@ voice.telephony.goog
 .www.jdlingyu.moe
 .www.jdpavds.com
 .www.jdw6.com
-.www.jdyvpn.com.cn
 .www.jeannedelalune.co.uk
 .www.jejer.net
 .www.jemmagura.com
@@ -62223,7 +62042,6 @@ voice.telephony.goog
 .www.metcn.com
 .www.meteo.fr
 .www.metropolismag.com
-.www.mf8.com.cn
 .www.mgm8091.com
 .www.mgscl123.com
 .www.mhakel.com
@@ -63724,7 +63542,6 @@ voice.telephony.goog
 .www.yacy.net
 .www.yah.idv.tw
 .www.yahoo.cn
-.www.yahoo.com.cn
 .www.yangca88.com
 .www.yaoihavenreborn.com
 .www.yayun.idv.tw
@@ -64893,14 +64710,14 @@ voice.telephony.goog
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-11 02:10:02
+# UPDATED: 2023-01-22 15:46:31
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24722
+# DOMAIN-SUFFIX: 24700
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24859
+# TOTAL: 24837
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -65034,14 +64851,14 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-20 02:10:26
+# UPDATED: 2023-01-23 02:09:19
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37840
+# DOMAIN-SUFFIX: 37679
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38211
+# TOTAL: 38050
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
