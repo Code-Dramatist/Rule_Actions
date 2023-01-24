@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-24 02:11:15
+# UPDATED: 2023-01-25 02:11:46
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67341
+# DOMAIN-SUFFIX: 67340
 # IP-ASN: 932
-# IP-CIDR: 5230
+# IP-CIDR: 5232
 # IP-CIDR6: 5129
 # USER-AGENT: 65
-# TOTAL: 78884
+# TOTAL: 78885
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -41454,7 +41454,6 @@ xn--flw351e.com
 .nase.tech
 .nasgetinfo.com
 .nashwork.com
-.nasimobi.com
 .nasinet.com
 .nasiosoft.com
 .nasyun.com
