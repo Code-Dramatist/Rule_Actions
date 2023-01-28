@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-28 02:12:58
+# UPDATED: 2023-01-29 02:12:50
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67258
+# DOMAIN-SUFFIX: 67253
 # IP-ASN: 932
 # IP-CIDR: 5230
 # IP-CIDR6: 5001
 # USER-AGENT: 65
-# TOTAL: 78673
+# TOTAL: 78668
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -56,15 +56,14 @@ USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
 USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
 USER-AGENT,AcFun*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
-USER-AGENT,NeteaseMusic*
+USER-AGENT,MiguVideo*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
@@ -74,15 +73,16 @@ USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
-USER-AGENT,walkman*
-USER-AGENT,xiami*
 USER-AGENT,Himalaya*
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
 USER-AGENT,网易云音乐**
+USER-AGENT,walkman*
+USER-AGENT,xiami*
 USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
@@ -11254,15 +11254,15 @@ IP-CIDR6,::ffff:198.18.6.83/128,no-resolve
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-01-28 02:12:58
+# UPDATED: 2023-01-29 02:12:50
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67258
+# DOMAIN-SUFFIX: 67253
 # IP-ASN: 932
 # IP-CIDR: 5230
 # IP-CIDR6: 5001
 # USER-AGENT: 65
-# TOTAL: 78673
+# TOTAL: 78668
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -13718,7 +13718,6 @@ xn--flw351e.com
 .2541.com
 .254game.com
 .255616.com
-.2556r.com
 .256app.com
 .25752.com
 .258.com
@@ -25013,7 +25012,6 @@ xn--flw351e.com
 .cfogc.com
 .cfpa.pw
 .cfpsf.com
-.cfryny.com
 .cfsino.com
 .cfsl2017.com
 .cftea.com
@@ -37703,7 +37701,6 @@ xn--flw351e.com
 .haorc.com
 .haoread.com
 .haorencai.net
-.haorendao.com
 .haorooms.com
 .haoseals.com
 .haosenchina.com
@@ -40069,6 +40066,7 @@ xn--flw351e.com
 .huazhuanapp.com
 .huazhucorp.com
 .huazi55.xyz
+.huazirc.com
 .hubcyts.com
 .hubei-design.com
 .hubeibbs.net
@@ -44946,7 +44944,6 @@ xn--flw351e.com
 .jscdn.host
 .jsceou.com
 .jsche.net
-.jschengta.com
 .jschunxing.com
 .jscj.com
 .jsclearing.com
@@ -55691,7 +55688,6 @@ xn--flw351e.com
 .pp6.cc
 .pp63.com
 .pp66.cc
-.pp70.com
 .pp9l.com
 .ppaikd.com
 .ppbizon.com
@@ -56844,7 +56840,6 @@ xn--flw351e.com
 .qinzc.me
 .qinzhe.com
 .qinzhou8.com
-.qinzi7.com
 .qinzidna.com
 .qinziheng.com
 .qionghaif.com
@@ -64262,6 +64257,7 @@ xn--flw351e.com
 .thoughtworkers.org
 .thrbs.com
 .threadcn.com
+.threatbook.net
 .threegorgestours.com
 .threeol.com
 .threetong.com
@@ -64920,7 +64916,6 @@ xn--flw351e.com
 .tongyi.com
 .tongyidrying.com
 .tongyongji.net
-.tongyou188.com
 .tongyuanos.com
 .tongyue.com
 .tongzhuo100.com
@@ -72946,6 +72941,7 @@ xn--flw351e.com
 .yageo.tech
 .yago-mall.com
 .yahacode.com
+.yahaha.net
 .yahaizi.com
 .yahoo001.com
 .yahotab.com
@@ -77991,7 +77987,6 @@ xn--flw351e.com
 .zongheng001.com
 .zonghengke.com
 .zonghengnews.com
-.zonglai.mobi
 .zongming.net
 .zongs365.com
 .zongshenmotor.com
