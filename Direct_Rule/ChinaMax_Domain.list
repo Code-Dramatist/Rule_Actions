@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-08 02:11:34
-# DOMAIN: 174
+# UPDATED: 2023-02-09 02:12:45
+# DOMAIN: 173
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 67254
+# DOMAIN-SUFFIX: 67240
 # IP-ASN: 932
-# IP-CIDR: 5245
-# IP-CIDR6: 5021
+# IP-CIDR: 5249
+# IP-CIDR6: 5143
 # USER-AGENT: 65
-# TOTAL: 78704
+# TOTAL: 78815
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -36,7 +36,6 @@ cache.pack.google.com
 cdn.ampproject.org
 checkin.gstatic.com
 clickserve.cc-dt.com
-clickserve.dartsearch.net
 clickserver.googleads.com
 client.amplifi.com
 cn.widevine.com
@@ -3274,7 +3273,6 @@ xn--flw351e.com
 .37dh.com
 .37game2.com
 .37gogo.com
-.37gowan.com
 .37hr.com
 .37k.com
 .37med.com
@@ -3333,7 +3331,6 @@ xn--flw351e.com
 .3937.com
 .3964.com
 .39655.com
-.3975.com
 .3975ad.com
 .3975ad.xyz
 .3975app.com
@@ -15830,7 +15827,6 @@ xn--flw351e.com
 .clyric.com
 .clz.me
 .clzqlhj.com
-.cm-analysis.com
 .cm-iov.com
 .cm-worklink.com
 .cm.fancyapi.com
@@ -18782,7 +18778,6 @@ xn--flw351e.com
 .dfss-club.com
 .dfstw.com
 .dfsyjm.com
-.dftoutiao.com
 .dftq.net
 .dftzj.com
 .dfxq.com
@@ -28584,7 +28579,6 @@ xn--flw351e.com
 .huanbao.com
 .huanbaoscx.com
 .huanbeiloan.com
-.huancaicp.com
 .huandie.com
 .huang-jerryc.com
 .huangbaoche.com
@@ -34570,7 +34564,6 @@ xn--flw351e.com
 .kanshu5.la
 .kanshu5.net
 .kanshu8.net
-.kanshuapp.com
 .kanshuge.com
 .kanshuhai.com
 .kanshula.com
@@ -37551,7 +37544,6 @@ xn--flw351e.com
 .lkker.com
 .lkkued.com
 .lkmcdk.com
-.lkme.cc
 .lkong.com
 .lkong.net
 .lkssite.vip
@@ -49774,7 +49766,6 @@ xn--flw351e.com
 .sinasws.com
 .sinauda.com
 .sinawallent.com
-.sinawap.com
 .sinawf.com
 .sincetimes.com
 .sinddsun.cyou
@@ -52569,7 +52560,6 @@ xn--flw351e.com
 .td776.com
 .td98.com
 .tdatamaster.com
-.tdbzcl.com
 .tdfcw.com
 .tdict.com
 .tdimg.com
@@ -56543,7 +56533,6 @@ xn--flw351e.com
 .wannar.com
 .wannengxiaoge.com
 .wannengzj.com
-.wannianli.mobi
 .wannianli.net
 .wannianli8.com
 .wannuoda.com
@@ -57284,7 +57273,6 @@ xn--flw351e.com
 .wenxuedu.com
 .wenxuem.com
 .wenxuemi.com
-.wenxuemi6.com
 .wenxuemm.com
 .wenxuetiandi.com
 .wenyijcc.com
@@ -57739,7 +57727,6 @@ xn--flw351e.com
 .wificstia.com
 .wifidigyy.com
 .wifidog.pro
-.wifidown.com
 .wifigx.com
 .wifilu.com
 .wifimsl.com
@@ -57974,7 +57961,6 @@ xn--flw351e.com
 .wjunjie.com
 .wjx.com
 .wjx.top
-.wjxcdn.com
 .wjyanghu.com
 .wjyh.com
 .wjyt-china.org
@@ -60216,7 +60202,6 @@ xn--flw351e.com
 .xingbangip.com
 .xingbo.tv
 .xingchen.com
-.xingchenjia.com
 .xingcheshixian.com
 .xingdatrip.com
 .xingdi.me
