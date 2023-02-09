@@ -40068,14 +40068,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-08 02:10:19
+# UPDATED: 2023-02-08 14:25:37
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24699
+# DOMAIN-SUFFIX: 24675
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24836
+# TOTAL: 24812
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -40957,6 +40957,7 @@ voice.telephony.goog
 .2waky.com
 .2zrdc.com
 .3-a.net
+.3.32.ddns.name
 .3.32top.xyz
 .3.aa1122.ws
 .3.cr.rs
@@ -42573,7 +42574,6 @@ voice.telephony.goog
 .a2299.com
 .a2646.com
 .a2776.com
-.a2zapk.com
 .a3236.com
 .a3285.com
 .a33285.com
@@ -43267,6 +43267,7 @@ voice.telephony.goog
 .api.citizenvpn.com
 .api.feedbin.com
 .api.jomego.com
+.api.linksalpha.com
 .api.lm1188.com
 .api.mixpanel.com
 .api.netlify.com
@@ -43285,6 +43286,7 @@ voice.telephony.goog
 .api17tp.apitilt.com
 .apiary.io
 .apic.pinnacle.com
+.apidocs.linksalpha.com
 .apigame.yunbo11.com
 .apigame.yunbo333.com
 .apigee.com
@@ -43323,6 +43325,7 @@ voice.telephony.goog
 .app.arukas.io
 .app.asso.st
 .app.e8777.com
+.app.gd.ddns.name
 .app.leg.wa.gov
 .app.staging.nuorder.com
 .app.tv333.us
@@ -43342,7 +43345,6 @@ voice.telephony.goog
 .appadvice.com
 .appali.hnlsht.com
 .appboxes.co
-.appbrain.com
 .appdownload.qm2500.com
 .appdownloader.net
 .apple-dns.net
@@ -43436,7 +43438,6 @@ voice.telephony.goog
 .asia.playstation.com
 .asiabet168.com
 .asiafrc.com
-.asiafriendfinder.com
 .asiaharvest.org
 .asiamoviepass.com
 .asian-boy-models.com
@@ -44303,7 +44304,6 @@ voice.telephony.goog
 .blog5.xlfmguanyin.com
 .blogarama.com
 .blogblog.com
-.blogcatalog.com
 .blogcdn.com
 .blogcity.me
 .blogdelnarco.com
@@ -44314,7 +44314,6 @@ voice.telephony.goog
 .blogimg.jp
 .blogkeen.com
 .blogku.us
-.bloglines.com
 .bloglovin.com
 .blogos.com
 .blogs.com
@@ -44787,6 +44786,7 @@ voice.telephony.goog
 .bx.tl
 .bxwx.net
 .by.bnaz.org
+.by.ddns.name
 .byb8.app
 .bybit.com
 .byedon.com
@@ -44961,7 +44961,6 @@ voice.telephony.goog
 .cam4.jp
 .cam4.sg
 .camaleonjuguetes.cl
-.camdough.com
 .cameleo.ru
 .cameraboys.com
 .camfrog.com
@@ -45175,7 +45174,6 @@ voice.telephony.goog
 .ceec.cf
 .cef.jkocname.com
 .celavi.ch
-.celebjihad.com
 .celebritymovieblog.com
 .celebsplay.com
 .celestrak.com
@@ -46356,7 +46354,6 @@ voice.telephony.goog
 .ddns.me.uk
 .ddns.mobi
 .ddns.ms
-.ddns.name
 .ddns.net
 .ddns.us
 .ddnsfree.com
@@ -46625,7 +46622,6 @@ voice.telephony.goog
 .dnsdojo.net
 .dnsdojo.org
 .dnses.alekberg.net
-.dnset.com
 .dnsforge.de
 .dnsfre.xyz
 .dnsfree.xyz
@@ -46646,7 +46642,6 @@ voice.telephony.goog
 .dnstool.xyz
 .dnsweb.xyz
 .dnswho.xyz
-.dnvod.tv
 .do-essential-oils.com
 .do25.gq
 .doc.ivy2.nu
@@ -46893,6 +46888,7 @@ voice.telephony.goog
 .dx7711.com
 .dx7722.com
 .dxiong.com
+.dy.ddns.name
 .dy606.com
 .dy9910.com
 .dy9950.com
@@ -47016,7 +47012,6 @@ voice.telephony.goog
 .ecojur.com
 .ecojurconsulting.ro
 .ecomapas.cl
-.ecommtools.com
 .econ.st
 .economist.com
 .ecrans.fr
@@ -47250,7 +47245,6 @@ voice.telephony.goog
 .equestfood.com
 .equinenow.com
 .er-webs.com
-.erabaru.net
 .eracom.com.tw
 .eraysoft.com.tr
 .erenta.ru
@@ -47647,7 +47641,6 @@ voice.telephony.goog
 .federalres.com
 .feebee.com.tw
 .feed43.com
-.feedblitz.com
 .feedburner.com
 .feeder.co
 .feeder.com
@@ -47727,7 +47720,6 @@ voice.telephony.goog
 .filesend.jp
 .fileserve.com
 .filesor.com
-.filestube.com
 .filezilla.com
 .filglobe.com
 .fillthesquare.org
@@ -47812,7 +47804,6 @@ voice.telephony.goog
 .fling.com
 .flipboard.com
 .flipkart.com
-.flirt4free.com
 .flitto.com
 .fljsq.cn
 .fll.cc
@@ -48022,7 +48013,6 @@ voice.telephony.goog
 .freeproxy.cz
 .freeproxy.it
 .freeproxy.net
-.freeproxy.ro
 .freeproxylists.net
 .freeproxyserver.net
 .freepst.com
@@ -48333,7 +48323,6 @@ voice.telephony.goog
 .game.kwm.com
 .game.ky195.com
 .game321.com
-.game3737.com
 .game735.com
 .gamebase.com.tw
 .gamebreak.com
@@ -48539,7 +48528,6 @@ voice.telephony.goog
 .gethotspotshield.com
 .geti2p.net
 .getipintel.net
-.getiton.com
 .getjetso.com
 .getlantern.cn
 .getlantern.com
@@ -48868,6 +48856,7 @@ voice.telephony.goog
 .greatroc.org
 .greatroc.tw
 .greatzhonghua.org
+.gree.ddns.name
 .green960.com
 .greenbed.com
 .greenfieldbookstore.com.hk
@@ -49242,6 +49231,7 @@ voice.telephony.goog
 .hellotxt.com
 .hellouk.org
 .hellovpn.app
+.help.linksalpha.com
 .help.primeminddigital.com
 .helpcn.fun315.com
 .helpcn.fun727.com
@@ -50170,7 +50160,6 @@ voice.telephony.goog
 .internepedia.tk
 .internet.org
 .internetarchive.org
-.internetdefenseleague.org
 .internetfreedom.org
 .internetmerdeka.org
 .internetpopculture.com
@@ -50199,6 +50188,7 @@ voice.telephony.goog
 .io.io
 .ioasgo.com.ar
 .ionic.cf
+.ios.gd.ddns.name
 .iownyour.biz
 .iownyour.org
 .ioxoxi.club
@@ -50765,7 +50755,6 @@ voice.telephony.goog
 .joyclub.de
 .joymii.com
 .joymiihub.com
-.joyourself.com
 .joys999.com
 .jp-sex.com
 .jp.hao123.com
@@ -51199,7 +51188,6 @@ voice.telephony.goog
 .kucoin.com
 .kuese.com
 .kugadai.com
-.kugo.cc
 .kui.name
 .kujsq.com
 .kuki.idv.tw
@@ -51616,7 +51604,6 @@ voice.telephony.goog
 .linkideo.com
 .linkmetube.com
 .links.org.au
-.linksalpha.com
 .linksysinfo.org
 .linkuswell.com
 .linode.com
@@ -51668,7 +51655,6 @@ voice.telephony.goog
 .livecoin.net
 .livedoor.jp
 .livefilestore.com
-.livejasmin.com
 .liveleak.com
 .livemint.com
 .liveperson.com
@@ -52297,7 +52283,6 @@ voice.telephony.goog
 .mediere-oradea.ro
 .medium.com
 .medley.com
-.meebo.com
 .meetav.com
 .meetchat.club
 .meeting.yunghsuan.me
@@ -52564,7 +52549,6 @@ voice.telephony.goog
 .mm366.net
 .mm831.com
 .mm94168.com
-.mmaaxx.com
 .mmacademyedu.com
 .mmgal.com
 .mmk.dyn.mk
@@ -53002,6 +52986,7 @@ voice.telephony.goog
 .n888qq.com
 .n8photos.com
 .n9919.com
+.na.ddns.name
 .na.kalone.net
 .naacoalition.org
 .nabble.com
@@ -54010,8 +53995,6 @@ voice.telephony.goog
 .paganwiccan.about.com
 .page.freett.com
 .page.link
-.page.tl
-.page2rss.com
 .pages.dev
 .pagesjaunes.fr
 .pagodabox.com
@@ -55098,7 +55081,6 @@ voice.telephony.goog
 .redimec.com.ar
 .redir.fd.f-secure.com
 .redirect.networkbench.com
-.redlightcenter.com
 .redmaplenews.com
 .redtube.com
 .redtube.com.br
@@ -55654,7 +55636,6 @@ voice.telephony.goog
 .seedpeer.me
 .seehua.com
 .seeineed.top
-.seekbang.com
 .seeshijie.com
 .seesmic.com
 .seevpn.com
@@ -55757,7 +55738,6 @@ voice.telephony.goog
 .sextubepromo.com
 .sextvx.com
 .sexu.com
-.sexuhot.com
 .sexxxy.biz
 .sexy-lingerie.ws
 .sexy-word.com
@@ -56907,6 +56887,7 @@ voice.telephony.goog
 .tbrc.org
 .tbs-rainbow.org
 .tbsec.org
+.tbskkinabalu.page.tl
 .tbsmalaysia.org
 .tbsn.org
 .tbsseattle.org
@@ -56942,7 +56923,6 @@ voice.telephony.goog
 .techglue.me
 .technews.tw
 .technik-specials.de
-.technorati.com
 .techrepublic.com
 .techsmith.com
 .techspot.com
@@ -57488,7 +57468,6 @@ voice.telephony.goog
 .topshareware.com
 .topshop.al
 .topshop.sk
-.topsy.com
 .toptip.ca
 .toptoon.net
 .topukvpn.com
@@ -57831,13 +57810,11 @@ voice.telephony.goog
 .tweepmag.com
 .tweepml.org
 .tweetbackup.com
-.tweetboard.com
 .tweetboner.biz
 .tweetcs.com
 .tweetdeck.com
 .tweetedtimes.com
 .tweetmarker.net
-.tweetmeme.com
 .tweetmylast.fm
 .tweetphoto.com
 .tweetrans.com
@@ -58611,7 +58588,6 @@ voice.telephony.goog
 .vox-cdn.com
 .voxer.com
 .voy.com
-.voyeurhit.com
 .vozvos.com
 .vp.hkwesi1.xyz
 .vpn-accounts.com
@@ -60969,6 +60945,7 @@ voice.telephony.goog
 .www.epistar.com.tw
 .www.epochtimes.com.tw
 .www.epochtimes.com.ua
+.www.erabaru.net
 .www.eraysecure.com.tw
 .www.eric21.com
 .www.ericjoung.idv.tw
@@ -61987,6 +61964,7 @@ voice.telephony.goog
 .www.lingq.com
 .www.lining888.com
 .www.linkingbooks.com.tw
+.www.linksalpha.com
 .www.listsofproxy.com
 .www.listvpn.net
 .www.litebit.eu
@@ -63991,7 +63969,6 @@ voice.telephony.goog
 .xlfmcity.com
 .xlfmtalk.com
 .xlfmwz.info
-.xlovecam.com
 .xm.com
 .xmaduras.com
 .xmasxtv.com
@@ -64039,7 +64016,6 @@ voice.telephony.goog
 .xp303.com
 .xp9365.com
 .xpdo.net
-.xpeeps.com
 .xpgbj.com
 .xpintl.com
 .xpj000999.com
@@ -64785,14 +64761,14 @@ voice.telephony.goog
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-08 02:10:19
+# UPDATED: 2023-02-10 02:10:09
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24699
+# DOMAIN-SUFFIX: 24677
 # IP-CIDR: 88
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24836
+# TOTAL: 24814
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -64926,14 +64902,14 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-02 14:50:12
-# DOMAIN: 177
+# UPDATED: 2023-02-10 02:09:42
+# DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37756
+# DOMAIN-SUFFIX: 37760
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38127
+# TOTAL: 38132
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
