@@ -1,4 +1,4 @@
-<html>根据我们的服务条款，已屏蔽具有该内容的文件，请点击<a href="https://github.com/7ednet/yard/discussions/5">此页面</a>查看详情，建议您<a href="https://github.com/hunshcn/gh-proxy" target="_blank">自建加速</a>。</html># NAME: Privacy
+# NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-02-15 23:43:25
@@ -14893,7 +14893,22 @@ zgsdk.zhugeio.com
 .zz.bdstatic.com
 .zzaoea.costacrociere.it
 .zzsqqx.shopjapan.co.jp
-# NAME: AdGuardSDNSFilter
+# NAME: Privacy
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-02-15 23:43:25
+# DOMAIN: 14
+# DOMAIN-SUFFIX: 14873
+# IP-CIDR: 7
+# TOTAL: 14894
+IP-CIDR,0.0.0.1/32,no-resolve
+IP-CIDR,185.165.169.108/32,no-resolve
+IP-CIDR,185.193.38.148/32,no-resolve
+IP-CIDR,35.194.26.233/32,no-resolve
+IP-CIDR,35.239.57.233/32,no-resolve
+IP-CIDR,45.32.105.134/32,no-resolve
+IP-CIDR,77.162.125.199/32,no-resolve
+<html>根据我们的服务条款，已屏蔽具有该内容的文件，请点击<a href="https://github.com/7ednet/yard/discussions/5">此页面</a>查看详情，建议您<a href="https://github.com/hunshcn/gh-proxy" target="_blank">自建加速</a>。</html># NAME: AdGuardSDNSFilter
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-02-15 23:46:50
@@ -62721,18 +62736,3 @@ zzyl.mobi
 zzyytt.top
 zzzhuoxiaqu.online
 zzznews.ru
-# NAME: Privacy
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:43:25
-# DOMAIN: 14
-# DOMAIN-SUFFIX: 14873
-# IP-CIDR: 7
-# TOTAL: 14894
-IP-CIDR,0.0.0.1/32,no-resolve
-IP-CIDR,185.165.169.108/32,no-resolve
-IP-CIDR,185.193.38.148/32,no-resolve
-IP-CIDR,35.194.26.233/32,no-resolve
-IP-CIDR,35.239.57.233/32,no-resolve
-IP-CIDR,45.32.105.134/32,no-resolve
-IP-CIDR,77.162.125.199/32,no-resolve
