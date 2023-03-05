@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-04 02:14:26
+# UPDATED: 2023-03-06 02:16:39
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37956
+# DOMAIN-SUFFIX: 37960
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38328
+# TOTAL: 38332
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -27166,14 +27166,14 @@ voice.telephony.goog
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-04 02:14:26
+# UPDATED: 2023-03-06 02:16:39
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37956
+# DOMAIN-SUFFIX: 37960
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38328
+# TOTAL: 38332
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -27777,6 +27777,7 @@ www-cdn.icloud.com.akadns.net
 .1565vip.com
 .1565yh.com
 .1572644.com
+.159i.com
 .15avav.xyz
 .16.net
 .1605999.com
@@ -30211,6 +30212,7 @@ www-cdn.icloud.com.akadns.net
 .abema.io
 .abema.tv
 .abercrombie.com
+.abigass.com
 .ablwang.com
 .aboluowang.com
 .about.me
@@ -41333,6 +41335,7 @@ www-cdn.icloud.com.akadns.net
 .globalvpn.net
 .globeandmail.com
 .glock.com
+.gloporn.com
 .gloria.tv
 .gloryhole.com
 .gloryholefucking.com
@@ -47484,6 +47487,7 @@ www-cdn.icloud.com.akadns.net
 .micro.blog
 .microbit.org
 .microcycas.com
+.microsoft-falcon.io
 .microsoft-give.com
 .microsoft-int.com
 .microsoft-ppe.com
@@ -47509,6 +47513,7 @@ www-cdn.icloud.com.akadns.net
 .microsoftadvertising.com
 .microsoftadvertisingregionalawards.com
 .microsoftaffiliates.com
+.microsoftapp.net
 .microsoftazurestatus.cn
 .microsoftcloud.com
 .microsoftcloudsummit.com
@@ -48297,7 +48302,6 @@ www-cdn.icloud.com.akadns.net
 .msunlimitedcloudsummit.com
 .mswe1.org
 .mszdld.cn
-.mt-ssul1.com
 .mtanos.com
 .mtao.fun
 .mthruf.com
@@ -50844,6 +50848,7 @@ www-cdn.icloud.com.akadns.net
 .perfectnaked.com
 .perfectsexnow.com
 .perfectshemales.com
+.perfecttitspics.com
 .perfectvpn.net
 .perfekt.us
 .perfektegirls.com
@@ -51335,7 +51340,6 @@ www-cdn.icloud.com.akadns.net
 .pornadoo.com
 .pornaf.com
 .pornaffected.com
-.pornagent.xyz
 .pornaroma.com
 .pornav.co
 .pornaxo.com
@@ -53913,6 +53917,7 @@ www-cdn.icloud.com.akadns.net
 .shenzhoufilm.com
 .shenzhouzhengdao.org
 .shequ8.cam
+.shequdaohang.com
 .sherabgyaltsen.com
 .sherig.org
 .shesfreaky.com
@@ -57358,6 +57363,7 @@ www-cdn.icloud.com.akadns.net
 .uoutside.org
 .up.gcp.googlers.com
 .up.live
+.up01.cc
 .updatestar.com
 .updatetube.com
 .upghsbc.com
@@ -63714,7 +63720,6 @@ www-cdn.icloud.com.akadns.net
 .xbabe.com
 .xbahis33.com
 .xbahis44.com
-.xbahis55.com
 .xbbxtv.com
 .xbeegtube.com
 .xbef.com
@@ -64210,7 +64215,6 @@ www-cdn.icloud.com.akadns.net
 .xw188.com
 .xw66.cc
 .xwall.io
-.xwebporn.com
 .xx-book.com
 .xx-book.xyz
 .xx-map.com
