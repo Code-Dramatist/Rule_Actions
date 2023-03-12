@@ -60839,11 +60839,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-12 02:08:35
+# UPDATED: 2023-03-13 02:08:17
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14923
+# DOMAIN-SUFFIX: 14924
 # IP-CIDR: 7
-# TOTAL: 14944
+# TOTAL: 14945
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
@@ -72675,6 +72675,7 @@ zgsdk.zhugeio.com
 .stats.reisemobil.pro
 .stats.remotebear.io
 .stats.revit-content.com
+.stats.rocketbeans.tv
 .stats.rocketvalidator.com
 .stats.russellstover.com
 .stats.sa-as.com
@@ -75784,11 +75785,11 @@ zgsdk.zhugeio.com
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-12 02:08:35
+# UPDATED: 2023-03-13 02:08:17
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14923
+# DOMAIN-SUFFIX: 14924
 # IP-CIDR: 7
-# TOTAL: 14944
+# TOTAL: 14945
 IP-CIDR,0.0.0.1/32,no-resolve
 IP-CIDR,185.165.169.108/32,no-resolve
 IP-CIDR,185.193.38.148/32,no-resolve
