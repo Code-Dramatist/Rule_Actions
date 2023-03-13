@@ -142,14 +142,14 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-12 02:14:14
+# UPDATED: 2023-03-14 02:15:20
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37963
+# DOMAIN-SUFFIX: 37973
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38335
+# TOTAL: 38345
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -26169,14 +26169,14 @@ voice.telephony.goog
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-13 02:14:52
+# UPDATED: 2023-03-14 02:15:19
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37963
+# DOMAIN-SUFFIX: 37973
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 38335
+# TOTAL: 38345
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -27688,6 +27688,7 @@ www-cdn.icloud.com.akadns.net
 .44555989.com
 .4455599.com
 .4456456.com
+.445jun.com
 .4477989.com
 .4480sp.com
 .4488buyu.com
@@ -27863,6 +27864,7 @@ www-cdn.icloud.com.akadns.net
 .5200vvv.com
 .5208bb.com
 .520aa.tv
+.520avtv.com
 .520cc.cc
 .520cc.me
 .520ccc.cc
@@ -27883,6 +27885,9 @@ www-cdn.icloud.com.akadns.net
 .5288364.com
 .5288js.com
 .5299.tv
+.52av.be
+.52av.com
+.52av.one
 .52fuliji.cc
 .52hy11.com
 .52hyse.com
@@ -31122,6 +31127,7 @@ www-cdn.icloud.com.akadns.net
 .avple.tv
 .avq.52avq.cc
 .avqtv.com
+.avriri.top
 .avsee01.tv
 .avsee04.tv
 .avseesee.com
@@ -33694,6 +33700,7 @@ www-cdn.icloud.com.akadns.net
 .cabet840.com
 .cabet931.com
 .cableav.tv
+.cableav.xyz
 .cablegatesearch.net
 .cabletvdirectv.com
 .cache.wdcdn.net
@@ -41862,6 +41869,7 @@ www-cdn.icloud.com.akadns.net
 .hong.com
 .hongkong-s02-i02.cg-dialup.net
 .hongkong.nhtglobal.com
+.hongkongdoll.tv
 .hongkongfp.com
 .hongkongfp.org
 .honglinzhang.com
@@ -43636,6 +43644,7 @@ www-cdn.icloud.com.akadns.net
 .jav18.cc
 .jav18.xyz
 .jav19.com
+.jav223.com
 .jav24.com
 .jav2be.com
 .jav321.com
@@ -63867,6 +63876,7 @@ www-cdn.icloud.com.akadns.net
 .ysku.in
 .ysmall.yitabangs.com
 .ysporn.com
+.yswet.com
 .yt.be
 .yt1s.com
 .ytchannelembed.com
