@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-25 02:14:38
+# UPDATED: 2023-03-26 02:12:58
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 38105
+# DOMAIN-SUFFIX: 38109
 # IP-CIDR: 106
 # IP-CIDR6: 4
-# USER-AGENT: 45
-# TOTAL: 38477
+# USER-AGENT: 46
+# TOTAL: 38482
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -5382,6 +5382,7 @@ www-cdn.icloud.com.akadns.net
 .baterias-hp.com
 .batsa.me
 .battle.gtasia777.com
+.battle.net
 .battle1.gtasia777.com
 .battlebreakers.com
 .battlefield.com
@@ -5396,6 +5397,7 @@ www-cdn.icloud.com.akadns.net
 .battlefront2.com
 .battlefrontii.com
 .battlelog.com
+.battlenet.com
 .bawimydzieci.pl
 .baxsound.com
 .baxyy.com
@@ -6337,6 +6339,7 @@ www-cdn.icloud.com.akadns.net
 .blip.tv
 .bliporn.com
 .blizzard.cn
+.blizzard.com
 .blizzardgames.cn
 .blizzardgearstore.com
 .blm1.app
@@ -9912,6 +9915,7 @@ www-cdn.icloud.com.akadns.net
 .dev-theguardian.com
 .devcon.org
 .developer-advisor.com
+.developer.allizom.org
 .developerlibrary.com
 .developria.com
 .deviantart.com
@@ -38295,16 +38299,16 @@ www-cdn.icloud.com.akadns.net
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-12 02:14:44
+# UPDATED: 2023-03-26 02:13:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 24
-# DOMAIN-SUFFIX: 1085
+# DOMAIN-SUFFIX: 1086
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2118
+# TOTAL: 2119
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -39313,14 +39317,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-25 02:14:38
+# UPDATED: 2023-03-26 02:12:58
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 38105
+# DOMAIN-SUFFIX: 38109
 # IP-CIDR: 106
 # IP-CIDR6: 4
-# USER-AGENT: 45
-# TOTAL: 38477
+# USER-AGENT: 46
+# TOTAL: 38482
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -39405,6 +39409,7 @@ USER-AGENT,TikTok*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
 USER-AGENT,com.apple.trustd*
+USER-AGENT,hearthstone*
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
@@ -39518,14 +39523,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-22 02:18:07
+# UPDATED: 2023-03-26 02:13:24
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24651
+# DOMAIN-SUFFIX: 24654
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# USER-AGENT: 8
-# TOTAL: 24788
+# USER-AGENT: 9
+# TOTAL: 24792
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -43267,7 +43272,9 @@ voice.telephony.goog
 .bastillepost.com
 .bat.me
 .battle.gtasia777.com
+.battle.net
 .battle1.gtasia777.com
+.battlenet.com
 .bawimydzieci.pl
 .baxyy.com
 .bayescapital.com
@@ -43672,6 +43679,7 @@ voice.telephony.goog
 .blinkx.com
 .blinw.com
 .blip.tv
+.blizzard.com
 .blm1.app
 .blm2.app
 .blm234.net
@@ -64187,16 +64195,16 @@ voice.telephony.goog
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-12 02:14:44
+# UPDATED: 2023-03-26 02:13:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 28
 # DOMAIN-KEYWORD: 24
-# DOMAIN-SUFFIX: 1085
+# DOMAIN-SUFFIX: 1086
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # URL-REGEX: 1
 # USER-AGENT: 56
-# TOTAL: 2118
+# TOTAL: 2119
 api.okzy.tv
 apm-misaka.biliapi.net
 apple.comscoreresearch.com
@@ -64387,6 +64395,7 @@ uts-api.itunes.apple.com
 .daznedge.net
 .daznfeeds.com
 .daznservices.com
+.dc1-lm-live2dazn.secure.footprint.net
 .dc2-vodhls-perform.secure.footprint.net
 .dca-ll-livedazn-dznlivejp.s.llnwi.net
 .dca-ll-voddazn-dznvodjp.s.llnwi.net
@@ -65313,14 +65322,14 @@ uts-api.itunes.apple.com
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-22 02:18:07
+# UPDATED: 2023-03-26 02:13:24
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24651
+# DOMAIN-SUFFIX: 24654
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# USER-AGENT: 8
-# TOTAL: 24788
+# USER-AGENT: 9
+# TOTAL: 24792
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
@@ -65360,6 +65369,7 @@ USER-AGENT,TikTok*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
 USER-AGENT,com.apple.trustd*
+USER-AGENT,hearthstone*
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
