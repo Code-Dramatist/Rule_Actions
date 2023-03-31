@@ -1,35 +1,46 @@
 import os
-File_Path = ["Direct_Rule","Proxy_Rule","Reject_Rule"]
 
-def file_remove_same(input_file, output_file):
+# 文件夹列表
+file_paths = ["Direct_Rule", "Proxy_Rule", "Reject_Rule"]
+
+
+def merge_files(path):
     """
-        针对小文件去重
+    将文件夹中的所有文件内容合并到一个文件中
+    :param path: 文件夹路径
+    :return: 合并后的文件路径
+    """
+    merged_file_path = f"{path}/{os.path.basename(path)}_merged.rule"
+    with open(merged_file_path, 'w', encoding='utf8') as out_f:
+        for file_name in os.listdir(path):
+            file_path = os.path.join(path, file_name)
+            if os.path.isfile(file_path):
+                with open(file_path, 'r', encoding='utf8') as in_f:
+                    lines = [line.strip() for line in in_f.readlines() if not line.startswith("#")]
+                    out_f.write('\n'.join(lines) + '\n')
+    return merged_file_path
+
+
+def deduplicate_file(input_file, output_file):
+    """
+    针对小文件去重
     :param input_file: 输入文件
-    :param out_file: 去重后出文件
+    :param output_file: 去重后输出文件
     :return:
     """
-    with open(input_file, 'r', encoding='utf8') as f, open(output_file, 'a', encoding='utf8') as ff:
-        data = [item.strip() for item in f.readlines()]  # 针对最后一行没有换行符，与其他它行重复的情况
-        new_data = list(set(data))
-        ff.writelines([item + '\n' for item in new_data if item])  # 针对去除文件中有多行空行的情况
+    with open(input_file, 'r', encoding='utf8') as in_f, open(output_file, 'w', encoding='utf8') as out_f:
+        data = set(line.strip() for line in in_f.readlines())
+        out_f.writelines(line + '\n' for line in sorted(data) if line.strip())
 
+if __name__ == '__main__':
+    for path in file_paths:
+        # 创建文件夹，如果文件夹不存在
+        if not os.path.exists(path):
+            os.makedirs(path)
+            print(f"创建目录 {path} 成功")
 
-for Path in File_Path:
-    if not os.path.exists(Path):
-        os.system(r"touch {}".format(Path))
-        print("创建目录{}成功".format(Path))
-    try:
-        os.remove("./"+Path+"/"+Path+".rule")
-        os.remove("./"+Path+"/"+Path+".rule")
-        print("旧规则移除成功")
-    except FileNotFoundError:
-        print("无旧规则")
-    file_name = os.listdir("./"+Path)
-    for file in file_name:
-        f = open("./"+Path+"/"+file).read()
-        f_merge = open("./"+Path+"/"+Path+"_pre.rule","a+")
-        f_merge.write(f)
-    f_merge.close()
-    file_remove_same("./"+Path+"/"+Path+"_pre.rule","./"+Path+"/"+Path+".rule")    
+        # 合并文件
+        merged_file_path = merge_files(path)
 
-
+        # 去重
+        deduplicate_file(merged_file_path, f"{path}/{os.path.basename(path)}.rule")
