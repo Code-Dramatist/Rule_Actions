@@ -1,8 +1,8 @@
 import os
+import io
 import shutil
 import time
-from urllib.request import proxy_bypass
-import requests
+from urllib.request import requests
 
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
 REJECT_RULES = {
@@ -20,8 +20,7 @@ PROXY_RULES = {
     "Proxy_Domain": RULE_URL + "Proxy/Proxy_Domain.list"
 }
 DIRECT_RULES = {
-    "ChinaMax": RULE_URL + "ChinaMax/ChinaMax.list",
-    "ChinaMax_Domain": RULE_URL + "ChinaMax/ChinaMax_Domain.list",
+    "ChinaMax": RULE_URL + "ChinaMax/ChinaMax.list"
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
@@ -36,8 +35,9 @@ def load_file(rules_dict, file_dir):
     for key in rules_dict:
         response = requests.get(rules_dict[key], headers=HEADER)
         if response.status_code == 200:
-            with open(f"./{file_dir}/{key}.list", "w") as f:
-                f.write(response.text)
+            with open(f"./{file_dir}/{key}.list", "wb") as f:
+                with response, io.BytesIO(response.content) as stream:
+                    shutil.copyfileobj(stream, f)
             time.sleep(1)
 
 def remove():
@@ -47,7 +47,7 @@ def remove():
     shutil.rmtree("Reject_Rule")
     shutil.rmtree("Proxy_Rule")
     shutil.rmtree("Direct_Rule")
-    print("文件均移除")
+    print("移除所有文件夹")
 
 if __name__ == '__main__':
     remove()

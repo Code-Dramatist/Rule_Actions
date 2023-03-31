@@ -10,11 +10,11 @@ on:
   
 # Controls when the workflow will run
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  pull_request:
-    branches: [ "main" ]
+pull_request:
+  branches: [ "main" ]
   
-  repository_dispatch:
-    types: [bot_trigger]
+repository_dispatch:
+  types: [bot_trigger]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -30,7 +30,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
+      - name: Print current directory
+        run: |
+          pwd
       # Runs a single command using the runners shell
       - name: "拉取"
         #run: for f in Script/*.py; do python "$f"; done
