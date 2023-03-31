@@ -6,8 +6,8 @@ import requests
 
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
 REJECT_RULES = {
-    "anti-ad-surge2": "https://raw.githubusercontents.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt",
-    "AdGuardSDNSFilter_Domain": RULE_URL + "AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list",
+    "Advertising": RULE_URL + "Advertising/Advertising.list",
+    "Advertising_Domain": RULE_URL + "Advertising/Advertising_Domain.list",
     "Privacy": RULE_URL + "Privacy/Privacy.list",
     "Privacy_Domain": RULE_URL + "Privacy/Privacy_Domain.list"
 }
@@ -20,7 +20,8 @@ PROXY_RULES = {
     "Proxy_Domain": RULE_URL + "Proxy/Proxy_Domain.list"
 }
 DIRECT_RULES = {
-    "ChinaMax": RULE_URL + "ChinaMax/ChinaMax.list"
+    "ChinaMax": RULE_URL + "ChinaMax/ChinaMax.list",
+    "ChinaMax_Domain": RULE_URL + "ChinaMax/ChinaMax_Domain.list"
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
