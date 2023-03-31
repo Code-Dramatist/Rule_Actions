@@ -2,7 +2,7 @@ import os
 import io
 import shutil
 import time
-from urllib.request import requests
+import requests
 
 RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/"
 REJECT_RULES = {
